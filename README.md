@@ -4,4 +4,12 @@ Bienvenidos a este pequeño espacio de traducciones sencillas hechas a mano por 
 
 # ¿Qué encontrarán en este lugar?
 
-No mucho la verdad, solo archivos de traducción.
+No mucho la verdad, solo archivos de traducción de algunos animes que he trabajado durante los ultimos 2-3 años. Especificamente, animes basados en las obras de Nisioisin y del estudio Shaft.
+
+# ¿Por qué solo subtitulos?
+
+Porque no tengo ni los recursos ni el tiempo para darle de lleno a esto (además de la cuestión de copyright). Originalmente empecé en epoca de pandemia con 0 conocimiento en Aegisub, asi que traducir fue lo más facil de hacer y de mantenerme ocupado (además que empecé con traducciones Ingles-Español y no Japones-Español como deberia ser).
+
+# ¿Y qué animes has trabajado?
+
+Por el momento he trabajado/traducido lo siguiente:
