@@ -30,15 +30,19 @@ Por el momento, he trabajado/traducido lo siguiente:
   - Kizumonogatari: [_Sin empezar_]
   - Owarimonogatari 2nd Season: [_Sin empezar_]
   - Zoku Owarimonogatari: [_Sin empezar_]
-- **Bishounen Tanteidan**
+- **Bishounen Tanteidan** [_Completado_]
 
 La idea es seguir traduciendo hasta tener un compendio completo de las obras de NisioisiN.
+
+### ¿Qué tan seguido publico las traducciones?
+
+Honestamente, el ritmo es irregular ya que hay obligaciones laborales y a veces no queda mucho tiempo si quiera para estar en el computador. De todas maneras, la idea es ir nutriendo de subtítulos poco a poco hasta completar. Es uno de mis proyectos a largo plazo y como todo lo que he tratado de hacer, siempre trato de terminarlo sin importar cuanto tiempo me lleve.
 
 ### Agradecimientos - Monogatari Series (Audio Comentarios)
 
 Como habia escrito antes, para empezar con las traducciones se empezó a traducir de Ingles a Español (ya que para ese tiempo no conocia lo más mínimo de Japones), pero esto seria imposible de hacer si no fuera porque la comunidad inglesa de Monogatari (especificamente /r/araragi) muy amablemente me permitió trabajar con sus traducciones para empezar. Todo el trabajo original de los subtítulos se debe a las siguientes personas:
 
-- Subtítulos Ingleses
+- **_Subtítulos Ingleses_**
   - Bakemonogatari: Son directos de los BD de Aniplex. Son los unicos audio comentarios que se traducieron oficialmente por parte de los productores del anime.
   - Nisemonogatari: KizuNever y XIG Fansubs
   - Nekomonogatari Kuro: XIG Fansubs
@@ -56,3 +60,7 @@ Como habia escrito antes, para empezar con las traducciones se empezó a traduci
   - Zoku Owarimonogatari: XIG Fansubs y Mirrored Translations
 - Edición & Typesetting (.ass): ValanL y maxdefolsch
 - Comprobaciones de traducción (Ingles): Luukuton
+
+### ¿Contacto?
+
+Me pueden encontrar como kyo2004 en Discord.
