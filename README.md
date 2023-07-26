@@ -67,7 +67,7 @@ Como habia escrito antes, para empezar con las traducciones se empezó a traduci
 - **_Subtítulos Ingleses - Extras_**
   - Traducción Original: Vertical LN
   - Lider del Proyecto: Delta Shizu
-  - QC, Correciones, »sawa«, Polaris, MCSteve
+  - QC, Correcciones: »sawa«, Polaris, MCSteve
 
 ### ¿Contacto?
 
