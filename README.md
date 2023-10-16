@@ -19,7 +19,7 @@ Por el momento, he trabajado/traducido lo siguiente:
   - Nisemonogatari [13/13] (_Completado_)
   - Nekomonogatari Kuro [04/04] (_Completado_)
   - Nekomonogatari Shiro [05/05] (_Completado_)
-  - Kabukimonogatari: [_02/04_] (_En Progreso_)
+  - Kabukimonogatari: [_03/04_] (_En Progreso_)
   - Otorimonogatari: [_Sin empezar_]
   - Onimonogatari: [_Sin empezar_]
   - Koimonogatari: [_Sin empezar_]
