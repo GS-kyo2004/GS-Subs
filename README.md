@@ -35,7 +35,7 @@ Por el momento, he trabajado/traducido lo siguiente:
   - 061 - Hanekawa's Letter (Extras Nekomonogatari Shiro BD) [_Completado_]
 - **Bishounen Tanteidan**
   - Web-DL: [_Completado_]
-  - BD: [_04/12_]
+  - BD: [_04/12_] (_En Stand by_)
 
 
 La idea es seguir traduciendo hasta tener un compendio completo de las obras de NisioisiN.
