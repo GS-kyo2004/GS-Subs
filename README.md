@@ -33,7 +33,9 @@ Por el momento, he trabajado/traducido lo siguiente:
 - **Monogatari Series Extras**
   - 001 - Tsubasa Monologue (Extras Nekomonogatari Shiro BD) [_Completado_]
   - 061 - Hanekawa's Letter (Extras Nekomonogatari Shiro BD) [_Completado_]
-- **Bishounen Tanteidan** [_Completado_]
+- **Bishounen Tanteidan**
+  - Web-DL: [_Completado_]
+  - BD: [_04/12_]
 
 
 La idea es seguir traduciendo hasta tener un compendio completo de las obras de NisioisiN.
