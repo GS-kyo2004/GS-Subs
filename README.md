@@ -20,10 +20,10 @@ Por el momento, he trabajado/traducido lo siguiente:
   - Nekomonogatari Kuro [04/04] (_Completado_)
   - Nekomonogatari Shiro [05/05] (_Completado_)
   - Kabukimonogatari: [_03/04_] (_En Progreso_)
+  - Hanamonogatari: [_Sin empezar_]
   - Otorimonogatari: [_Sin empezar_]
   - Onimonogatari: [_Sin empezar_]
   - Koimonogatari: [_Sin empezar_]
-  - Hanamonogatari: [_Sin empezar_]
   - Tsukimonogatari: [_Sin empezar_]
   - Owarimonogatari: [_Sin empezar_]
   - Koyomimonogatari: [_Sin empezar_]
