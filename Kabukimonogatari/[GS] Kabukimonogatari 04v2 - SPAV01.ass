@@ -11,13 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../Monogatari Series - kyo2004 Ed/06. Kabukimonogatari/Kabukimonogatari - 03 - Mayoi Jiangshi - Part 3.mkv
-Video File: ../../../Monogatari Series - kyo2004 Ed/06. Kabukimonogatari/Kabukimonogatari - 03 - Mayoi Jiangshi - Part 3.mkv
+Audio File: ../../../Monogatari Series - kyo2004 Ed/06. Kabukimonogatari/Kabukimonogatari - 04 - Mayoi Jiangshi - Part 4.mkv
+Video File: ../../../Monogatari Series - kyo2004 Ed/06. Kabukimonogatari/Kabukimonogatari - 04 - Mayoi Jiangshi - Part 4.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 24
-Video Position: 34598
+Scroll Position: 663
+Active Line: 680
+Video Position: 37529
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1399,612 +1400,689 @@ $7^I>7ZH98*V<7RB>81'5G&D>82F"H*B9X6U:1R39W^N<7&B9W.F<H1-=G.P<7VB97.D:7ZU"F*D98*P
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.46,0:00:05.14,Mayoi,,0,0,0,,Para todas las 200 personas sobrevicool que se estiman en la Tierra, !Saludos Conserjes!{To all of Earth's estimated \N200 survivorcool people, concierge!}{全地球推定２００人くらいの生き残りカッケー皆さん　コンシェルジュ！}
-Dialogue: 0,0:00:05.14,0:00:06.87,Hanekawa,,0,0,0,,¿Conserjes? ¡Eso es tan adulto!{Concierge? That's so adult-like!}
-Dialogue: 0,0:00:06.87,0:00:11.82,Mayoi,,0,0,0,,Gracias por comprar {\i1}Kabukimonogatari{\i0} Anime: Blu-ray o DVD Volumen 2.{Thank you for buying Kabukimonogatari \NAnime Blu-ray or DVD Volume 2.}
-Dialogue: 0,0:00:11.82,0:00:14.42,Mayoi,,0,0,0,,Estaré a cargo de las pistas de comentarios de este volumen.{I'll be in charge of this \Nvolume's commentary tracks.}
-Dialogue: 0,0:00:14.57,0:00:16.07,Mayoi,,0,0,0,,Soy yo, Hachikuji Mayoi...{It's me, Hachikuji Mayoi...}
-Dialogue: 0,0:00:16.07,0:00:18.58,Mayoi,,0,0,0,,...ahora conocida como ¡21-kuji Mayoi-oneesan!{...now known as 21-kuji Mayoi-oneesan!}
-Dialogue: 0,0:00:18.58,0:00:19.75,Hanekawa,,0,0,0,,¿21-kuji?{21-kuji?}
-Dialogue: 0,0:00:19.75,0:00:20.92,Mayoi,,0,0,0,,Ya que tengo 21 años.{Because I'm 21 years old.}
-Dialogue: 0,0:00:20.92,0:00:24.46,Hanekawa,,0,0,0,,Eso significa que tenías 8 años hace 11 años.{That would mean you \Nwere 8 years old 11 years ago.}
-Dialogue: 0,0:00:20.92,0:00:24.46,CommentaryHalf,,0,0,0,,{\pos(1015,990)}(hachi){Eso significa que tenías 8 (hachi) años hace 11 años.}{That would mean you were 8 (hachi) years old 11 years ago.}
-Dialogue: 0,0:00:24.46,0:00:26.63,Mayoi,,0,0,0,,No te preocupes con esas minucias.{Don't bother with such trifles.}
-Dialogue: 0,0:00:26.63,0:00:29.83,Mayoi,x,0,0,0,,De lo contrario, ¡no seremos capaces de pasar por este difícil juego de pistas de comentarios!{Otherwise, we won't be able to get through \Nthis difficult set of commentary tracks!}
-Dialogue: 0,0:00:29.83,0:00:31.48,Hanekawa,,0,0,0,,Espera, por favor.{Wait, please.}
-Dialogue: 0,0:00:31.67,0:00:33.89,Hanekawa,,0,0,0,,Sobre eso, hay algo que quiero decir.{About that, there's something I wish to say.}
-Dialogue: 0,0:00:33.89,0:00:34.79,Mayoi,,0,0,0,,¡Es el Opening!{Opening theme!}
-Dialogue: 0,0:00:34.79,0:00:35.83,Hanekawa,,0,0,0,,No me enteré.{I didn't hear about it.}
-Dialogue: 0,0:00:36.54,0:00:38.11,Mayoi,x,0,0,0,,¡{\i1}Happy Bite{\i0}!{Happy Bite!}
-Dialogue: 0,0:00:38.26,0:00:41.31,Mayoi,,0,0,0,,¡Qué nostálgico! ¡Fue hace 11 años cuando canté esta canción!{How nostalgic! It was 11 years ago \Nwhen I sang this song!}
-Dialogue: 0,0:00:41.31,0:00:43.35,Hanekawa,,0,0,0,,Por favor, no digas cosas tan complicadas.{Please don't say such complicated stuff.}
-Dialogue: 0,0:00:43.48,0:00:45.26,Hanekawa,,0,0,0,,Eh, Mayoi-oneesan.{Umm, Mayoi-oneesan.}
-Dialogue: 0,0:00:45.26,0:00:46.60,Mayoi,,0,0,0,,¿Que ocurre, Tsubasa-chan?{What is it, Tsubasa-chan?}
-Dialogue: 0,0:00:46.60,0:00:47.95,Hanekawa,,0,0,0,,No me enteré.{I didn't hear about it.}
-Dialogue: 0,0:00:47.95,0:00:48.64,Mayoi,,0,0,0,,¿De qué?{About what?}
-Dialogue: 0,0:00:48.64,0:00:50.64,Hanekawa,x,0,0,0,,Sobre grabar pistas de comentarios.{About recording commentary tracks.}
-Dialogue: 0,0:00:50.64,0:00:54.31,Hanekawa,,0,0,0,,Vi una notificación sobre una sesión de lectura de un libro ilustrado...{I saw a notice about \Na picture book reading session...}
-Dialogue: 0,0:00:54.31,0:00:56.14,Hanekawa,,0,0,0,,...y por eso vine al estudio.{...which is why I came to the studio.}
-Dialogue: 0,0:00:56.14,0:00:58.06,Mayoi,,0,0,0,,¿Eh? ¿En serio? ¿Estás segura?{Huh? Really? Are you sure?}
-Dialogue: 0,0:00:58.06,0:00:59.78,Hanekawa,,0,0,0,,Te estás haciendo la tonta, ¿no es así?{You're playing dumb, aren't you?}
-Dialogue: 0,0:00:59.78,0:01:02.95,Mayoi,,0,0,0,,¡Cielos! ¿Sera que la información se tergiversó en algún lado?{Oh, man! Did the information \Nget messed up somewhere?}
-Dialogue: 0,0:01:02.95,0:01:06.39,Mayoi,,0,0,0,,Algunas veces pueden pasar cosas que están por fuera del control de cualquiera.{Sometimes, such things that are out \Nof anyone's control can happen.}
-Dialogue: 0,0:01:06.39,0:01:09.62,Hanekawa,,0,0,0,,¿No estás haciendo lo mismo que has hecho desde que eras una niña?{Aren't you doing the same thing you've \Nbeen doing since you were a child?!}
-Dialogue: 0,0:01:09.62,0:01:10.43,Mayoi,,0,0,0,,No, no.
-Dialogue: 0,0:01:10.43,0:01:12.96,Mayoi,,0,0,0,,Esta vez, estoy conversando con un vino en la mano.{I'm chatting with wine in one hand this time.}{ワイン片手に喋ってるところが違うよね}
-Dialogue: 0,0:01:12.96,0:01:14.76,Hanekawa,,0,0,0,,¡Ni siquiera estas sosteniendo una copa de vino!{You aren't even holding onto any wine!}
-Dialogue: 0,0:01:14.85,0:01:17.14,Hanekawa,,0,0,0,,¡Si no te disculpas, me voy!{If you aren't apologizing, I'm leaving!}
-Dialogue: 0,0:01:17.14,0:01:18.51,Mayoi,,0,0,0,,¡No te vayas!{Don't leave!}
-Dialogue: 0,0:01:18.51,0:01:21.18,Mayoi,x,0,0,0,,¡Has sido una persona muy firme desde que tenías 6 años, Tsubasa-chan!{You've been such a solid person \Nsince you were six years old, Tsubasa-chan!}
-Dialogue: 0,0:01:21.18,0:01:22.63,Hanekawa,,0,0,0,,Y eso también.{And that too.}
-Dialogue: 0,0:01:22.63,0:01:25.00,Hanekawa,,0,0,0,,¿Por qué me convocaron como una niña de seis años?{Why was I called here as a 6-year-old?}
-Dialogue: 0,0:01:25.00,0:01:28.73,Hanekawa,x,0,0,0,,Una pista de comentarios hecha por Mayoi-oneesan de 21 años y yo de 6 años...{Commentary tracks by 21-year-old \NMayoi-oneesan and a 6-year-old me...}
-Dialogue: 0,0:01:28.73,0:01:31.51,Hanekawa,,0,0,0,,¿En qué espacio temporal estamos?{Just what spacetime are we in?}
-Dialogue: 0,0:01:28.73,0:01:31.51,CommentaryHalf,,0,0,0,,{\pos(925,990)}(jikuu){¿En qué espacio temporal (jikuu) estamos?}{Just what spacetime (jikuu) are we in?}
-Dialogue: 0,0:01:31.51,0:01:32.45,Mayoi,,0,0,0,,Soy yospacio-temporal.{It's me-spacetime.}
-Dialogue: 0,0:01:32.45,0:01:34.99,Mayoi,,0,0,0,,Es decir, ¡Hachikujikuu!{In other words, Hachikujikuu!}
-Dialogue: 0,0:01:32.45,0:01:34.99,CommentaryHalf,,0,0,0,,{\pos(1060,990)}(Espacio Temporal Hachikuji){Es decir, ¡Hachikujikuu! (Espacio Temporal Hachikuji)}{In other words, Hachikujikuu (Hachikuji spacetime)!}
-Dialogue: 0,0:01:34.99,0:01:38.42,Hanekawa,,0,0,0,,¿Es decir? ¡No digas eso!{In other words? Just don't say it!}
-Dialogue: 0,0:01:38.42,0:01:41.50,Mayoi,,0,0,0,,¿Eh? Si Hachikujikuu no sirve, ¿entonces que espacio temporal quieres? {Huh? If Hachikujikuu won't do, \Nthen what-spacetime do you want?}
-Dialogue: 0,0:01:41.50,0:01:43.45,Hanekawa,,0,0,0,,¡No quiero esta pista de comentarios espacio-temporal!{I don't want this commentary track spacetime!}
-Dialogue: 0,0:01:43.45,0:01:45.52,Hanekawa,,0,0,0,,¡Al menos, llama a mi versión de 18 años!{At least call for my 18-year-old version!}
-Dialogue: 0,0:01:45.52,0:01:48.79,Mayoi,,0,0,0,,Pues, después de todo, las pistas de comentarios tienen una larga historia.{Well, the commentary tracks have \Na long history after all.}
-Dialogue: 0,0:01:48.79,0:01:51.61,Mayoi,,0,0,0,,Se necesita de mucha originalidad.{A lot of originality is needed.}{色々と創意工夫が必要なんだよ}
-Dialogue: 0,0:01:51.61,0:01:56.24,Hanekawa,x,0,0,0,,¿Has olvidado como les fue a los comentarios alternativos AKA la originalidad?{Have you forgotten how the \Nalternative commentaries AKA originality went?}{前に裏音声っていう創意工夫をして大変なことになったのは忘れたんですか？}
-Dialogue: 0,0:01:56.24,0:02:00.26,Hanekawa,,0,0,0,,¡Sera inconsistente conmigo de 6 años y contigo de 21 años en el mismo lugar!{It's going to be inconsistent with me as a 6-year-old \Nand you as a 21-year-old in the same place!}
-Dialogue: 0,0:02:00.26,0:02:02.71,Mayoi,,0,0,0,,Soy adulta, así que entiendo las inconsistencias.{I'm an adult, so I understand inconsistencies.}{お姉さんは大人だから矛盾を呑み込めるの}
-Dialogue: 0,0:02:02.71,0:02:03.65,Mayoi,,0,0,0,,Como el vino.{Just like wine.}
-Dialogue: 0,0:02:03.65,0:02:05.98,Hanekawa,x,0,0,0,,¡Soy una niña, así que no entiendo!{I'm a child, so I don't understand!}
-Dialogue: 0,0:02:06.83,0:02:07.91,Mayoi,,0,0,0,,Nuevamente...{Once again...}
-Dialogue: 0,0:02:07.91,0:02:12.49,Mayoi,,0,0,0,,Para todas las 175 personas sobrevicool que se estiman en la Tierra, !Saludos Conserjes!{To all of Earth's estimated \N175 survivorcool people, concierge!}
-Dialogue: 0,0:02:12.49,0:02:14.69,Hanekawa,,0,0,0,,No es tan interesante la segunda vez.{It isn't that interesting the second time round.}
-Dialogue: 0,0:02:14.69,0:02:15.47,Mayoi,,0,0,0,,¡Qué estricta!{How strict!}
-Dialogue: 0,0:02:15.47,0:02:18.95,Hanekawa,,0,0,0,,Y ahora el número de sobrevivientes estimados ha disminuido comparado con antes. {And the estimated number of survivors \Nhas decreased compared to just now.}
-Dialogue: 0,0:02:18.95,0:02:20.62,Mayoi,,0,0,0,,Si, como si hubieran muerto algunas personas.{Yes, as if some people have died.}
-Dialogue: 0,0:02:20.62,0:02:22.90,Hanekawa,,0,0,0,,¡Es así de estricta tu visión del mundo!{It's your worldview that's strict!}
-Dialogue: 0,0:02:22.90,0:02:23.61,Mayoi,,0,0,0,,No, no.
-Dialogue: 0,0:02:23.61,0:02:26.86,Mayoi,,0,0,0,,Pero esto es 11 años después en la línea temporal donde existes.{But this is 11 years later \Nin the timeline where you exist.}{でもこれは君のいる時間軸の１１後なんだよ}
-Dialogue: 0,0:02:26.86,0:02:29.12,Mayoi,,0,0,0,,Este mundo destruido es tu futuro.{This destroyed world is your future.}
-Dialogue: 0,0:02:29.12,0:02:30.92,Hanekawa,,0,0,0,,Ni una pizca de sueño o esperanza, ¿verdad?{Not a speck of hope or dream, right?}
-Dialogue: 0,0:02:30.92,0:02:35.99,Mayoi,,0,0,0,,Ahora que lo pienso, podrías decir que el mundo fue destruido por una versión del mundo donde estoy viva.{Thinking about it, you could say that the world was destroyed \Nbecause of a worldview where I'm alive.}{考えたら　私が生きている世界観故に　滅んだ世界という言い方もできて}
-Dialogue: 0,0:02:35.99,0:02:39.68,Mayoi,,0,0,0,,Y fue Black Hanekawa quien mató a Araragi Koyomi-kun.{And it was Black Hanekawa \Nwho killed Araragi Koyomi-kun.}{で阿良々木くんを殺したのが　ブラックハネカワなんだから}
-Dialogue: 0,0:02:39.68,0:02:44.74,Mayoi,x,0,0,0,,Así que en cierto sentido, este conjunto de pistas de comentarios esta hecho indirectamente por las dos principales culpables de la destrucción del mundo.{So in a sense, this set of commentary tracks is by two main \Nculprits indirectly responsible for the destruction of the world.}{ある意味世界を滅ぼした　間接的主犯格二名でお送り副音声なんだね}
-Dialogue: 0,0:02:44.74,0:02:46.62,Hanekawa,,0,0,0,,¿Indirectamente por las dos principales culpables...?{Two main culprits indirectly responsible...?}
-Dialogue: 0,0:02:46.62,0:02:50.28,Mayoi,,0,0,0,,¡¿No se siente algo diferente pensarlo de esa manera?!{Doesn't it feel different thinking \Nabout it that way?!}{そう思いながら聞くと味わいがあるんじゃないでしょうか？}
-Dialogue: 0,0:02:50.28,0:02:51.23,Mayoi,,0,0,0,,¡Yay!{Yay!}
-Dialogue: 0,0:02:51.23,0:02:54.77,Hanekawa,,0,0,0,,¡Definitivamente no es tan brillante y alegre como lo haces ver!{It definitely isn't as bright \Nand cheerful as you make it seem to be!}{そんな明るい気分で聞けないでしょう？そう思いながら聞いたら！}
-Dialogue: 0,0:02:54.77,0:02:57.30,Mayoi,,0,0,0,,Las cosas podrían haber sido interesantes \Nsi también hubiéramos llamado a Shinobu-chan.{Things might have been interesting \Nif we called Shinobu-chan too.}
-Dialogue: 0,0:02:57.30,0:03:00.29,Mayoi,,0,0,0,,Una discusión tripartita, o debería decir, una discusión reflexiva.{A tripartite discussion, \Nor should I say, a reflection discussion.}{三者鼎談っていうか　反省座談会みたいになって}
-Dialogue: 0,0:03:00.29,0:03:01.54,Hanekawa,x,0,0,0,,Una discusión pesada.{A heavy discussion.}
-Dialogue: 0,0:03:01.54,0:03:04.52,Mayoi,,0,0,0,,Y así, ¡soy Hachikuji Mayoi-oneesan!{And so, I'm Hachikuji Mayoi-oneesan!}
-Dialogue: 0,0:03:04.52,0:03:05.89,Mayoi,,0,0,0,,¡Encantada de ser tu compañera por la próxima hora!{Pleased to be your partner for the next one hour!}
-Dialogue: 0,0:03:05.89,0:03:08.58,Hanekawa,xxx,0,0,0,,¿Por qué actúas como la Hermana Cantante?{Why are you acting like a Singing Big Sister?}{何でさっきから歌のお姉さん方なんですか？}
-Dialogue: 0,0:03:05.89,0:03:11.12,CommentaryHalf,xxx,0,0,0,,{\an8}NdT: Una referencia a Okaasan to Issho (Junto a Mamá), un programa de TV infantil. Hay personajes como los Hermanos Cantantes y los Hermanos Ejercitadores.{TL: Reference to Okaasan to Issho (Together with Mom), a children's TV program.\NThere are roles like Singing Big Sister/Brother & Calisthenics Big Sister/Brother.}
-Dialogue: 0,0:03:08.58,0:03:11.12,Mayoi,xxx,0,0,0,,¿Eh? Es novedoso. Una Hermana con Una-Copa-de-Vino.{It's novel, eh? A Wine-in-One-Hand Big Sister.}{新しいよね　ワイン片手のお姉さん}
-Dialogue: 0,0:03:11.12,0:03:13.26,Hanekawa,,0,0,0,,Como decía, ¡no estas sosteniendo una copa de vino!{Like I said, you aren't holding any wine!}
-Dialogue: 0,0:03:13.26,0:03:14.75,Mayoi,x,0,0,0,,Una Hermana Que-Sostiene-una-Botella.{A Bottle-Holding Big Sister.}
-Dialogue: 0,0:03:14.75,0:03:17.31,Hanekawa,x,0,0,0,,¡Entonces eres una bebedora! Al menos una copa no estaría tan mal.{Then you're a drinker! \NAt least a glass cup wouldn't be so bad.}{ドリンカーじゃないですか　ガラスならともかく}
-Dialogue: 0,0:03:17.31,0:03:19.64,Mayoi,x,0,0,0,,Tu haces de mascota, ¿verdad, Tsubasa-chan?{You play the mascot character, \Nright, Tsubasa-chan?}
-Dialogue: 0,0:03:19.64,0:03:22.23,Hanekawa,x,0,0,0,,Prefiero ser como uno de los niños.{I prefer to just play as one of the kids.}
-Dialogue: 0,0:03:22.89,0:03:24.26,Mayoi,,0,0,0,,Esto es tan desagradable.{This is so unsightly.}
-Dialogue: 0,0:03:24.26,0:03:25.43,Hanekawa,,0,0,0,,Es desagradable.{It's unsightly.}
-Dialogue: 0,0:03:25.43,0:03:27.10,Mayoi,,0,0,0,,Se cargan las responsabilidades el uno al otro.{They're pushing the responsibility to each other.}{責任押し付け合ってる}
-Dialogue: 0,0:03:27.10,0:03:29.02,Mayoi,,0,0,0,,No creo que deban hacerlo.{I don't think they should be doing that.}{これはお姉さんダメだと思うな}
-Dialogue: 0,0:03:29.32,0:03:32.58,Mayoi,,0,0,0,,Soy de las que asume su propia responsabilidad.{I'm the type who takes my own responsibility.}
-Dialogue: 0,0:03:32.58,0:03:36.01,Hanekawa,x,0,0,0,,¡Entonces asume la responsabilidad por llamarme! ¡Ahora mismo!{Then take responsibility \Nfor calling me here! Right away!}
-Dialogue: 0,0:03:36.01,0:03:39.84,Mayoi,x,0,0,0,,No, no. La responsabilidad no es algo que puedas tomar solo porque quieres.{No, no. Responsibility isn't something \Nyou can take just because you want to.}
-Dialogue: 0,0:03:39.84,0:03:43.97,Mayoi,,0,0,0,,Al tomar la responsabilidad, podría causar problemas a las personas que están alrededor mío...{By taking responsibility, I might cause trouble \Nto the people around me...}
-Dialogue: 0,0:03:43.97,0:03:45.68,Mayoi,,0,0,0,,Así que no puedo estar de acuerdo con eso.{So I can't agree to that here.}
-Dialogue: 0,0:03:45.68,0:03:47.41,Hanekawa,,0,0,0,,Esa es una horrible teoría...{That's a terrible theory...}
-Dialogue: 0,0:03:47.41,0:03:50.41,Hanekawa,,0,0,0,,...pero lo que dices sorprendentemente no está tan fuera de lugar.{...but what you're saying \Nsurprisingly isn't off the mark.}{言ってることは実は意外と的外れでもないですね}
-Dialogue: 0,0:03:50.41,0:03:53.85,Hanekawa,,0,0,0,,¿No tomas la responsabilidad porque podrías causar problemas a las personas que están a tu alrededor?{Not taking responsibility because you might \Ncause trouble to the people around you?}{周りに迷惑をかけたくないから責任を取らないっていうのは}
-Dialogue: 0,0:03:53.85,0:03:56.23,Mayoi,,0,0,0,,Aunque, estos dos genuinamente se están cargando con la responsabilidades el uno al otro.{These two are genuinely pushing \Nthe responsibility to each other, though.}
-Dialogue: 0,0:03:56.33,0:03:58.72,Hanekawa,,0,0,0,,Pero no es como si no lo supieran, ¿verdad?{But it's not like they don't know, right?}
-Dialogue: 0,0:03:58.72,0:04:01.75,Hanekawa,,0,0,0,,Volviendo después de un viaje temporal, solo para encontrarte con que el mundo ha sido aniquilado...{Returning after a time slip, only to find out \Nthat the world has been annihilated...}{タイムスリップから帰ってきたら世界が滅んでたって}
-Dialogue: 0,0:04:01.75,0:04:03.39,Hanekawa,,0,0,0,,Tendrían que estar más que sorprendidos.{They'd have to be more than just surprised.}{びっくりじゃすまないですよね}
-Dialogue: 0,0:04:03.39,0:04:05.64,Hanekawa,,0,0,0,,Nadie podría aceptarlo en una escala ordinaria.{Nobody would accept that on an ordinary scale.}
-Dialogue: 0,0:04:05.64,0:04:09.34,Mayoi,,0,0,0,,En vez de pasársela el uno al otro, siento que se están llevando demasiado bien.{Rather than pushing it to each other, \NI feel they're getting along too well.}
-Dialogue: 0,0:04:09.44,0:04:11.65,Mayoi,x,0,0,0,,Están jugando con responsabilidad.{They're playing with responsibility.}{責任感で遊んでる感はあるよね}
-Dialogue: 0,0:04:12.05,0:04:15.69,Mayoi,,0,0,0,,Por cierto, Tsubasa-chan, aun no te has presentado, ¿verdad?{By the way, Tsubasa-chan, \Nyou haven't introduced yourself yet, right?}
-Dialogue: 0,0:04:15.69,0:04:16.81,Hanekawa,,0,0,0,,Ah, tienes razón.{Ah, you're right.}
-Dialogue: 0,0:04:16.81,0:04:19.79,Mayoi,,0,0,0,,Una veterana de pistas de comentarios no haría eso.{A commentary track veteran \Nshouldn't be doing that.}
-Dialogue: 0,0:04:19.79,0:04:23.81,Hanekawa,x,0,0,0,,Solo me convertiré en una veterana de pistas de comentarios en el futuro lejano.{I only become a commentary track \Nveteran quite far in the future.}{私は副音声のベテランになるのは大分先の話なんですけれど}
-Dialogue: 0,0:04:23.81,0:04:26.99,Mayoi,,0,0,0,,Pero puedo verlo en tus ojos aun a tu corta edad.{But I can see that in you even in your young age.}{でもその辺今幼い頃から見えていると思うんだよ}
-Dialogue: 0,0:04:26.99,0:04:28.65,Hanekawa,,0,0,0,,¡No hagas tus propias suposiciones!{Don't make your own assumptions!}
-Dialogue: 0,0:04:28.65,0:04:30.40,Hanekawa,,0,0,0,,¡No puedo aceptar tu expectativa!{I can't accept that expectation of yours!}{その期待は受け止めきれません！}
-Dialogue: 0,0:04:30.40,0:04:32.87,Mayoi,,0,0,0,,¡Entonces, adelante y haz tu presentación con entusiasmo!{Then go ahead and do your \Nself-introduction enthusiastically!}
-Dialogue: 0,0:04:32.87,0:04:34.88,Mayoi,,0,0,0,,¡¿Me pregunto qué cosas interesantes vas a decir?!{I wonder what interesting things \Nare you going to say?!}
-Dialogue: 0,0:04:34.88,0:04:36.59,Hanekawa,,0,0,0,,Odio cuanto te comportas así.{I hate it when you behave like that.}{最悪の振り方ですね}
-Dialogue: 0,0:04:37.11,0:04:39.22,Hanekawa,,0,0,0,,Encantados de conocerlos en esta condición.{Pleased to meet you in this condition.}
-Dialogue: 0,0:04:39.22,0:04:41.22,Hanekawa,,0,0,0,,Soy Hanekawa Tsubasa, tengo 6 años.{I'm Hanekawa Tsubasa, 6 years old.}
-Dialogue: 0,0:04:41.39,0:04:43.08,Hanekawa,,0,0,0,,Aunque fui engañada para venir aquí...{Even though I was tricked into coming here...}
-Dialogue: 0,0:04:43.08,0:04:46.55,Hanekawa,x,0,0,0,,...sinceramente daré lo mejor de mí en este set de pistas de comentarios.{...I'll sincerely do my best \Nin this set of commentary tracks.}
-Dialogue: 0,0:04:46.55,0:04:47.84,Hanekawa,,0,0,0,,¡Por favor, denme su apoyo!{Please give me your support!}
-Dialogue: 0,0:04:47.84,0:04:50.16,Mayoi,,0,0,0,,¡Encantada de tenerte a bordo, Lolikawa Tsubasa-chan!{Pleased to have you on board, \NLolikawa Tsubasa-chan!}
-Dialogue: 0,0:04:50.16,0:04:52.11,Hanekawa,,0,0,0,,¡No me llames Lolikawa!{Don't call me Lolikawa!}
-Dialogue: 0,0:04:52.11,0:04:53.35,Mayoi,,0,0,0,,Lo siento, tartamudee.{Sorry, I bit my tongue.}
-Dialogue: 0,0:04:53.49,0:04:56.18,Hanekawa,,0,0,0,,¿Aun dices eso incluso cuando tienes más de 20 años?{You're still saying that even past the age of 20?}
-Dialogue: 0,0:04:56.18,0:04:58.53,Mayoi,,0,0,0,,Quizás deba actuar más como un adulto.{Maybe I should act more like an adult.}
-Dialogue: 0,0:04:58.53,0:04:59.56,Hanekawa,,0,0,0,,Si es posible.{If possible.}{言えるものなら}
-Dialogue: 0,0:04:59.56,0:05:01.11,Mayoi,,0,0,0,,Mis disculpas. Me he mordido la lengua.{Apologies. It was a bite of the tongue.}{ご無礼　噛みですね}
-Dialogue: 0,0:05:01.11,0:05:02.75,Hanekawa,,0,0,0,,¡¿Por qué estas copiando a Mukobuchi?!{Why are you copying Mukoubuchi?!}{何でむこうぶち何ですか？}
-Dialogue: 0,0:05:01.11,0:05:02.75,CommentaryHalf,,0,0,0,,{\pos(1260,990)}(un manga de mahjong){(a mahjong manga)}{Why are you copying Mukoubuchi (a mahjong manga)?!}
-Dialogue: 0,0:05:02.75,0:05:04.03,Mayoi,,0,0,0,,¡¿Como sabe eso una niña de 6 años?!{How does a 6-year-old know that?!}
-Dialogue: 0,0:05:04.03,0:05:06.57,Hanekawa,,0,0,0,,¡Deja de llamarme Lolikawa o de tartamudear!{Stop calling me Lolikawa or biting your tongue!}
-Dialogue: 0,0:05:06.57,0:05:09.06,Hanekawa,,0,0,0,,Este mundo es cada vez más duro.{This world is getting tougher and tougher.}{どんどん世の中厳しくなってきてるんですから}
-Dialogue: 0,0:05:09.06,0:05:12.19,Mayoi,,0,0,0,,Aunque, ahora Mayoi-oneesan puede aparecer en TV sin restricción.{Mayoi-oneesan can freely \Nappear on TV now, though.}{マヨイお姉さんはもう平気でテレビに出られるけれど}
-Dialogue: 0,0:05:12.19,0:05:16.78,Hanekawa,x,0,0,0,,Pensé que eras conocida por la frase \N"No se cuánto tiempo más podré aparecer en TV".{I thought you were known for the catchphrase \N"I don't know how much longer I can appear on TV."}{いつまでテレビに出られるか分からないのキャッチフレーズでお馴染みだったはずなのに}
-Dialogue: 0,0:05:16.78,0:05:18.55,Mayoi,x,0,0,0,,Ahora que tengo 21, tengo libertad.{I have freedom now that I'm 21.}{２１歳なら余裕だね}
-Dialogue: 0,0:05:18.55,0:05:21.60,Hanekawa,,0,0,0,,Pero a cambio, también significa que no aparecerás más.{But in another sense, it could also mean you \Nwon't be appearing anymore.}
-Dialogue: 0,0:05:21.60,0:05:24.70,Hanekawa,,0,0,0,,Ahora que tienes 21, ya no eres popular.{Now that you're 21, you're no longer popular.}
-Dialogue: 0,0:05:24.70,0:05:27.35,Mayoi,,0,0,0,,¿Eh? ¡La Tsubasa-chan de 6 años es muy mala!{Huh? 6-year-old Tsubasa-chan is pretty mean!}
-Dialogue: 0,0:05:27.35,0:05:28.76,Hanekawa,,0,0,0,,Porque tomé una ruta diferente.{Because I took a different route.}
-Dialogue: 0,0:05:28.89,0:05:34.68,Hanekawa,,0,0,0,,Así como decidiste ser amable con los demás debido a la amabilidad que Araragi Koyomi-san te mostró...{Just like how you decided to be kind to others \Nbecause of Araragi Koyomi-san's kindness to you...}{マヨイお姉さんが阿良々木暦さんに親切にされたことで　人に親切にしようと決めたように}
-Dialogue: 0,0:05:34.69,0:05:39.40,Hanekawa,,0,0,0,,...yo me volví dura con los demás porque fui atacada por un pervertido cuando era joven.{...I became quite hard on others \Nbecause I was attacked by a pervert when I was young.}{私は幼少の頃　変質者に襲われたことで ちょっと人に厳しくなったんです}
-Dialogue: 0,0:05:39.40,0:05:41.30,Mayoi,,0,0,0,,Entonces, él cometió graves pecados.{Then he committed some heavy sins.}
-Dialogue: 0,0:05:41.30,0:05:46.03,Mayoi,,0,0,0,,En nuestra ruta, Araragi Koyomi-kun fue asesinado por Black Hanekawa.{In our route, Araragi Koyomi-kun \Nwas killed by Black Hanekawa.}
-Dialogue: 0,0:05:46.03,0:05:48.36,Mayoi,,0,0,0,,Tal vez, toda una tragedia de venganza.{Quite the revenge tragedy, perhaps.}
-Dialogue: 0,0:05:48.36,0:05:54.12,Hanekawa,,0,0,0,,Basado en esta versión del mundo, es una acusación falsa en contra de Araragi Koyomi-kun que no recuerda haber hecho algo.{Based on this worldview, it's a false accusation against \NAraragi Koyomi-san who doesn't remember doing such a thing.}{この世界観の阿良々木暦さんにしてみれば　身に覚えのない冤罪もいいところですけれどね}
-Dialogue: 0,0:05:54.12,0:05:56.88,Mayoi,,0,0,0,,De todos modos, ahora eres una niña de 6 años.{Anyway, you're a 6-year-old now.}
-Dialogue: 0,0:05:56.88,0:05:59.44,Mayoi,,0,0,0,,Deberías hablar mientras aun puedas aparecer en TV.{You should talk while you can still appear on TV.}
-Dialogue: 0,0:05:59.44,0:06:00.58,Mayoi,,0,0,0,,Con un vino en la mano.{With wine in one hand.}
-Dialogue: 0,0:06:00.58,0:06:03.19,Hanekawa,,0,0,0,,¿Una jovencita con un vino en la mano? ¡Eso no pasará!{A young girl with wine in one hand? \NThat's not going to happen!}
-Dialogue: 0,0:06:03.19,0:06:04.42,Hanekawa,,0,0,0,,¡Ni siquiera ahora!{Not even now!}
-Dialogue: 0,0:06:04.42,0:06:06.39,Mayoi,,0,0,0,,¿Qué tal si te llamo Rosékawa Tsubasa?{How about I call you Rosékawa Tsubasa?}
-Dialogue: 0,0:06:06.39,0:06:07.73,Hanekawa,,0,0,0,,¡No me llames así!{Don't call me that!}
-Dialogue: 0,0:06:07.73,0:06:10.51,Mayoi,x,0,0,0,,¿Qué no te llame así? Entonces, ¿qué tal si me emborracho?{Don't call you that? Then how about I get drunk?}{言っちゃわないでって　酔っちゃうはなってもいいのかな}
-Dialogue: 0,0:06:10.51,0:06:13.25,Hanekawa,,0,0,0,,¿Emborracharte? ¡Entonces no podrás decirlo!{Get drunk? Then you won't be able to say it!}{酔っちゃうはなってもって　言えてないじゃないですか？}
-Dialogue: 0,0:06:13.25,0:06:14.70,Mayoi,,0,0,0,,Mis disculpas. Me mordí la lengua.{Apologies. It was a bite of the tongue.}
-Dialogue: 0,0:06:14.86,0:06:16.52,Mayoi,,0,0,0,,Entonces, continuemos con 30 botellas.{Then let's continue with 30 bottles.}{では30瓶続行ですね}
-Dialogue: 0,0:06:16.52,0:06:18.31,Hanekawa,,0,0,0,,¡No continúes!{Don't continue!}{続行しないでください}
-Dialogue: 0,0:06:18.54,0:06:23.95,Hanekawa,x,0,0,0,,Siento como si las regulaciones se apretaran, quizás no sea capaz de ver más a Doraemon.{I feel like if regulations tighten, \NI might not even get to see Doraemon anymore.}{規制が厳しくなったら　ドラエモンも見られなくなっちゃうの感みたいな反論がありますけれど}
-Dialogue: 0,0:06:23.95,0:06:27.93,Hanekawa,,0,0,0,,Doraemon ya ha sido regulado lo suficiente, ¿verdad?{Doraemon has been regulated \Nenough as it is now, right?}
-Dialogue: 0,0:06:28.09,0:06:30.92,Hanekawa,,0,0,0,,Por ejemplo, las intenciones obscenas y las herramientas secretas peligrosas.{For example, lewd intentions \Nand dangerous secret tools.}{エッチんな真意とか　危険な秘密道具とか}
-Dialogue: 0,0:06:30.92,0:06:33.51,Hanekawa,,0,0,0,,La mayoría de ellas ya no aparecen en TV.{They mostly don't appear on TV anymore.}
-Dialogue: 0,0:06:33.51,0:06:35.37,Mayoi,,0,0,0,,Aun puedes verlas en las películas.{You can still see them in the movie versions.}
-Dialogue: 0,0:06:35.37,0:06:38.06,Hanekawa,,0,0,0,,En el primer volumen, Nobuemon fue mencionado, ¿cierto?{In the first volume, \NNobuemon was mentioned, right?}
-Dialogue: 0,0:06:38.06,0:06:39.06,Mayoi,,0,0,0,,¡Si que lo fue!{Yes, it was!}
-Dialogue: 0,0:06:39.06,0:06:40.48,Hanekawa,,0,0,0,,Hablando de viajes en el tiempo...{Speaking about time travel...}{時間移動といえば}
-Dialogue: 0,0:06:40.48,0:06:45.04,Hanekawa,,0,0,0,,...la máquina del tiempo de Doraemon es la más fácil de recordar en Japón.{...Doraemon's time machine really is the easiest one \Nthat comes to mind in Japan.}{やっぱりドラエモンのタイムマシンが　日本じゃ一番イメージしやすいですよね}
-Dialogue: 0,0:06:45.04,0:06:46.53,Mayoi,,0,0,0,,¿Máquina del tiempo?{Time machine?}
-Dialogue: 0,0:06:46.65,0:06:50.09,Mayoi,x,0,0,0,,Existe una teoría sencilla para demostrar la imposibilidad de los viajes temporales.{There's a simple theory to prove \Nthe impossibility of time travel.}{時間移動の不可能性を簡単に証明する論法があって}
-Dialogue: 0,0:06:50.09,0:06:54.00,Mayoi,,0,0,0,,Y es el hecho de que ningún humano del futuro ha venido a esta época.{That is the fact that no future \Nhumans have come to this era.}{それは　今この時代に未来人がやてきていないということは}
-Dialogue: 0,0:06:54.00,0:06:58.93,Mayoi,,0,0,0,,Así que incluso en el futuro, sería imposible desarrollar una máquina que le permitiera a uno volver al pasado.{So even in the future, it would be impossible to develop \Na machine that would allow one to return to the past.}{将来的にも過去に戻るマシンは開発できないってことだろうって話なんだけれど}
-Dialogue: 0,0:06:59.12,0:07:02.31,Mayoi,x,0,0,0,,Pero se siente como si no les preocupara ser lo suficientemente convincentes.{But it feels like they couldn't be bothered \Nto be convincing enough.}{何だかこれ　言いくるめられた感が半端じゃないよね}
-Dialogue: 0,0:07:02.31,0:07:03.90,Hanekawa,,0,0,0,,Entiendo lo que dices.{I understand your feelings.}
-Dialogue: 0,0:07:03.90,0:07:06.23,Mayoi,,0,0,0,,Y sobre los viajes temporales...{And about time travel...}
-Dialogue: 0,0:07:06.23,0:07:10.15,Mayoi,x,0,0,0,,...también hay uno que afirma orgullosamente que si abordas una nave espacial de alta velocidad...{...there's also one that proudly claims \Nif you boarded a high-speed spaceship...}{鬼の首を取ったように　高速の宇宙船に乗って地球に戻ってきたら}
-Dialogue: 0,0:07:10.15,0:07:13.55,Mayoi,x,0,0,0,,...y volvieras a la Tierra, habrían pasado decenas de miles de años.{...and returned to Earth, \Ntens of thousands of years would have passed.}{何十年も経ってるみたいな話を得意げにするヤツがいて}
-Dialogue: 0,0:07:13.55,0:07:15.22,Mayoi,,0,0,0,,Eso tampoco tiene sentido.{That doesn't make sense either.}{それもなんだか腑に落ちない}
-Dialogue: 0,0:07:15.40,0:07:17.57,Mayoi,,0,0,0,,No creo que eso sea lo que estamos hablando.{I don't think that's what \Nwe're talking about here.}{そういう話をしているんじゃないって思う}
-Dialogue: 0,0:07:17.57,0:07:21.77,Hanekawa,x,0,0,0,,¿No te desagrada la parte de "afirmar orgullosamente"?{Aren't you just disliking \Nthe "proudly claims" part?}{それは単に得意げに振る舞われたのが嫌だってだけなんじゃないですか}
-Dialogue: 0,0:07:21.77,0:07:25.85,Mayoi,,0,0,0,,Después de todo, los viajes temporales son tal vez, el sueño eterno de la humanidad.{After all, time travel might \Nbe humanity's eternal dream.}
-Dialogue: 0,0:07:25.85,0:07:30.99,Hanekawa,x,0,0,0,,El deseo de viajar al pasado es mucho más fuerte que al futuro.{The desire to travel to the past \Nseems stronger than to the future.}
-Dialogue: 0,0:07:30.99,0:07:34.09,Hanekawa,,0,0,0,,Las personas tienden a rehacer las cosas.{People tend to want to redo things.}
-Dialogue: 0,0:07:34.09,0:07:39.00,Mayoi,,0,0,0,,Pero Tsubasa-chan, ¿si quiera hay algo que quieras rehacer a tus 6 años?{But Tsubasa-chan, is there even anything \Nyou want to redo at the age of 6?}
-Dialogue: 0,0:07:39.00,0:07:42.52,Hanekawa,,0,0,0,,Quiero devolverme a esta mañana cuando me estaba preparando para la sesión de lectura de libro de imágenes...{I want to return to this morning \Nwhen I was preparing for the picture book reading session...}
-Dialogue: 0,0:07:42.52,0:07:45.25,Hanekawa,x,0,0,0,,...y recordarme que fui engañada.{...and tell myself that I was being deceived.}{騙されてるぞと教えてあげたくはあります}
-Dialogue: 0,0:07:45.25,0:07:47.08,Mayoi,,0,0,0,,¿Engañada? ¡Eso arruinaría mi reputación!{Deceived? That'd ruin my reputation!}{騙すとは人聞きの悪い}
-Dialogue: 0,0:07:47.08,0:07:49.40,Hanekawa,,0,0,0,,¿Cómo más lo podría llamar? ¿Una estafa?{What else should I call it? A scam?}
-Dialogue: 0,0:07:49.40,0:07:50.24,Mayoi,,0,0,0,,Asesinato.{Murder.}{マーダーです}
-Dialogue: 0,0:07:50.24,0:07:51.67,Hanekawa,,0,0,0,,¡¿Asesinato?!{Murder?!}
-Dialogue: 0,0:07:51.67,0:07:53.03,Mayoi,,0,0,0,,Mis disculpas. Me mordí la lengua.{Apologies. It was a bite of the tongue.}
-Dialogue: 0,0:07:53.03,0:07:55.03,Hanekawa,,0,0,0,,Como decía, ¿por qué estas copiando a Mukoubuchi?{Like I said, why are you copying Mukoubuchi?}
-Dialogue: 0,0:07:55.03,0:07:56.50,Hanekawa,,0,0,0,,Aunque, suena muy adulto.{Although it sounds adult-like.}
-Dialogue: 0,0:07:56.50,0:07:57.59,Mayoi,,0,0,0,,Ya termino, ¿cierto?{It's over, right?}
-Dialogue: 0,0:07:57.59,0:07:59.13,Hanekawa,,0,0,0,,¡No lo termines a tu gusto!{Don't end it on your own will!}
-Dialogue: 0,0:07:59.13,0:08:00.39,Mayoi,,0,0,0,,Entonces subamos las apuestas.{Then let's raise the stakes.}{ではレートアップしますか？}
-Dialogue: 0,0:08:00.39,0:08:01.36,Hanekawa,,0,0,0,,¡No!{No!}
-Dialogue: 0,0:08:01.36,0:08:04.56,Hanekawa,,0,0,0,,¡No tientes a una niña de 6 años al binta mahjong!{Don't tempt a 6-year-old child \Ninto binta mahjong!}{６歳の子供を　ビンタマージャンに誘わないでください}
-Dialogue: 0,0:08:04.56,0:08:05.77,Mayoi,,0,0,0,,Que fría eres.{How cold of you.}
-Dialogue: 0,0:08:05.77,0:08:09.19,Mayoi,,0,0,0,,La última vez, cuando hicimos la pista de comentarios, eras mucho más cálida.{When we did commentary tracks last time, \Nyou were so much warmer.}
-Dialogue: 0,0:08:09.19,0:08:09.97,Mayoi,,0,0,0,,¡Qué maloli eres!{How lolimean!}
-Dialogue: 0,0:08:09.97,0:08:12.36,Hanekawa,,0,0,0,,¿Qué quieres decir con la última vez? ¡Nunca lo he hecho!{What do you mean last time? \NI never did them before!}
-Dialogue: 0,0:08:12.36,0:08:14.05,Mayoi,,0,0,0,,Vamos, ¡lo hiciste!{Come on, you did!}
-Dialogue: 0,0:08:14.05,0:08:19.01,Mayoi,,0,0,0,,Mayoi Snail en {\i1}Bakemonogatari{\i0} Volumen 2 y el episodio 3 de Tsubasa Cat en {\i1}Bakemonogatari{\i0} Volumen 5.{Bakemonogatari Volume 2's Mayoi Maimai \Nand Bakemonogatari Volume 5's Tsubasa Cat episode 3.}
-Dialogue: 0,0:08:19.01,0:08:20.71,Mayoi,x,0,0,0,,¡La combinación 'Basa-nee y Hacchi'!{'Basa-nee and Hacchi's combi!}
-Dialogue: 0,0:08:20.71,0:08:23.80,Hanekawa,,0,0,0,,Como decía, ¡esas fueron nosotras de un mundo diferente!{Like I said, that was us \Nfrom a different worldview!}{だからそれは　違う世界観での私たちでしょう？}
-Dialogue: 0,0:08:23.80,0:08:25.77,Hanekawa,,0,0,0,,Aun si quisieras que estuviera en ese estado de ánimo...{Even if you want me to get into the same mood...}{同じ乗りを要求されても}
-Dialogue: 0,0:08:25.77,0:08:28.86,Hanekawa,,0,0,0,,...¡no deberías pedirlo a una niña de 6 años!{...you shouldn't request \Nthat from a 6-year-old child!}{６歳の子供に　乗りを求めないでください}
-Dialogue: 0,0:08:28.86,0:08:31.55,Mayoi,,0,0,0,,Por edad, en vez de 'Basa-nee y Hacchi'...{Age-wise, rather than 'Basa-nee and Hacchi...}{年齢的にはバサ姉とハッチというより}
-Dialogue: 0,0:08:31.55,0:08:33.96,Mayoi,,0,0,0,,...¡debería ser Mayo-nee y Hanne!{...it should be Mayo-nee and Hanne!}{マヨ姉とハンネと言った感じかな}
-Dialogue: 0,0:08:33.96,0:08:35.47,Hanekawa,,0,0,0,,Mayo-nee-Hanne...{Mayo-nee-Hanne...}{マヨ姉ハンネ}
-Dialogue: 0,0:08:35.66,0:08:36.92,Hanekawa,,0,0,0,,Es difícil decirlo.{It's hard to say that.}{言いづらいですね}
-Dialogue: 0,0:08:36.92,0:08:39.01,Hanekawa,,0,0,0,,Especialmente Hanne.{Especially Hanne.}{ハンネが特に言いづらいです}
-Dialogue: 0,0:08:39.01,0:08:40.51,Mayoi,,0,0,0,,Mis disculpas. Fue algo rudo.{Apologies. It seems so.}{ご無礼　しちゃいそうだね}
-Dialogue: 0,0:08:40.69,0:08:44.46,Mayoi,,0,0,0,,Mayo-nee me hace sonar como si fuera una Oneesan que ama la mayonesa.{Mayo-nee makes me sound like \Na big sister who loves mayonnaise.}{マヨ姉はマヨ姉で　何かマヨネーズ好きのお姉さんみたいだし}
-Dialogue: 0,0:08:44.46,0:08:47.59,Mayoi,,0,0,0,,Aunque, no suena tan pegajoso como 'Basa-nee y Hacchi'.{It doesn't sound as catchy \Nas 'Basa-nee-Hacchi though.}{キャッチーさにおいてバサ姉ハッチには叶えそうもないや}
-Dialogue: 0,0:08:47.70,0:08:53.06,Hanekawa,,0,0,0,,De todas formas, sería difícil para mí de 6 años que entienda como alguien de 17-18 años.{Anyway, it'd be difficult for a 6-year-old me \Nto be as understanding as a 17-18-year-old.}{なんにしても６歳の私に　１７－８当たりの包容力を求められても困ります}
-Dialogue: 0,0:08:53.19,0:08:57.48,Hanekawa,,0,0,0,,Preferiría que te comportaras como alguien de 21 años.{I'd rather have you behave like a 21-year-old.}{むしろあなたに２１歳としての振る舞いを求めたいのですけれど}
-Dialogue: 0,0:08:57.85,0:08:59.35,Mayoi,,0,0,0,,Ah, ¡aparecen los zombis!{Ah, the zombies appear!}
-Dialogue: 0,0:08:59.35,0:09:01.27,Hanekawa,,0,0,0,,Pudiste hacer un mejor trabajo cambiando el tema, ¿no es así?{You could do a better job of changing \Nthe subject, couldn't you?}{もうちょっとうまくごまかせるでしょう？}
-Dialogue: 0,0:09:01.27,0:09:05.99,Mayoi,,0,0,0,,En vez de zombis, supongo que en realidad son vampiros fallidos...{Rather than zombies, I guess \Nthey're actually failed vampires...}
-Dialogue: 0,0:09:05.99,0:09:07.48,Mayoi,,0,0,0,,...si has visto la segunda parte de la historia.{...if you've seen the second half of the story.}
-Dialogue: 0,0:09:07.63,0:09:10.06,Hanekawa,,0,0,0,,Hmm, esa parte también me preocupa.{Umm, that part bothers me too.}{あの　その点も気になるんですけれど}
-Dialogue: 0,0:09:10.06,0:09:12.28,Mayoi,,0,0,0,,¡Tienes demasiadas preocupaciones!{You sure have a lot of worries!}
-Dialogue: 0,0:09:12.28,0:09:14.57,Mayoi,,0,0,0,,Tsubasa-chan, ¡será difícil vivir tu vida con esa personalidad!{It'd be hard to live your life \Nwith such a personality, Tsubasa-chan!}
-Dialogue: 0,0:09:14.57,0:09:19.12,Hanekawa,,0,0,0,,¿Así que eres capaz de vivir en este mundo destruido solo por tu personalidad?{So you're able to live in this destroyed world \Nbecause of your personality?}{じゃあなたはそんな性格だから滅んだ世界でも生き続けていられるんですかね？}
-Dialogue: 0,0:09:19.12,0:09:20.37,Mayoi,,0,0,0,,¡Qué estricta eres!{How strict!}
-Dialogue: 0,0:09:20.37,0:09:22.64,Mayoi,,0,0,0,,¡En vez de Tsubasa-chan, eres más como Tsunbasa-chan!{Rather than Tsubasa-chan, \Nit's more like Tsunbasa-chan!}
-Dialogue: 0,0:09:22.64,0:09:23.82,Hanekawa,,0,0,0,,No me dejare intimidar.{I'm not going to be disheartened.}{くじけませんね}
-Dialogue: 0,0:09:23.82,0:09:25.13,Hanekawa,,0,0,0,,¿Tsunbasa-chan?{Tsunbasa-chan?}
-Dialogue: 0,0:09:25.29,0:09:27.12,Hanekawa,,0,0,0,,¿Voy a volar sin ser afectiva?{Am I going to fly without being affectionate?}{デレないまま羽ばたくんですか？}
-Dialogue: 0,0:09:25.29,0:09:27.12,CommentaryHalf,,0,0,0,,{\pos(1170,990)}(dere){¿Voy a volar (tsubasa = alas) sin ser afectiva (dere)?}
-Dialogue: 0,0:09:25.29,0:09:27.12,CommentaryHalf,,0,0,0,,{\pos(840,990)}(tsubasa = alas){¿Voy a volar (tsubasa = alas) sin ser afectiva (dere)?}
-Dialogue: 0,0:09:27.12,0:09:29.76,Mayoi,,0,0,0,,Por pronunciación, sería como "embajador".{Pronunciation-wise, it's like "ambassador."}
-Dialogue: 0,0:09:29.76,0:09:31.23,Hanekawa,,0,0,0,,¿Qué clase de embajador es ese?{What kind of ambassador is that?}
-Dialogue: 0,0:09:31.23,0:09:32.97,Mayoi,,0,0,0,,¿Así que eso te preocupaba?{So what was bothering you?}
-Dialogue: 0,0:09:32.97,0:09:36.65,Mayoi,,0,0,0,,¡Mayoi-oneesan te escuchara como la adulta de 21 años que es!{Mayoi-oneesan will hear you out \Nas a 21-year-old adult!}
-Dialogue: 0,0:09:36.80,0:09:38.93,Hanekawa,,0,0,0,,¿De verdad está bien que veas esto?{Is it really OK for you to be seeing this?}
-Dialogue: 0,0:09:38.93,0:09:43.90,Hanekawa,,0,0,0,,Al ver este segundo volumen, estas obteniendo información que no se supone que conozcas.{By seeing this second volume, \Nyou're getting information you're not supposed to know.}{この下巻を見たことで　何かと知らなかった情報が入ってきちゃったと思うんですけれど}
-Dialogue: 0,0:09:43.90,0:09:45.03,Mayoi,,0,0,0,,Ah, está bien.{Ah, it's alright.}
-Dialogue: 0,0:09:45.03,0:09:46.89,Mayoi,,0,0,0,,Los adultos tienen la habilidad de ignorar.{Adults have the skill to ignore.}{大人にはスルースキルがあるから}
-Dialogue: 0,0:09:45.03,0:09:46.89,CommentaryHalf,,0,0,0,,{\pos(1330,990)}(suruu){Los adultos tienen la habilidad de ignorar (suruu).}
-Dialogue: 0,0:09:46.89,0:09:48.01,Hanekawa,,0,0,0,,Ya veo.{I see.}
-Dialogue: 0,0:09:48.01,0:09:49.90,Mayoi,,0,0,0,,O podrías decir que ser astuta es una habilidad.{Or you could call it a skill to be crafty.}
-Dialogue: 0,0:09:48.01,0:09:49.90,CommentaryHalf,,0,0,0,,{\pos(1030,990)}(zuru){O podrías decir que ser astuta (zuru) es una habilidad.}
-Dialogue: 0,0:09:49.90,0:09:53.42,Hanekawa,,0,0,0,,Al decir "astuta", ya no te siento como una adulta ni nada por el estilo.{By saying "crafty," I don't feel like you're \Nan adult or anything anymore.}{ズルとか言ってる時点で　大人でもなんでもない気がしますが}
-Dialogue: 0,0:09:53.42,0:09:57.48,Mayoi,,0,0,0,,Si dices eso, entonces deberíamos preguntarnos si tener 21 años te convierte en un adulto.{If you're saying that, then we should be wondering \Nif 21 years old really makes an adult.}{それを言い出したら　２１歳は果たして大人かという話になる}
-Dialogue: 0,0:09:57.48,0:09:59.42,Hanekawa,,0,0,0,,Eso es triste.{That's sad, then.}
-Dialogue: 0,0:09:59.42,0:10:01.92,Mayoi,,0,0,0,,¡Momento! ¡21 años no te convierte en un adulto!{Wait! 21 years old doesn't make an adult!}{っていうか２１歳が大人じゃないよ}
-Dialogue: 0,0:09:59.42,0:10:01.92,CommentaryHalf,,0,0,0,,{\pos(1430,990)}(otona; lit. sig. "persona grande"){¡Momento! ¡21 años no te convierte en un adulto (otona; literally means "big person")!}
-Dialogue: 0,0:10:01.92,0:10:03.01,Hanekawa,,0,0,0,,¡Desafiante!{Defiance!}{開き直った}
-Dialogue: 0,0:10:03.01,0:10:04.83,Mayoi,,0,0,0,,¡Significa que solo he alcanzado la mayoría de edad!{It means I've only just come of age!}{やっと成人したばっかりじゃない？}
-Dialogue: 0,0:10:03.01,0:10:04.83,CommentaryHalf,,0,0,0,,{\pos(1350,990)}(seijin; lit. sig. "convertirse en persona"){¡Significa que solo he alcanzado la mayoría de edad (seijin; literally means "become a person")!}
-Dialogue: 0,0:10:04.83,0:10:06.52,Mayoi,,0,0,0,,¡Solo me he convertido en una persona!{I've only just become a person!}{人になったばっかりじゃない？}
-Dialogue: 0,0:10:06.52,0:10:10.83,Mayoi,,0,0,0,,Hasta que me convierta en una gran persona, me gustaría que me cuidaras por otros 10 años o más.{Until I become a big person, I'd like you to watch \Nover me for another 10 years or so.}{この上　大きいな人になるまでには　まだ１０年くらいが見守っていただきたい}
-Dialogue: 0,0:10:10.83,0:10:15.81,Hanekawa,,0,0,0,,Eso es algo que Araragi Koyomi-san, quien se impresionó después de verte, no debe escuchar.{This isn't something Araragi Koyomi-san, \Nwho was impressed after seeing you, should hear.}{あなたを見て感動していた阿良々木暦さんには　とても聞かせられないセリフですね}
-Dialogue: 0,0:10:15.81,0:10:19.02,Mayoi,,0,0,0,,Para alguien de 18 años, una persona de 21 años podría parecerle un adulto...{To an 18-year-old, a 21-year-old \Nmight seem like an adult...}{１８歳から見れば２１歳は大人かもしれないけれど}
-Dialogue: 0,0:10:19.02,0:10:22.42,Mayoi,,0,0,0,,...pero a alguien de 30 años, está dentro del margen de error.{...but to a 30-year-old, \Nit's within the margin of error.}{３０歳の人から見たら　普通に誤差の範囲内だよね}
-Dialogue: 0,0:10:22.42,0:10:23.90,Hanekawa,,0,0,0,,Tal vez lo sea.{That might be true.}{かもしれませんけれど}
-Dialogue: 0,0:10:23.90,0:10:26.42,Hanekawa,,0,0,0,,Pero cuando apareces en el episodio 4...{But when you appeared in episode 4...}
-Dialogue: 0,0:10:26.42,0:10:29.15,Hanekawa,,0,0,0,,...como lo pongo, parecías muy fuerte.{...how do I put it, you seemed really tough.}
-Dialogue: 0,0:10:29.15,0:10:30.65,Hanekawa,,0,0,0,,¡Llena de adultez!{Full of adultness!}
-Dialogue: 0,0:10:30.65,0:10:33.42,Mayoi,,0,0,0,,Eso fue por las experiencias difíciles por las que pasé.{That's because of the hard \Nexperiences I went through.}{そりゃしたたかハードな体験をしたからね}
-Dialogue: 0,0:10:33.65,0:10:38.65,Mayoi,,0,0,0,,Este episodio tiene lugar a finales de Agosto.{This episode takes place around late August.}{今っていうのは　この画面の中の時節　八月下旬あたりってことだけれど}
-Dialogue: 0,0:10:38.65,0:10:41.35,Mayoi,,0,0,0,,Para esa época, el mundo ya se había calmado en mayor parte...{The world has mostly calmed \Ndown by this period...}{この頃はもう大分世相も落ち着いているものの}
-Dialogue: 0,0:10:41.35,0:10:44.46,Mayoi,,0,0,0,,...pero fue demasiado horrible en Junio.{...but it was really terrible back in June.}{六月のリアルタイムは本当に大変だったんだし}
-Dialogue: 0,0:10:44.46,0:10:45.95,Hanekawa,,0,0,0,,Tienes razón.{You're right.}
-Dialogue: 0,0:10:46.16,0:10:48.93,Hanekawa,,0,0,0,,Yo fui la primera víctima de Shinobu-san...{I was Shinobu-san's first victim...}
-Dialogue: 0,0:10:48.93,0:10:52.22,Hanekawa,,0,0,0,,...así que probablemente no sé qué tan duro fue después.{...so I probably didn't know \Nhow harsh it was after.}
-Dialogue: 0,0:10:52.22,0:10:53.79,Mayoi,,0,0,0,,En vez de no saber...{Rather than not knowing...}
-Dialogue: 0,0:10:53.79,0:10:58.05,Mayoi,,0,0,0,,...tal vez te hayas convertido en la vanguardia para erradicar a la humanidad.{...you might have become \Nthe vanguard in eradicating humanity.}{そのあと君が先鋒となって　次々人間を滅ぼしていたのかもしれない}
-Dialogue: 0,0:10:58.05,0:11:02.00,Hanekawa,,0,0,0,,Si lo piensas de esa manera, ya no encuentro agradable ver esta secuencia.{Thinking that way, I don't find this \Nfootage enjoyable to watch anymore.}{そう思うと　私は全然楽しく見られませんねこの映像}
-Dialogue: 0,0:11:02.00,0:11:06.97,Mayoi,x,0,0,0,,Si hubiera comenzado contigo, entonces el contagio y la tasa de propagación debió haber sido impresionante.{If it was started by you, then the infectivity \Nand spread must have been quite something.}{翼ちゃんが始まりだったら　感染力も拡散力も半端じゃなかったじゃないんかな？}
-Dialogue: 0,0:11:06.97,0:11:10.22,Mayoi,x,0,0,0,,Si lo piensas de esa manera, las personas como yo en verdad hicimos un buen trabajo sobreviviendo.{Thinking that way, people like me \Nreally did a good job surviving.}{そう思うと　私みたいなのがよく生き残れたものだ}
-Dialogue: 0,0:11:10.22,0:11:16.82,Hanekawa,x,0,0,0,,¿Sabes que le paso a Senjougahara-san, Kanbaru-san o a los demás después de eso?{Do you know what happened to Senjougahara-san, \NKanbaru-san, or the others after that?}
-Dialogue: 0,0:11:16.82,0:11:20.35,Mayoi,,0,0,0,,¡Tal vez, pero no voy a decirlo!{I might know, but I can't say it!}
-Dialogue: 0,0:11:20.35,0:11:24.65,Mayoi,,0,0,0,,¡Explicar dicho trasfondo en una pista de comentarios es una violación de los modales!{Explaining such a background setting \Nin a commentary track is a manners violation!}
-Dialogue: 0,0:11:24.65,0:11:27.01,Hanekawa,,0,0,0,,Eso no tiene sentido.{That kind of doesn't make sense.}{なんだかしっくりこないセリフですね}
-Dialogue: 0,0:11:27.01,0:11:30.91,Hanekawa,,0,0,0,,Normalmente, pienso que podrías explicar el trasfondo en una pista de comentarios.{Normally, you would explain \Nthe background setting in a commentary track, I feel.}
-Dialogue: 0,0:11:30.91,0:11:34.12,Mayoi,,0,0,0,,Tal vez podría estar bien explicar el trasfondo \Nen una pista de comentarios alternativa.{Maybe it would be fine to explain \Nthe background setting in an alternative commentary.}
-Dialogue: 0,0:11:30.91,0:11:34.12,CommentaryHalf,,0,0,0,,{\pos(1355,920)}(ura){Tal vez podría estar bien explicar el trasfondo (ura) en una pista de comentarios alternativa (ura).}
-Dialogue: 0,0:11:30.91,0:11:34.12,CommentaryHalf,,0,0,0,,{\pos(1280,1078)}(ura){Tal vez podría estar bien explicar el trasfondo (ura) en una pista de comentarios alternativa (ura).}
-Dialogue: 0,0:11:34.12,0:11:37.46,Hanekawa,,0,0,0,,Escuché que no explicaron nada en la pista de comentarios alternativa.{I heard that nothing was explained \Nin the alternative commentary.}
-Dialogue: 0,0:11:37.46,0:11:38.82,Mayoi,,0,0,0,,Supongo que la Parte A ha terminado.{Part A is finished, I guess.}
-Dialogue: 0,0:11:38.82,0:11:40.63,Hanekawa,,0,0,0,,¡La Parte B vendrá a continuación!{Part B will be right after!}
-Dialogue: 0,0:11:42.62,0:11:44.07,Mayoi,,0,0,0,,¡Y así, es la Parte B!{And so, Part B!}
-Dialogue: 0,0:11:44.07,0:11:47.90,Mayoi,x,0,0,0,,¡También vas a divertirte con la Oneesan temporal!{You're going to have a fun time \Nwith the Part-Time Big Sister in Part B too!}
-Dialogue: 0,0:11:47.90,0:11:51.02,Hanekawa,x,0,0,0,,¿Oneesan temporal? ¿Es un trabajo temporal?{Part-Time Big Sister? Is this a part-time job?}
-Dialogue: 0,0:11:51.02,0:11:54.41,Mayoi,,0,0,0,,De todas maneras, los empleados de la compañía no querrían hacer un trabajo tan duro.{Company employees wouldn't want to \Ndo such a tough job anyway.}{いやいや　社員はやってくれないでしょう　こんな過酷な仕事}
-Dialogue: 0,0:11:54.41,0:11:55.67,Hanekawa,x,0,0,0,,Que mundo tan duro.{What a tough world.}{世知辛いな}
-Dialogue: 0,0:11:55.67,0:11:57.80,Hanekawa,,0,0,0,,¿Qué tal si revertimos nuestras edades?{How about we revert our ages already?}
-Dialogue: 0,0:11:57.80,0:12:00.24,Mayoi,,0,0,0,,¿Revertirlas? ¿Qué quieres decir?{Revert? What do you mean?}
-Dialogue: 0,0:12:00.24,0:12:04.41,Hanekawa,,0,0,0,,Pasar de 6 y 21 años a 18 y 10 años.{From 6 years old and 21 years old \Nto 18 years old and 10 years old.}
-Dialogue: 0,0:12:04.41,0:12:07.93,Mayoi,,0,0,0,,¿Por qué? ¿Por qué? Si lo hacemos, ¡entonces seria como una comparación fracasada!{Why? Why? If we do that, \Nthen it'll be like a failed comparison!}{なんでなんで　そんなことしたら比較失敗みたいじゃん}
-Dialogue: 0,0:12:07.93,0:12:09.70,Hanekawa,,0,0,0,,No es un fracaso...{It isn't a failure...}
-Dialogue: 0,0:12:09.70,0:12:13.77,Hanekawa,x,0,0,0,,...pero, esta configuración conmigo de 6 años y contigo de 21 años es tan inusual...{...but this setting with me as a 6-year-old \Nand you as a 21-year-old is just too unusual...}{私たちが６歳と２１歳っていう設定はもう奇抜すぎて}
-Dialogue: 0,0:12:13.77,0:12:16.95,Hanekawa,,0,0,0,,...que no hemos sido capaces de si quiera comenzar a hablar de la historia.{...that we haven't been able to \Neven start talking about the story.}
-Dialogue: 0,0:12:16.95,0:12:18.08,Mayoi,,0,0,0,,Es verdad.{That's true.}
-Dialogue: 0,0:12:18.08,0:12:19.72,Hanekawa,,0,0,0,,Paremos ya.{Let's stop already.}
-Dialogue: 0,0:12:19.72,0:12:23.34,Hanekawa,,0,0,0,,Deberíamos estar hablando sobre la historia en una pista de comentarios...{We should be talking about \Nthe story in a commentary track...}
-Dialogue: 0,0:12:23.34,0:12:25.45,Hanekawa,,0,0,0,,...y aun así, hemos estado hablando despreocupadamente...{...yet we've been chatting away nonchalantly...}
-Dialogue: 0,0:12:25.45,0:12:27.11,Hanekawa,,0,0,0,,Jejejeje~ así.{Ehehehe~ like this.}
-Dialogue: 0,0:12:27.11,0:12:28.73,Mayoi,,0,0,0,,¡La opinión de una jovencita es muy estricta!{A young girl's opinion is so strict!}
-Dialogue: 0,0:12:28.89,0:12:30.91,Mayoi,,0,0,0,,Deja de hacer argumentos sólidos.{Stop making such sound arguments.}
-Dialogue: 0,0:12:30.91,0:12:33.12,Hanekawa,,0,0,0,,Ni argumentos sólidos ni explicaciones...{No sound arguments or explanation...}
-Dialogue: 0,0:12:33.12,0:12:35.28,Hanekawa,,0,0,0,,¿Cuál es el significado de tal pista de comentarios?{What's the meaning of such a commentary track?}{意義がないでしょうそんな副音声？}
-Dialogue: 0,0:12:35.28,0:12:37.99,Mayoi,,0,0,0,,Si dices que es irrelevante, entonces es irrelevante.{If you say it's meaningless, \Nthen it's meaningless.}
-Dialogue: 0,0:12:37.99,0:12:41.48,Hanekawa,,0,0,0,,Como decía, ¡deja de perder el tiempo en cosas como esa!{Like I said, stop wasting \Ntime on stuff like this!}
-Dialogue: 0,0:12:41.48,0:12:45.31,Mayoi,,0,0,0,,Pero si hablamos acerca de la historia, será una conversación deprimente...{But if we talk about the story, \Nit's just going to be a depressing conversation...}{でも　入ったら入ったで　どうしても重い話になっちゃうしね}
-Dialogue: 0,0:12:45.31,0:12:47.36,Mayoi,,0,0,0,,...ya que las dos somos las principales culpables indirectas.{...since we're the two indirect main culprits.}{間接的主犯格二名としては}
-Dialogue: 0,0:12:47.36,0:12:50.56,Hanekawa,,0,0,0,,Dejando de lado la expresión "las dos principales culpables indirectas"...{Putting the expression \N"two indirect main culprits" aside...}
-Dialogue: 0,0:12:50.56,0:12:53.84,Hanekawa,,0,0,0,,...yo no aparezco en este volumen.{...I don't appear in this volume.}{に至っては}
-Dialogue: 0,0:12:53.84,0:12:55.61,Hanekawa,,0,0,0,,Solo aparecí en el primer volumen.{I only appeared in the first volume.}
-Dialogue: 0,0:12:55.61,0:12:58.36,Mayoi,,0,0,0,,La escena estremecedora donde fuiste atacada por un pervertido, ¿verdad? {That shocking scene where you \Nwere attacked by a pervert, right?}
-Dialogue: 0,0:12:58.36,0:13:00.24,Mayoi,,0,0,0,,Me sorprendió que llegara a emitirse.{I'm amazed it made it on air.}
-Dialogue: 0,0:13:00.33,0:13:05.62,Mayoi,,0,0,0,,Aunque, las personas que comenzaron a ver desde este segundo volumen, no tienen ni idea de lo que estamos hablando.{People who start watching from this second volume might \Nnot have any idea what we're talking about, though.}
-Dialogue: 0,0:13:05.62,0:13:09.67,Hanekawa,,0,0,0,,Creo que las personas que comenzaron a ver desde este segundo volumen tampoco podrían entender la historia.{I think people who start watching \Nfrom the second volume might not understand the story either.}
-Dialogue: 0,0:13:09.78,0:13:12.21,Hanekawa,,0,0,0,,Hay tales personas, ¿verdad? Personas que ven desde el segundo volumen.{There are such people, right? \NPeople who watch from the second volume.}
-Dialogue: 0,0:13:12.21,0:13:13.87,Mayoi,,0,0,0,,No podemos decir que no las haya...{We can't say for sure there aren't...}
-Dialogue: 0,0:13:13.87,0:13:15.42,Mayoi,,0,0,0,,...ya que los volúmenes se venden por separado.{...since the volumes are sold separately.}{散で売ってる以上は}
-Dialogue: 0,0:13:15.42,0:13:19.04,Mayoi,,0,0,0,,Sabes, hay personas que leen primero el epilogo de una novela, ¿verdad?{You know, there are some people who read \Nthe afterword of a novel first, right?}{ほら　小説を後書きから読む人って一定数いるじゃない？}
-Dialogue: 0,0:13:19.04,0:13:20.13,Hanekawa,,0,0,0,,Si, pero...{Yeah, but...}
-Dialogue: 0,0:13:20.13,0:13:21.87,Mayoi,,0,0,0,,"¡Una novela sin epilogo!"{"A novel without an afterword!"}{後書きのない小説だった}
-Dialogue: 0,0:13:21.87,0:13:24.81,Mayoi,x,0,0,0,,"Ademas, ¡leí la moraleja!", esa clase de accidentes ocurren con facilidad.{"Plus I read the punch line!" \Nsort of accidents will occur easily.}{しかも落ち読んじゃったみたいな事故が起きかねない}
-Dialogue: 0,0:13:24.81,0:13:27.17,Hanekawa,,0,0,0,,Por la forma en que hablas, llena de verdaderos sentimientos...{From the way you're speaking, \Nfull of actual feelings...}{その実感のこもった語りからすると}
-Dialogue: 0,0:13:27.17,0:13:29.63,Hanekawa,,0,0,0,,...pareces ser alguien que lee desde el epilogo.{...you seem like someone who reads \Nfrom the afterword.}{あなたが後書きから読む人みたいですね}
-Dialogue: 0,0:13:29.63,0:13:32.27,Mayoi,,0,0,0,,¡No sé dónde debería canalizar esta ira!{I don't know where I should hit with my anger!}{この怒りをどこにぶつけていいのか分からない}
-Dialogue: 0,0:13:32.27,0:13:35.16,Hanekawa,,0,0,0,,Canalizala contigo misma por favor.{Please hit yourself with it.}
-Dialogue: 0,0:13:35.28,0:13:38.01,Mayoi,,0,0,0,,La desdicha de encontrarte con un spoiler en el epilogo...{The misery of finding out there's \Na spoiler in the afterword...}{後書きでネタバレされた時のやるせなさ}
-Dialogue: 0,0:13:38.01,0:13:39.81,Mayoi,x,0,0,0,,...quizás sea mi culpa...{...may be my fault...}{確かに私のせいだけども}
-Dialogue: 0,0:13:39.81,0:13:42.56,Mayoi,,0,0,0,,...pero ¿no sería lindo si el autor toma eso en consideración?{...but wouldn't it be nice \Nif the author takes that into consideration?}{作者さんそこは気遣ってくれてもいいんじゃない}
-Dialogue: 0,0:13:42.56,0:13:45.86,Mayoi,,0,0,0,,Porque es como si "¡sabes que hay personas así!"{Because it's like \N"You know there are people like that!"}{だってそういうヤツがいることが分かってるわけでしょう みたいな}
-Dialogue: 0,0:13:45.86,0:13:47.39,Hanekawa,,0,0,0,,No es así.{It's not like that.}{みたいなじゃないです}
-Dialogue: 0,0:13:47.39,0:13:50.55,Mayoi,,0,0,0,,Pero aun, si no ves desde el ultimo volumen...{But even if you don't watch \Nfrom the last volume...}{ただ　下巻から見るっていうのはさすがにないとしても}
-Dialogue: 0,0:13:50.55,0:13:54.90,Mayoi,x,0,0,0,,...en el caso de una serie, determinar donde comenzar a mirar es una especie de proposición.{...in the case of a series, determining where \Nto start watching from is a kind of proposition.}{シリーズものの場合　どこから見るのかっていうのは　一種の命題だよね}
-Dialogue: 0,0:13:54.90,0:13:57.27,Hanekawa,,0,0,0,,Proposición no significa problema.{Proposition doesn't mean problem.}{命題は問題って意味じゃないですよ}
-Dialogue: 0,0:13:57.27,0:13:58.24,Mayoi,,0,0,0,,Una proposición.{A proposition.}{命題だよね}
-Dialogue: 0,0:13:58.24,0:13:59.62,Hanekawa,,0,0,0,,No te corrijas a ti misma.{You just won't correct yourself.}{言い直してくれないだ}
-Dialogue: 0,0:13:59.62,0:14:02.37,Mayoi,,0,0,0,,Por ejemplo, viendo Mayoi Jiangshi...{For example, to watch Mayoi Jiangshi...}{たとえば　このマヨイキョンシーを見るのであれば}
-Dialogue: 0,0:14:02.37,0:14:06.11,Mayoi,,0,0,0,,...¿tienes que ver Mayoi Snail para obtener conocimiento previo?{...do you have to watch Mayoi Maimai \Nto gain prior knowledge?}{前知識として　マヨイマイマイを見ていなければいけないのかどうか}
-Dialogue: 0,0:14:06.11,0:14:07.94,Mayoi,,0,0,0,,Para hablar del incidente de Junio...{To talk about the June incident...}{６月の件を語るのであれば}
-Dialogue: 0,0:14:07.94,0:14:10.38,Mayoi,,0,0,0,,...¿tienes que ver Tsubasa Cat?{...do you have to watch Tsubasa Cat?}{翼キャットを見ていなければいけないのかどうか}
-Dialogue: 0,0:14:10.50,0:14:13.04,Mayoi,,0,0,0,,¿O tienes que ver {\i1}Bakemonogatari{\i0} Anime por completo...{Or do you have to watch \Nthe entirety of Bakemonogatari Anime...}{あるいは　アニメ化物語全体を}
-Dialogue: 0,0:14:13.04,0:14:17.92,Mayoi,,0,0,0,,...o incluso {\i1}Nisemonogatari{\i0}, {\i1}Nekomonogatari Kuro/Shiro{\i0}?{...or even up to Nisemonogatari, \NNekomonogatari Kuro/Shiro?}{それともここに至るまでの　偽物語　猫物語黒白見ておくべきなのか}
-Dialogue: 0,0:14:18.21,0:14:22.13,Mayoi,,0,0,0,,En otras palabras, tienes que ser un observador veterano de anime...{In other words, you'll have to be quite \Nthe veteran anime watcher...}{と言い始めると　かなりの本数なアニメを見た精鋭でなければ}
-Dialogue: 0,0:14:22.13,0:14:25.07,Mayoi,,0,0,0,,...o no serás capaz de alcanzar Mayoi Jiangshi.{...or you won't be able to reach Mayoi Jiangshi.}{このマヨイキョンシーにたどり着けないことになっちゃうじゃない}
-Dialogue: 0,0:14:25.07,0:14:26.30,Mayoi,,0,0,0,,¿Qué piensas de ello?{What do you think about that?}
-Dialogue: 0,0:14:26.30,0:14:28.12,Hanekawa,,0,0,0,,Aunque me lo preguntes...{Even if you ask me...}
-Dialogue: 0,0:14:28.12,0:14:31.51,Mayoi,,0,0,0,,A menos que compres 16 entregas...{Unless you purchase 16 packages...}{極論 パッケージにして　十六本購入していないと}
-Dialogue: 0,0:14:31.51,0:14:34.10,Mayoi,,0,0,0,,...no serás capaz de alcanzar el segundo volumen de {\i1}Kabukimonogatari{\i0}.{...you won't be able to reach \Nthe second volume of Kabukimonogatari.}{この傾物語下にたどり着けないとなると}
-Dialogue: 0,0:14:34.10,0:14:39.00,Mayoi,,0,0,0,,Creo que es pedirle mucho a los espectadores. {I feel that is quite a tall order \Nfor the viewers.}{これはさすがに　視聴者の皆さんに対する要求が高すぎるとお姉さんは思うな}
-Dialogue: 0,0:14:39.00,0:14:41.03,Mayoi,,0,0,0,,Así que está bien que vean a partir del segundo volumen.{So it's fine to watch from the second volume.}
-Dialogue: 0,0:14:41.03,0:14:43.33,Mayoi,,0,0,0,,Ver desde el segundo volumen aún puede ser bien interesante.{Watching from the second volume \Ncan still be interesting enough.}
-Dialogue: 0,0:14:43.33,0:14:45.34,Mayoi,,0,0,0,,¡Están hechos para ser interesantes!{They're made to be interesting!}{面白く作ってくれてるって}
-Dialogue: 0,0:14:45.34,0:14:47.34,Hanekawa,,0,0,0,,Eso no es para alguien que sea de mente abierta...{That's someone who isn't open-minded...}{それは懐が広いじゃなくて}
-Dialogue: 0,0:14:47.34,0:14:50.30,Hanekawa,x,0,0,0,,...sino para alguien que se cansó de pensar y dejo de importarle.{...but someone who got tired of thinking, \Nand didn't care anymore.}{考えるのに疲れちゃってどうでもよくなった人でしょう？}
-Dialogue: 0,0:14:50.30,0:14:52.40,Mayoi,,0,0,0,,¡También está bien escuchar la pista de comentarios!{It's fine to listen \Nfrom the commentary track too!}
-Dialogue: 0,0:14:52.40,0:14:53.90,Hanekawa,,0,0,0,,¡Eso definitivamente no servirá!{That definitely won't do!}
-Dialogue: 0,0:14:53.90,0:14:56.59,Hanekawa,,0,0,0,,¡Se estarán preguntando quienes somos!{They would be wondering who we even are!}
-Dialogue: 0,0:14:56.59,0:15:00.25,Mayoi,,0,0,0,,Para un anime aun está bien, pero en serio que los cómics son muy restrictivos, ¿verdad?{For anime, it's still OK, \Nbut comics are really restrictive, right?}{アニメをそれでもまだしも　コミックスは本当にきついよね}
-Dialogue: 0,0:15:00.25,0:15:03.68,Mayoi,x,0,0,0,,El problema de donde comenzar a leer se ha vuelto más común en serializaciones longevas.{The problem of where to start reading \Nhas become more common in long serial publications.}{どこから読むか問題　長期連載本当に増えたし}
-Dialogue: 0,0:15:03.68,0:15:08.81,Hanekawa,,0,0,0,,Para los cómics, en efecto es natural que tengan entre 20 y 30 volúmenes.{For comics, it's indeed natural \Nto have 20 or 30 volumes.}{確かに　二十巻とか三十巻とか　コミックスではもう当たり前ですからね}
-Dialogue: 0,0:15:08.81,0:15:11.49,Hanekawa,,0,0,0,,En ese sentido, no puedes ser tan despreocupado respecto a ello.{In that case, you can't be too carefree about it.}{そうなると気軽には　手が出せないです}
-Dialogue: 0,0:15:11.49,0:15:12.85,Mayoi,,0,0,0,,Son tan voluminosos.{They're so bulky, eh?}{嵩張っちゃうしね}
-Dialogue: 0,0:15:12.95,0:15:15.45,Mayoi,,0,0,0,,Aunque, los libros electrónicos no tienen ese problema.{E-books don't have that problem, though.}
-Dialogue: 0,0:15:15.45,0:15:17.31,Hanekawa,,0,0,0,,Pero, incluso con los libros electrónicos...{But even for e-books...}
-Dialogue: 0,0:15:17.31,0:15:19.12,Hanekawa,,0,0,0,,Cuando alcanzan los 20 o 30 volúmenes...{When they reach 20 or 30 volumes...}
-Dialogue: 0,0:15:19.12,0:15:21.12,Hanekawa,x,0,0,0,,...lleva su tiempo seleccionarlos.{...it takes quite some time to select them.}{呼び出すのが結構手間です}
-Dialogue: 0,0:15:21.12,0:15:25.27,Hanekawa,,0,0,0,,Los lectores electrónicos tienen pantallas pequeñas, así que no puedes ver toda la lista.{E-readers have small screens, \Nso you can't see much of the whole list.}{ブックリーダーの画面が小さいから　そこまで一覧性高くないので}
-Dialogue: 0,0:15:25.27,0:15:27.99,Mayoi,,0,0,0,,¿Qué? ¿Estás en contra de la digitalización, Tsubasa-chan?{What? Are you against digitization, Tsubasa-chan?}
-Dialogue: 0,0:15:28.11,0:15:31.74,Hanekawa,,0,0,0,,En mis tiempos, los libros en su mayor parte eran análogos.{Back in my day, books were mostly analogue.}{というか　私の時代では大抵　本はアナログです}
-Dialogue: 0,0:15:31.74,0:15:32.85,Mayoi,,0,0,0,,Entiendo.{I see.}
-Dialogue: 0,0:15:32.85,0:15:38.51,Mayoi,,0,0,0,,Lo que me decepciona de los comics electrónicos es que dejan por fuera la portada.{What I find disappointing about e-comics is \Nthat the cover comic usually gets left out.}{私がね　コミックスの電子書籍で残念に思うことは　大抵かばうらがカットされてること}
-Dialogue: 0,0:15:38.51,0:15:39.37,Hanekawa,,0,0,0,,¿La portada del comic?{Cover comic?}
-Dialogue: 0,0:15:39.55,0:15:41.56,Mayoi,,0,0,0,,Más exactamente, el cómic debajo de la portada.{More accurately, below-the-cover comic.}{正しくはカバー下かな}
-Dialogue: 0,0:15:41.56,0:15:45.50,Mayoi,,0,0,0,,Ya sabes, los comics que tienen manga detrás de la portada, ¿cierto?{You know, there are comics \Nwith free manga under the cover, right?}{ほら　カバーしたに　おまけ漫画が書かれてるコミックスってあるじゃない？}
-Dialogue: 0,0:15:45.50,0:15:48.16,Hanekawa,,0,0,0,,Ah, tienes un buen ojo para los detalles.{Ah, you really have an eye for detail.}{ああ　細かいところ見てますね}
-Dialogue: 0,0:15:48.34,0:15:49.73,Mayoi,,0,0,0,,Incluso han desaparecido las cintas publicitarias.{Even the bellyband is gone.}{帯もなくなっちゃうし}
-Dialogue: 0,0:15:49.73,0:15:51.89,Mayoi,,0,0,0,,¡Yo las colecciono!{I collect those!}{私帯を取っておく派なのに}
-Dialogue: 0,0:15:51.89,0:15:54.24,Hanekawa,,0,0,0,,Estas en contra de la digitalización, ¿no es así?{You're against digitization, aren't you?}
-Dialogue: 0,0:15:54.24,0:15:57.32,Mayoi,,0,0,0,,Pues, en primer lugar, no hay electricidad en mi mundo.{Well, in the first place, \Nthere's no electricity in my worldview.}{ま　そもそも私の世界観では電気がないから}
-Dialogue: 0,0:15:57.32,0:15:59.57,Mayoi,,0,0,0,,No puedo leer un solo libro electrónico.{I can't read a single e-book.}{電子書籍一冊も読めないんだけど}
-Dialogue: 0,0:15:59.57,0:16:02.60,Hanekawa,,0,0,0,,Eso significa que el papel de verdad tiene una alta capacidad de conservar la información.{That means paper really \Nhas high information retainability.}{そうなると　紙の保存性はすごいですね}
-Dialogue: 0,0:16:02.60,0:16:06.84,Mayoi,,0,0,0,,Es por eso que estoy viendo Blu-rays y DVD's por primera vez en mucho tiempo.{That's why I'm watching Blu-rays and DVDs \Nfor the first time after such a long time.}{だからお姉さんは　久しぶりにBlu-rayとかDVDとか見るわけなのよ}
-Dialogue: 0,0:16:06.84,0:16:11.36,Mayoi,,0,0,0,,Me pregunto cómo debo analizar dicho material digital ahora que el mundo ha sido destruido.{I wonder how I should analyze such digital material \Nnow that the world has been destroyed.}{こういう映像資料とかって　世界が滅んだ後どう解析すればいいのかな}
-Dialogue: 0,0:16:11.36,0:16:15.05,Hanekawa,,0,0,0,,¿Cuál es el punto de analizar anime después de que el mundo ha sido destruido?{What's the point of analyzing anime \Nafter the world has been destroyed?}{世界が滅んだ後　アニメの解析なんてしますかね}
-Dialogue: 0,0:16:15.05,0:16:17.18,Mayoi,,0,0,0,,¡Son un material cultural importante de su época!{They're important cultural \Nmaterial of their time!}{当時の貴重な文化資料でしょう？}
-Dialogue: 0,0:16:17.18,0:16:19.18,Hanekawa,,0,0,0,,Eso es, si puedes reproducirlos.{That is if you can play them.}
-Dialogue: 0,0:16:19.32,0:16:21.42,Hanekawa,,0,0,0,,Quizás si excavas un reproductor.{Maybe if you excavate a playback device.}{再生機器も発掘されれば}
-Dialogue: 0,0:16:21.42,0:16:24.72,Hanekawa,,0,0,0,,Pero los sistemas eléctricos pueden ser diferentes.{But the electrical systems might be different.}{でも　電気のシステムとかも違っちゃってるだろうし}
-Dialogue: 0,0:16:24.72,0:16:26.95,Mayoi,,0,0,0,,Aunque los filmes pueden ser reproducidos.{Film footage can be played, though.}{フイルムの映像だったら再生できるね}
-Dialogue: 0,0:16:26.95,0:16:30.22,Hanekawa,,0,0,0,,En otras palabras, lo análogo es muy versátil.{In other words, analogue is really versatile.}{ようするに　アナログの汎用性が高いんですね}
-Dialogue: 0,0:16:30.22,0:16:36.50,Mayoi,,0,0,0,,Bueno, sería más fácil para cualquiera usar una katana que volar un jet con tecnología de punta cargado con misiles. {Well, it would be easier for anyone to use a katana \Nthan fly a state-of-the-art fighter loaded with missiles.}{そりゃ誰だって　ミサイルを搭載した最新鋭の戦闘機よりも　日本刀の方が使いやすいでしょう？}
-Dialogue: 0,0:16:36.50,0:16:40.27,Mayoi,,0,0,0,,Si la técnica y el conocimiento requerido se vuelve demasiado avanzado, pierde su universalidad.{If the technique and knowledge required \Nbecomes too advanced, it loses its generality.}{テクニックも知識も　精鋭がすぎると一般性を失うとか}
-Dialogue: 0,0:16:40.41,0:16:43.95,Mayoi,,0,0,0,,Lo mismo puede ser cierto para el anime.{The same thing might be true for anime.}
-Dialogue: 0,0:16:43.95,0:16:45.26,Hanekawa,,0,0,0,,¡No hable de ello, por favor!{Please don't talk about that!}
-Dialogue: 0,0:16:45.26,0:16:47.65,Hanekawa,,0,0,0,,¡No empieces a hablar de cosas complicadas!{Don't start talking about complicated stuff!}
-Dialogue: 0,0:16:47.65,0:16:50.87,Mayoi,,0,0,0,,Es difícil de imaginar a un creador vendiendo su alma a la mayoría...{It's hard to imagine a creator \Nselling their soul to the majority...}{クリエイターがメジャーに魂を売るのは考え物ですけれど}
-Dialogue: 0,0:16:50.87,0:16:55.69,Mayoi,x,0,0,0,,...pero, me pregunto si eso también aplica al vender su alma a la minoría.{...but I wonder if that applies \Nto selling their soul to the minority too.}{だからといって　マイナーに魂を売るのもそれはそれで考え物ってことかな}
-Dialogue: 0,0:16:55.69,0:16:57.65,Hanekawa,,0,0,0,,¿Vender su alma a la minoría?{Selling their soul to the minority?}
-Dialogue: 0,0:16:57.65,0:16:59.04,Hanekawa,,0,0,0,,¡Esa expresión es excesiva! {That's too much of an expression!}
-Dialogue: 0,0:16:59.04,0:17:02.22,Mayoi,,0,0,0,,Con ese razonamiento, ¡puedes quejarte de cualquier cosa!{With such reasoning, \Nyou can complain just about anything!}{この論法使うと　何にでも文句を付けられるよ}
-Dialogue: 0,0:17:02.22,0:17:05.75,Hanekawa,,0,0,0,,¡No trates de implantar una trivia tan detestable en una jovencita!{Don't try to implant such a \Ndetestable trivia in a young girl!}{明るい富んで嫌な豆知識を植えつけないでください　幼女に}
-Dialogue: 0,0:17:05.75,0:17:07.97,Mayoi,,0,0,0,,¿Por qué eres tan estricta?{Why are you being so strict?}
-Dialogue: 0,0:17:07.97,0:17:11.34,Mayoi,,0,0,0,,¡No me digas que vendiste tu alma a la minoría!{Don't tell me you sold your soul to the minority!}
-Dialogue: 0,0:17:11.34,0:17:13.73,Hanekawa,,0,0,0,,¿Como sobreviviste con esa clase de personalidad?{How did you even survive \Nwith that kind of personality?}
-Dialogue: 0,0:17:13.73,0:17:16.59,Hanekawa,,0,0,0,,No solo estos dos meses, ¡sino antes de que el mundo fuera destruido!{Not just for two months. \NEven before the world was annihilated!}
-Dialogue: 0,0:17:16.59,0:17:18.82,Mayoi,,0,0,0,,Aww, mira ese pesimismo.{Aw, look at that pessimism.}{おやおや　そんな必敗もんを}
-Dialogue: 0,0:17:19.10,0:17:21.04,Mayoi,,0,0,0,,¿Has vendido esta vez tu alma a la mayoría?{Have you sold your soul \Nto the majority this time?}
-Dialogue: 0,0:17:21.04,0:17:22.46,Hanekawa,,0,0,0,,¡Me estas acosando!{You're bullying me!}
-Dialogue: 0,0:17:22.46,0:17:25.16,Hanekawa,,0,0,0,,¡Oneesan, estas acosando abiertamente a una jovencita!{You're openly bullying a young girl, Oneesan!}
-Dialogue: 0,0:17:25.16,0:17:27.64,Mayoi,,0,0,0,,"Abiertamente" y "corsé" suenan similar, ¿verdad?{"Openly" and "corset" sound similar, right?}
-Dialogue: 0,0:17:25.16,0:17:27.64,CommentaryHalf,,0,0,0,,{\pos(875,990)}(korusetto){"Abiertamente" (kouzen to) y "corsé" (korusetto) suenan similar, ¿verdad?}
-Dialogue: 0,0:17:25.16,0:17:27.64,CommentaryHalf,,0,0,0,,{\pos(580,990)}(kouzen to){"Abiertamente" (kouzen to) y "corsé" (korusetto) suenan similar, ¿verdad?}
-Dialogue: 0,0:17:27.64,0:17:29.42,Hanekawa,,0,0,0,,¡¿Y qué si suenan similar?!{So what if they sound similar?!}
-Dialogue: 0,0:17:29.42,0:17:32.72,Mayoi,,0,0,0,,Ya que, "abiertamente" y "corsé" suenan similar, puedo cambiar de tema.{Since "openly" and "corset" sound similar, \NI can change the subject.}{逸れる}
-Dialogue: 0,0:17:32.72,0:17:33.92,Mayoi,,0,0,0,,¡Puedo escaparme de las criticas!{I can escape from criticism!}
-Dialogue: 0,0:17:33.92,0:17:36.86,Hanekawa,,0,0,0,,¡Tratando de cambiar más los temas! ¡Se una adulta!{Try to change the subject even more! Be an adult!}
-Dialogue: 0,0:17:33.92,0:17:36.86,CommentaryHalf,,0,0,0,,{\pos(1390,990)}(otona na{\u1}i to{\u0}){¡Tratando de cambiar más los temas! ¡Se una adulta (otona nai to)!}
-Dialogue: 0,0:17:36.86,0:17:37.86,Mayoi,,0,0,0,,¡Hermoso!{Beautiful!}
-Dialogue: 0,0:17:36.86,0:17:37.86,CommentaryHalf,,0,0,0,,{\pos(960,990)}({\u1}ito{\u0}okashi){¡Hermoso (itookashi)!}
-Dialogue: 0,0:17:37.86,0:17:40.32,Hanekawa,,0,0,0,,Como decía, ¡eso no cambia el tema!{Like I said, that won't change the subject!}
-Dialogue: 0,0:17:40.93,0:17:43.62,Hanekawa,,0,0,0,,En realidad, ¿qué se siente ser un adulto?{Actually, what does it feel to be an adult?}
-Dialogue: 0,0:17:43.62,0:17:44.51,Mayoi,,0,0,0,,¿Qué quieres decir?{What do you mean?}
-Dialogue: 0,0:17:44.61,0:17:46.58,Mayoi,,0,0,0,,Esa es una pregunta muy ambigua.{That's quite a vague question.}
-Dialogue: 0,0:17:46.58,0:17:51.30,Hanekawa,,0,0,0,,Tal vez es porque tengo seis años que me pregunto...{Maybe it's because I'm six years old \Nthat I'm wondering...}{いえ　特に今私が６歳だから思うことなのかもしれませんけれど}
-Dialogue: 0,0:17:51.30,0:17:54.73,Hanekawa,,0,0,0,,...como los adultos ven el mundo.{...how adults see the world.}{大人には　どんな風に世界が見えるんだろうなって}
-Dialogue: 0,0:17:54.73,0:17:55.73,Mayoi,,0,0,0,,Es igual.{It's the same.}
-Dialogue: 0,0:17:55.73,0:17:57.23,Hanekawa,,0,0,0,,Que respuesta tan decepcionante.{What a disappointing response.}
-Dialogue: 0,0:17:57.23,0:17:59.89,Mayoi,x,0,0,0,,O más bien nuestra vista se deteriora y vemos algo más borroso.{Or rather our eyesight deteriorates \Nand we see it in a blurrier manner.}{むしろ若干視力が落ちて霞んで見える}
-Dialogue: 0,0:17:59.89,0:18:01.91,Hanekawa,,0,0,0,,Ya no me dan tantas ganas de volverme una adulta.{I don't feel like becoming \Nan adult as much anymore.}{大人になる気は削がれますね}
-Dialogue: 0,0:18:01.91,0:18:04.74,Mayoi,,0,0,0,,Pues, tomate tu tiempo en convertirte en una adulta, Tsubasa-chan.{Well, take your time to become \Nan adult, Tsubasa-chan.}{ま　慌てずゆっくり大人になりなよ翼ちゃん}
-Dialogue: 0,0:18:04.74,0:18:07.64,Hanekawa,,0,0,0,,Bueno, aun si te comportaras como un adulto con esa clase de comprensión...{Well, even if you behave like an adult \Nwith that kind of understanding...}{いや　そんな理解力のあるアダルト振られても}
-Dialogue: 0,0:18:07.64,0:18:09.40,Hanekawa,,0,0,0,,...estabas hablando del lado de la salud.{...you were talking about the health side.}{健康面の話でしたし}
-Dialogue: 0,0:18:09.40,0:18:11.61,Mayoi,,0,0,0,,Aun si ignoras la conversación sobre salud...{Even if you ignore the health talk...}{健康面の話を差し引いても}
-Dialogue: 0,0:18:11.61,0:18:14.77,Mayoi,,0,0,0,,...el mundo se sentía mucho más amplio de niño.{...the world felt so much wider as a child.}{子供の頃はもっと世界が広く感じたものだよね}
-Dialogue: 0,0:18:14.98,0:18:18.84,Mayoi,,0,0,0,,Tener más conocimientos puede ser la razón de porque el mundo se siente más pequeño como adulto.{Having more knowledge might be \Nwhy the world feels smaller as an adult.}{変に知識が増えたせいで　大人には世界が狭く感じちゃうなかも}
-Dialogue: 0,0:18:18.84,0:18:19.76,Hanekawa,,0,0,0,,Entiendo.{I see.}
-Dialogue: 0,0:18:19.76,0:18:23.30,Mayoi,,0,0,0,,Quizás esté bajo la impresión de que mi conocimiento se ha expandido.{It might just be that I'm under the impression \Nthat my knowledge has expanded.}{それだって　知識が増えたと思い込んでるだけかもしれない}
-Dialogue: 0,0:18:23.42,0:18:28.33,Mayoi,,0,0,0,,En tus palabras, es como "No lo sé todo, solo estoy pretendiendo que lo sé".{In your terms, it's like "I don't know everything, \NI'm just pretending that I do."}
-Dialogue: 0,0:18:28.33,0:18:30.11,Hanekawa,,0,0,0,,¡No lo digas con mis palabras!{Don't say it in my terms!}
-Dialogue: 0,0:18:30.11,0:18:32.03,Hanekawa,,0,0,0,,¡Además, se siente peor así!{Plus it feels worse like that!}{しかも感じ悪くなってますし}
-Dialogue: 0,0:18:32.03,0:18:35.96,Mayoi,,0,0,0,,Aun con el enunciado original, dependiendo de quien lo diga, también se siente peor.{Even for the original phrasing, \Ndepending on the person saying it, it might feel worse too.}{元のセリフだって　言う人次第では感じ悪くなりそうだけどね}
-Dialogue: 0,0:18:36.13,0:18:37.77,Mayoi,,0,0,0,,¡No lo sé todo!{I don't know everything!}
-Dialogue: 0,0:18:37.77,0:18:39.56,Mayoi,,0,0,0,,¡Solo sé lo que sé~!{I just know what I know~!}
-Dialogue: 0,0:18:39.56,0:18:42.04,Hanekawa,,0,0,0,,¿No te sientes peor?{Isn't that just you feeling worse?}{それはあなたが感じ悪いだけでは？}
-Dialogue: 0,0:18:42.04,0:18:43.43,Hanekawa,,0,0,0,,¡¿Qué clase de adulto eres?!{What kind of adult are you?!}
-Dialogue: 0,0:18:43.43,0:18:46.42,Mayoi,,0,0,0,,Como decía, es por eso que 21 años no te convierte en un adulto.{That's why, like I said, \N21 years old doesn't make an adult.}
-Dialogue: 0,0:18:46.42,0:18:47.48,Mayoi,,0,0,0,,¡Aun soy una niña!{I'm still a child!}
-Dialogue: 0,0:18:47.48,0:18:49.23,Hanekawa,,0,0,0,,Dejando de lado la pregunta si eres o no un adulto...{The question of whether you're an adult aside...}
-Dialogue: 0,0:18:49.23,0:18:51.40,Hanekawa,,0,0,0,,...al menos, ya no eres una niña, ¿verdad?{...at the very least, \Nyou aren't a child anymore, right?}
-Dialogue: 0,0:18:51.40,0:18:55.00,Mayoi,x,0,0,0,,Es fácil perder la noción si un Dragón de Kodomo es un niño o un adulto.{It's easy to lose track of whether a \NKodomo dragon is an adult or child.}{コドモドラゴンって　大人なのか子供なのか見失うよね}
-Dialogue: 0,0:18:51.40,0:18:55.00,CommentaryHalf,x,0,0,0,,{\pos(1440,990)}(kodomo){Es fácil perder la noción si un Dragón de Kodomo es un niño (kodomo) o un adulto.}
-Dialogue: 0,0:18:55.00,0:18:56.15,Hanekawa,,0,0,0,,¡No lo es!{It isn't!}{見失いません}
-Dialogue: 0,0:18:56.15,0:18:58.31,Hanekawa,,0,0,0,,¡Porque es un Dragon de Komodo!{Because it's Komodo dragon!}{何故なら　コモドドラゴンだから}
-Dialogue: 0,0:18:58.31,0:18:59.79,Mayoi,,0,0,0,,Ah, ¡increíble!{Ah. How amazing!}{へ　偉いね}
-Dialogue: 0,0:18:59.79,0:19:02.01,Mayoi,,0,0,0,,De verdad lo sabes todo, ¿cierto, Tsubasa-chan?{You really do know everything, \Nright, Tsubasa-chan?}
-Dialogue: 0,0:19:02.01,0:19:02.87,Hanekawa,,0,0,0,,No voy a decir nada.{I'm not saying anything.}
-Dialogue: 0,0:19:02.87,0:19:03.87,CommentaryDefault,,0,0,0,,Lo lamento.{I'm sorry.}
-Dialogue: 0,0:19:03.87,0:19:05.11,Mayoi,,0,0,0,,Ah, se disculpó.{Ah, she apologized.}
-Dialogue: 0,0:19:05.11,0:19:06.34,Hanekawa,,0,0,0,,Ella se disculpó, ¿verdad?{She apologized, right?}
-Dialogue: 0,0:19:06.34,0:19:08.31,Mayoi,,0,0,0,,Se disculpó por destruir el mundo.{She apologized for destroying the world.}
-Dialogue: 0,0:19:08.43,0:19:12.61,Hanekawa,,0,0,0,,La legendaria vampiro sí que tiene una gran disculpa.{The legendary vampire sure has a lengthy apology.}{伝説の吸血鬼さんは　謝罪内容もスケールが多きですね}
-Dialogue: 0,0:19:12.61,0:19:15.94,Mayoi,,0,0,0,,Pero los dos se llevan muy bien, ¿no es así?{But the two of them really \Nget along well, don't they?}
-Dialogue: 0,0:19:15.94,0:19:19.05,Hanekawa,,0,0,0,,Si dices que se llevan bien, es algo diferente.{If you're saying they get along well, \Nit's a little different.}
-Dialogue: 0,0:19:19.13,0:19:22.76,Hanekawa,,0,0,0,,Aunque sea un mundo diferente al mío, y siendo el futuro...{Although it's a different worldview \Nthan mine, and the future...}{私とは違う世界観の　しかも将来の話なので}
-Dialogue: 0,0:19:22.76,0:19:24.54,Hanekawa,,0,0,0,,...así que no puedo llegar a una conclusión precipitada.{...so I can't really jump to a hasty conclusion.}{あまり憶断はできませんが}
-Dialogue: 0,0:19:24.54,0:19:25.35,Mayoi,,0,0,0,,¿Hmm?{Hm?}
-Dialogue: 0,0:19:25.35,0:19:28.35,Hanekawa,,0,0,0,,Cuando me encuentro con ellos, se estaban abrazando con fuerza.{When I ran into them, they were hugging tightly.}{私と会った時はべったりでしたが　だっこして}
-Dialogue: 0,0:19:28.35,0:19:29.18,Mayoi,,0,0,0,,¿Lo estaban?{Were they?}{だっけ}
-Dialogue: 0,0:19:29.60,0:19:32.86,Mayoi,,0,0,0,,En mi mundo, me pregunto lo que los dos podrían haber sentido.{With my worldview, I wonder what \Nthe two of them would have felt like.}{こっちの世界観では　二人どんな感じだったんだろうね}
-Dialogue: 0,0:19:32.86,0:19:37.59,Hanekawa,,0,0,0,,En Junio, no creo que Oshino Shinobu-san haya hablado.{As of June, I don't think \NOshino Shinobu-san had spoken yet.}{６月の段階では　まだ忍野忍さんは　喋ってなかったはずです}
-Dialogue: 0,0:19:37.59,0:19:43.24,Hanekawa,x,0,0,0,,Así que supongo que desde las vacaciones de primavera, su relación terminó sin que se volvieran a hablar de nuevo.{So I guess ever since the spring break, their relationship ended \Nwith them not speaking to each other anymore.}{だから春休み以降　口を利くことのないまま関係終わってしまったということでしょう}
-Dialogue: 0,0:19:43.24,0:19:44.47,Mayoi,,0,0,0,,Que triste.{How sad.}
-Dialogue: 0,0:19:44.60,0:19:48.32,Mayoi,,0,0,0,,Pero si mediara con ellos como lo estoy haciendo ahora, no creo que hubiera sido capaz de hacer algo.{But if I were to mediate between them as I am right now, \NI don't think I would have been able to do anything.}{でも　今の私が間に入っても　何もできなかっただろうしな}
-Dialogue: 0,0:19:48.32,0:19:49.42,Hanekawa,,0,0,0,,¿En serio?{Really?}
-Dialogue: 0,0:19:49.42,0:19:50.44,Mayoi,,0,0,0,,Sip.{Yeah.}
-Dialogue: 0,0:19:50.44,0:19:53.35,Mayoi,x,0,0,0,,Incluso si una Oneesan de 21 años como yo se pierde en un parque...{Even if a 21-year-old big sister like me \Ngot lost in a park...}
-Dialogue: 0,0:19:53.35,0:19:56.13,Mayoi,,0,0,0,,...no creo que Araragi Koyomi-kun hubiera acudido a mi ayuda.{...I don't think Araragi Koyomi-kun \Nwould have come to my aid.}
-Dialogue: 0,0:19:56.13,0:19:59.42,Hanekawa,,0,0,0,,No tienes que conocerlos bajo la misma situación.{You don't have to meet under the same situation.}
-Dialogue: 0,0:19:59.42,0:20:01.69,Mayoi,x,0,0,0,,Me pregunto si los conociera, nos volveríamos amigos.{I wonder if we would have \Nbecome friends if we met.}
-Dialogue: 0,0:20:01.69,0:20:04.34,Mayoi,,0,0,0,,No creo que nos convertiríamos en amigos de la misma manera.{I don't think we'd become \Nfriends in the same way.}{同じような友達にはなれてないだろうな}
-Dialogue: 0,0:20:04.46,0:20:08.74,Mayoi,,0,0,0,,No sería capaz de decir "Lo siento, tartamudee" ahora teniendo 21 años.{I won't be able to say \N"Sorry, I bit my tongue" now that I'm 21 years old.}{やっぱり２１歳にもなって　失礼噛みましたとは言えないもんね}
-Dialogue: 0,0:20:08.74,0:20:10.03,Mayoi,,0,0,0,,Tal vez "Disculpe" podría funcionar.{Maybe "Apologies" could work.}
-Dialogue: 0,0:20:10.03,0:20:12.75,Hanekawa,,0,0,0,,Tampoco creo que puedas decir "Disculpe".{I don't think you can say "Apologies" either.}{ご無礼だって十分言えなくないですか？}
-Dialogue: 0,0:20:13.57,0:20:17.20,Mayoi,,0,0,0,,¡Oh! Mientras me disculpaba, estamos en la Escena #24{Oh! While I was apologizing, \Nit's already Scene 24.}
-Dialogue: 0,0:20:17.36,0:20:19.67,Mayoi,,0,0,0,,Ya casi estamos en el espectáculo de fuegos artificiales.{We're almost at the fireworks display.}
-Dialogue: 0,0:20:19.94,0:20:21.62,Mayoi,,0,0,0,,¡Que idea tan asombrosa!{What an amazing idea!}
-Dialogue: 0,0:20:21.62,0:20:24.01,Mayoi,,0,0,0,,¿Quién hubiera pensado en usar fuegos artificiales para buscar sobrevivientes?{Who would have thought of using \Nfireworks to look for survivors?}
-Dialogue: 0,0:20:24.01,0:20:26.56,Hanekawa,,0,0,0,,Pero de hecho consiguieron llamarte.{But they actually managed to call for you.}{でも　実際あなたを呼べたわけですから}
-Dialogue: 0,0:20:26.56,0:20:28.56,Mayoi,,0,0,0,,Sip, pero me mintió.{Yeah, but he lied to me.}{ん　嘘つかれたけどね}
-Dialogue: 0,0:20:28.78,0:20:31.25,Mayoi,,0,0,0,,Me dijo que solo estaban jugando.{He told me they were just playing.}{何となく遊びでやってたとか言われちゃった}
-Dialogue: 0,0:20:31.46,0:20:33.17,Mayoi,,0,0,0,,¡Ugh! ¡No puedo creer que me haya mentido!{Ugh! I can't believe he lied!}
-Dialogue: 0,0:20:33.17,0:20:34.87,Mayoi,,0,0,0,,¡No perdono a los mentirosos! ¡Los odio!{I won't forgive liars! I hate them!}
-Dialogue: 0,0:20:34.87,0:20:36.90,Hanekawa,,0,0,0,,Los adultos tienen 0 libertad, ¡¿no es así?{Adults have zero freedom, don't they?!}{大人の余裕ゼロじゃないですか}
-Dialogue: 0,0:20:36.90,0:20:42.47,Hanekawa,,0,0,0,,De hecho, desde el punto de vista, no deberías descubrir que fue una mentira.{Actually, standpoint-wise, \Nyou shouldn't be learning it was a lie.}{っていうか　マヨイお姉さんは立場的に　それが嘘だって知っちゃったらダメ何じゃないですか？}
-Dialogue: 0,0:20:42.47,0:20:43.69,Mayoi,,0,0,0,,Ups, ¡tienes razón!{Oops, you're right!}
-Dialogue: 0,0:20:43.69,0:20:45.47,Mayoi,,0,0,0,,Necesito demostrar la habilidad de ser astuta.{I need to demonstrate the skill to be crafty.}{ズルスキルを発揮しなければ}
-Dialogue: 0,0:20:45.47,0:20:48.02,Mayoi,x,0,0,0,,¡Una habilidad adulta para ser astuta! ¡Aztuta!{An adult's skill to be crafty! Zkill!}
-Dialogue: 0,0:20:45.47,0:20:48.02,CommentaryHalf,x,0,0,0,,{\pos(1200,990)}(zuru skill){¡Una habilidad adulta de ser astuta! (zuru skill)! ¡Aztuta! }
-Dialogue: 0,0:20:48.02,0:20:50.97,Hanekawa,x,0,0,0,,¿Aztuta? Suena como una habilidad que te hace doler la cabeza.{Zkill? Sounds like a skill \Nthat would make one's head hurt.}
-Dialogue: 0,0:20:48.02,0:20:50.97,CommentaryHalf,x,0,0,0,,{\pos(350,990)}(zu=cabeza+kill){(zu/head+kill)}
-Dialogue: 0,0:20:50.97,0:20:52.86,Mayoi,,0,0,0,,¡Jajaja! Podría decirse que sí. {Ahaha! You could say that.}
-Dialogue: 0,0:20:52.86,0:20:55.03,Hanekawa,,0,0,0,,También es una habilidad que te haría más tonta.{It's also a skill that \Nwould make your head dumber.}
-Dialogue: 0,0:20:55.03,0:20:56.82,Mayoi,,0,0,0,,Duele si lo dices de esa manera.{It hurts if you say it like that.}{そこまで言われたら傷つくな}
-Dialogue: 0,0:20:56.82,0:20:58.29,Hanekawa,,0,0,0,,Eres un adulto sensible, ¿verdad?{You're a sensitive adult, aren't you?}{繊細な大人ですね}
-Dialogue: 0,0:20:58.29,0:20:59.70,Mayoi,,0,0,0,,21 años.{21 years old.}
-Dialogue: 0,0:21:00.22,0:21:01.98,Hanekawa,,0,0,0,,Su aspecto en yukatas...{Their yukata forms here...}
-Dialogue: 0,0:21:01.98,0:21:02.44,Mayoi,,0,0,0,,¿Sip?{Yeah?}
-Dialogue: 0,0:21:02.69,0:21:04.02,Mayoi,,0,0,0,,¿Qué tiene de malo?{What's wrong with them?}
-Dialogue: 0,0:21:04.02,0:21:04.85,Mayoi,,0,0,0,,¿No quieres portar uno?{Do you want to wear one?}
-Dialogue: 0,0:21:04.85,0:21:07.30,Hanekawa,,0,0,0,,No, me preguntaba...{No, I was wondering...}{いえ　どうしたのかなって思って}
-Dialogue: 0,0:21:07.43,0:21:10.70,Hanekawa,,0,0,0,,...como consiguieron encontrar algo como eso en esa tienda.{...how they managed to find \Nsomething like that in that shop.}{あの商店にあったとは思いにくいんですけれど}
-Dialogue: 0,0:21:10.70,0:21:12.02,Mayoi,,0,0,0,,Ah, ¿era eso?{Ah, what was it?}
-Dialogue: 0,0:21:12.02,0:21:14.94,Mayoi,,0,0,0,,¿No podían crearlo con su habilidad vampírica?{Weren't they created with her vampire skill?}
-Dialogue: 0,0:21:15.06,0:21:16.64,Mayoi,,0,0,0,,Ella antes dijo algo por el estilo.{She said something like that earlier.}
-Dialogue: 0,0:21:16.64,0:21:18.15,Hanekawa,,0,0,0,,¿Habilidad vampirica?{Vampire skill?}
-Dialogue: 0,0:21:18.15,0:21:20.72,Mayoi,,0,0,0,,Aparentemente, ella tiene la habilidad de crear materia.{Apparently she has the ability to create matter.}
-Dialogue: 0,0:21:20.72,0:21:21.44,Hanekawa,,0,0,0,,¿Oh?{Oh?}
-Dialogue: 0,0:21:21.44,0:21:24.63,Hanekawa,,0,0,0,,Así que ella no debería tener ningún problema con la ropa.{So she doesn't have any trouble with clothes.}{じゃ　着るもの困らないというわけですか}
-Dialogue: 0,0:21:24.75,0:21:27.44,Hanekawa,,0,0,0,,Se colocaron las yukatas para estar a tono con los fuegos artificiales.{They changed into yukatas \Nto get into the fireworks mood.}{花火の気分を出すために浴衣に着替えた}
-Dialogue: 0,0:21:27.44,0:21:30.59,Hanekawa,,0,0,0,,En ese caso, también estaban jugando.{In that case, they were actually also playing.}{となると　本当に遊び気分もあったんでしょうね}
-Dialogue: 0,0:21:30.59,0:21:31.64,Hanekawa,,0,0,0,,¡Un espectáculo pirotécnico!{A fireworks display!}
-Dialogue: 0,0:21:32.43,0:21:34.49,Mayoi,,0,0,0,,Así que no fue un completo mentiroso.{So he wasn't a complete liar.}
-Dialogue: 0,0:21:34.49,0:21:35.57,Mayoi,,0,0,0,,Entonces lo perdono.{Then I'll forgive him.}
-Dialogue: 0,0:21:35.57,0:21:37.69,Hanekawa,,0,0,0,,En vez de ser un adulto tolerante...{Rather than being a tolerant adult...}
-Dialogue: 0,0:21:37.69,0:21:40.27,Hanekawa,,0,0,0,,...solo pretendes ser un adulto tolerante.{...you're just pretending to be a tolerant adult.}
-Dialogue: 0,0:21:40.27,0:21:42.27,Mayoi,,0,0,0,,¿Te gustan los fuegos artificiales, Tsubasa-chan?{Do you like fireworks, Tsubasa-chan?}
-Dialogue: 0,0:21:42.27,0:21:45.57,Hanekawa,,0,0,0,,En vez de fuegos artificiales, prefiero las flores cubre suelos.{Rather than fireworks, I prefer land flowers.}
-Dialogue: 0,0:21:42.27,0:21:52.04,CommentaryHalf,,0,0,0,,{\an8}NdT: La escritura de "Fuegos artificiales" en japones "花火", significa literalmente "flor (花) de fuego (火)"{TL: "Fireworks" written in Japanese \Nliterally means "flower fire."}
-Dialogue: 0,0:21:45.57,0:21:46.92,Mayoi,,0,0,0,,¿Flores cubre suelos?{Land flowers?}
-Dialogue: 0,0:21:46.92,0:21:48.17,Mayoi,,0,0,0,,¿Quieres decir las ruedas pirotécnicas?{You mean Catherine wheels?}
-Dialogue: 0,0:21:48.17,0:21:52.04,Hanekawa,,0,0,0,,No, las ruedas pirotécnicas no son como las flores cubre suelos.{No, Catherine wheels \Nare nothing like land flowers.}
-Dialogue: 0,0:21:52.15,0:21:54.70,Hanekawa,,0,0,0,,En primer lugar, le temo al fuego.{In the first place, I'm afraid of fire.}
-Dialogue: 0,0:21:54.70,0:21:56.76,Mayoi,,0,0,0,,¿Oh? ¿Le temes al fuego?{Oh? You're afraid of fire?}
-Dialogue: 0,0:21:56.76,0:21:59.11,Hanekawa,,0,0,0,,¿Qué piensas de los fuegos artificiales, Mayoi-oneesan?{What do you think of fireworks, Mayoi-oneesan?}
-Dialogue: 0,0:21:59.11,0:22:01.49,Mayoi,,0,0,0,,Para mí, en lugar de fuegos artificiales, prefiero el dango.{For me, rather than fireworks, I prefer dango.}
-Dialogue: 0,0:22:01.49,0:22:03.56,Hanekawa,,0,0,0,,Aun si dices que prefieres el dango a los fuegos artificiales...{Even if you say you prefer dango \Nthan fireworks...}
-Dialogue: 0,0:22:03.56,0:22:05.16,Mayoi,,0,0,0,,En vez de fuegos artificiales, ¡F4!{Rather than fireworks, F4!}
-Dialogue: 0,0:22:05.16,0:22:08.30,Hanekawa,,0,0,0,,Sera mejor que Araragi Koyomi-san no escuche eso.{Araragi Koyomi-san better not hear that.}
-Dialogue: 0,0:22:08.30,0:22:09.34,Mayoi,,0,0,0,,¡Solo bromeaba!{Just kidding!}
-Dialogue: 0,0:22:09.34,0:22:11.06,Mayoi,,0,0,0,,En realidad, en vez de fuegos artificiales, ¡prefiero la F1!{Actually, rather than fireworks, I prefer F1!}
-Dialogue: 0,0:22:11.06,0:22:12.22,Mayoi,,0,0,0,,¡Amo el automovilismo!{I love car racing!}
-Dialogue: 0,0:22:12.30,0:22:15.25,Hanekawa,,0,0,0,,Es cierto que si conduces un monoplaza de F1 a un evento de fuegos pirotécnicos...{It's true that if you drive \Nan F1 car to a fireworks venue...}{Ｆ１カーに乗って花火会場に乗り込んできたら}
-Dialogue: 0,0:22:15.25,0:22:17.69,Hanekawa,,0,0,0,,...todos se quedarían mirándote.{...everyone would look at you instead.}{確かに皆そっちを見っちゃうでしょうね}
-Dialogue: 0,0:22:17.69,0:22:19.55,Mayoi,,0,0,0,,En otras palabras, en vez de fuegos artificiales, ¡amontonados como un dango! {In other words, rather than fireworks, \Nbunched up like dango!}{言わば　花火より団子状態}
-Dialogue: 0,0:22:19.55,0:22:23.28,Hanekawa,,0,0,0,,¿Amontonados como un dango? Suena como si la carrera se calentara.{Bunched up like dango? \NSounds like the race is heating up.}{団子状態って　レースは白熱しているようですけれども}
-Dialogue: 0,0:22:23.28,0:22:26.90,Mayoi,,0,0,0,,Solía preguntarme que pasaría si observara los fuegos artificiales desde un lado.{I used to wonder what would happen \Nif I viewed fireworks from the side.}{花火って真横から見たらどうなってるんだろうって昔考えたな}
-Dialogue: 0,0:22:26.90,0:22:28.20,Hanekawa,,0,0,0,,Ah, ¡lo se!{Ah, I know!}
-Dialogue: 0,0:22:28.20,0:22:30.98,Hanekawa,,0,0,0,,No lo sabias, ¿o sí? Los fuegos artificiales son de forma esférica.{You didn't know, did you? \NFireworks are spherical in shape.}
-Dialogue: 0,0:22:30.98,0:22:31.76,Mayoi,,0,0,0,,¡¿En serio?!{Really?!}
-Dialogue: 0,0:22:31.76,0:22:33.65,Hanekawa,,0,0,0,,¡¿Hasta ahora te diste cuenta?!{You only realized it now?!}
-Dialogue: 0,0:22:33.65,0:22:35.02,Hanekawa,,0,0,0,,¡Dejaste de pensar en ello!{You just stopped thinking about it!}
-Dialogue: 0,0:22:35.02,0:22:38.40,Mayoi,,0,0,0,,¡Y así, la Parte B de Mayoi Jiangshi, Episodio 3 ha terminado!{And so, Mayoi Jiangshi \Nepisode 3 Part B is finished too!}
-Dialogue: 0,0:22:38.40,0:22:40.01,Hanekawa,,0,0,0,,Volveremos en el Episodio 4!{We'll be back in episode 4!}
-Dialogue: 0,0:22:40.88,0:22:41.96,Mayoi,,0,0,0,,¡Es el Ending!{Ending theme!}
-Dialogue: 0,0:22:41.96,0:22:44.12,Mayoi,,0,0,0,,¡De verdad que 30 minutos se fueron en un abrir y cerrar de ojos!{30 minutes really went by in the blink of an eye!}
-Dialogue: 0,0:22:44.12,0:22:47.99,Mayoi,,0,0,0,,A todos ustedes, ¿disfrutaron la charla entre Mayoi-oneesan con Tsubasa-chan?{Everyone, did you enjoy \NMayoi-oneesan's talk with Tsubasa-chan?}
-Dialogue: 0,0:22:47.99,0:22:50.67,Hanekawa,,0,0,0,,30 minutos se fueron en un abrir y cerrar de ojos...{30 minutes did go by in the blink of an eye...}
-Dialogue: 0,0:22:50.67,0:22:53.92,Hanekawa,,0,0,0,,...pero si es posible, hubiera preferido hablar sobre algo con más sustancia.{...but if possible, I'd have preferred \Nto talk about something more substantial.}{できればもうちょっと実のある話をしたかったですね}
-Dialogue: 0,0:22:53.92,0:22:56.94,Mayoi,,0,0,0,,¿Por qué? ¿No fue lo suficientemente sustancial?{Why? Wasn't it substantial enough?}
-Dialogue: 0,0:22:56.94,0:22:59.62,Hanekawa,,0,0,0,,Aun así, fue irrelevante.{Even so, it was meaningless.}{実はあっても　意味がなかったと言いますが}
-Dialogue: 0,0:22:59.62,0:23:01.66,Mayoi,,0,0,0,,Que estricta eres, Tsunbasa-chan.{How strict you are, Tsunbasa-chan.}
-Dialogue: 0,0:23:01.66,0:23:04.29,Hanekawa,,0,0,0,,¡Por favor, deja de llamarme Tsunbasa-chan!{Please stop calling me Tsunbasa-chan!}
-Dialogue: 0,0:23:04.29,0:23:05.96,Mayoi,,0,0,0,,¿Entonces que tal Conservadora-chan?{Then how about Conservative-chan?}
-Dialogue: 0,0:23:05.96,0:23:08.81,Hanekawa,,0,0,0,,¿Conservadora-chan? ¿De qué manera soy conservadora?{Conservative-chan? In what way am I conservative?}{言及}
-Dialogue: 0,0:23:08.81,0:23:12.56,Mayoi,,0,0,0,,Pero mira, hoy te vestiste de manera conservadora.{But look, you're dressed conservatively today.}{でもほら　今日も翼ちゃんは　コンサバファッションで来てるわけだし}
-Dialogue: 0,0:23:12.56,0:23:14.12,Hanekawa,,0,0,0,,¡Que no! ¡Que no!{I'm not! I'm not!}
-Dialogue: 0,0:23:14.12,0:23:16.65,Mayoi,,0,0,0,,Asi que para ti, ¿qué es una pista de comentarios valiosa?{So what's a meaningful commentary track to you?}
-Dialogue: 0,0:23:16.65,0:23:17.47,Hanekawa,,0,0,0,,Pues...{Well...}
-Dialogue: 0,0:23:17.56,0:23:21.08,Hanekawa,,0,0,0,,Es difícil responderte si me lo preguntas de esa manera...{It's hard for me to answer \Nif you ask it that way...}
-Dialogue: 0,0:23:21.08,0:23:22.43,Mayoi,,0,0,0,,¿Tal vez una versión en Inglés?{Maybe an English version?}{英語版とかかな}
-Dialogue: 0,0:23:22.43,0:23:23.47,Hanekawa,,0,0,0,,Ah, ya veo.{Ah, I see.}
-Dialogue: 0,0:23:23.47,0:23:24.56,Hanekawa,,0,0,0,,¿Quieres decir un doblaje?{You mean dubbing?}{吹き替えですか？}
-Dialogue: 0,0:23:24.56,0:23:25.93,Hanekawa,,0,0,0,,Eso sería valioso.{That will be meaningful.}
-Dialogue: 0,0:23:25.93,0:23:28.06,Mayoi,,0,0,0,,Aunque, seriamos las dos haciendo el doblaje.{It'd be us doing the dubbing, though.}{吹き替えも私がやるんだけれど}
-Dialogue: 0,0:23:28.06,0:23:30.03,Hanekawa,,0,0,0,,Eso sería un trabajo muy difícil.{That'd be a really difficult job.}
-Dialogue: 0,0:23:30.03,0:23:31.67,Hanekawa,,0,0,0,,Las cosas se han puesto más difíciles.{Things have gotten more laborious.}{労力は増しましたね}
-Dialogue: 0,0:23:31.67,0:23:34.88,Mayoi,,0,0,0,,Las cosas valiosas son difíciles de hacer.{Meaningful things are difficult to do.}{意味があることっていうことは　為すのも大変なんだよ}
-Dialogue: 0,0:23:34.88,0:23:36.72,Hanekawa,,0,0,0,,En vez de ser valioso...{Rather than being meaningful...}{それは意味があるというより}
-Dialogue: 0,0:23:36.72,0:23:38.92,Hanekawa,,0,0,0,,...es algo que parezca valioso.{...it's just something that sounds meaningful.}{意味ありげなだけのセリフですね}
-Dialogue: 0,0:23:38.92,0:23:42.36,Mayoi,x,0,0,0,,Después de esto, será el adelanto y continuaremos en el Episodio 4, ¿verdad?{After this will be the preview, \Nand we'll continue in episode 4, right?}
-Dialogue: 0,0:23:42.36,0:23:44.32,Mayoi,x,0,0,0,,Me pregunto si apareceré en el avant.{I wonder if I'll appear in the avant.}
-Dialogue: 0,0:23:44.32,0:23:46.06,Hanekawa,,0,0,0,,Si, eso creo.{Yes, I think so.}
-Dialogue: 0,0:23:46.06,0:23:49.20,Mayoi,,0,0,0,,Me pregunto si apareceré diciendo "!Saludos Conbatientes! para mi gente lolicool" {I wonder if I'll appear saying \N"Lolicool people, Combattler!"}
-Dialogue: 0,0:23:49.20,0:23:51.43,Hanekawa,,0,0,0,,¿Entonces no aparecerías como una jovencita?{Wouldn't you be appearing as a young girl then?}{幼女版で登場しているじゃないですか}
-Dialogue: 0,0:23:51.43,0:23:54.03,Mayoi,,0,0,0,,Ahora que lo pienso, es un saludo muy impresionante.{Thinking about it now, \Nit's quite an amazing greeting.}{今思うとすごい挨拶だね　これ}
-Dialogue: 0,0:23:54.32,0:23:56.32,Mayoi,,0,0,0,,Soy alguien que no le teme a nada.{I'm really someone who fears nothing.}{怖いもの知らずだな　私}
-Dialogue: 0,0:23:56.32,0:23:59.90,Hanekawa,,0,0,0,,"No le temo a nada" y "No sé nada" suenan muy similares.{"Fear nothing" and "know nothing" \Nsound falsely similar.}{怖いもの知らずともの知らずは　似て非なるものですが}
-Dialogue: 0,0:23:56.32,0:23:59.90,CommentaryHalf,,0,0,0,,{\pos(550,990)}(kowai mono shirazu){"No le temo a nada (kowai mono shirazu)" and y "No se nada (mono shirazu)" suenan muy similares.}
-Dialogue: 0,0:23:56.32,0:23:59.90,CommentaryHalf,,0,0,0,,{\pos(950,990)}(mono shirazu){"No le temo a nada (kowai mono shirazu)" and y "No se nada (mono shirazu)" suenan muy similares.}
-Dialogue: 0,0:23:59.90,0:24:02.91,Mayoi,,0,0,0,,¿Oh? ¿Estás diciendo que no se nada?{Oh? Are you saying I know nothing?}
-Dialogue: 0,0:24:03.01,0:24:06.15,Mayoi,,0,0,0,,"Como ya lo sabes, no sé nada". ¿Algo así?{"I don't know everything, \Nas you already know." Like that?}{何でもは知らないわよ　ご存知ですこと　だって}
-Dialogue: 0,0:24:06.15,0:24:09.01,Hanekawa,,0,0,0,,No, no tan refinado.{No, not that refined.}{いえ　そんな上品な口調では喋りません}
-Dialogue: 0,0:24:10.36,0:24:11.47,Mayoi,x,0,0,0,,¡Es el adelanto!{It's the preview!}
-Dialogue: 0,0:24:11.47,0:24:13.97,Hanekawa,x,0,0,0,,El adelanto también ha viajado en el tiempo.{The preview has traveled in time too.}{予告でもタイムスリップしちゃいましたね}
-Dialogue: 0,0:24:13.97,0:24:17.65,Mayoi,,0,0,0,,Te estarás preguntado que le paso a las dos en nuestro mundo, ¿verdad?{You're wondering what happened \Nto those two in our worldview, right?}{この二人は私たちの世界観ではどうなったのかってことだよね}
-Dialogue: 0,0:24:17.65,0:24:18.47,Hanekawa,,0,0,0,,Sip.{Yeah.}
-Dialogue: 0,0:24:18.47,0:24:20.54,Mayoi,,0,0,0,,Considerando la fuerza de las Hermanas Fuego...{Taking into consideration \Nthe strength of the Fire Sisters...}{ファイヤシスターズの実力があれば}
-Dialogue: 0,0:24:20.54,0:24:24.41,Mayoi,x,0,0,0,,...no me sorprendería si son algunas de las personas sobrevicool.{...I wouldn't be surprised \Nif they were one of the survivorcool people.}{生き残りカッケー皆さんに含まれていても不思議じゃないとは思うけれど}
-Dialogue: 0,0:24:24.41,0:24:25.91,Hanekawa,,0,0,0,,Me acabo de dar cuenta...{I only just realized...}
-Dialogue: 0,0:24:25.91,0:24:33.03,Hanekawa,,0,0,0,,...que "sobrevicool" también es un juego de palabras de "lolicool", ¿verdad?{...but "survivorcool" is also \Na pun on lolicool, right?}{その生き残りカッケーっていうのは ロリカッケーと語呂的にもかかっているんですね　ロリとコリがかかっているんですね}
-Dialogue: 0,0:24:33.03,0:24:35.40,Mayoi,,0,0,0,,No importa que tan vieja sea, ¡continuaré diciendo cosas geniales!{No matter how old I am, \NI'll continue to say great things!}{幾つになってもうまいこと言い続けるよ}
-Dialogue: 0,0:24:35.40,0:24:38.02,Hanekawa,,0,0,0,,Esa actitud mental es digna de admirar.{That mental attitude is worth admiring.}{その心掛け感心に値しますね}
-Dialogue: 0,0:24:38.02,0:24:40.26,Mayoi,,0,0,0,,Incluso si quedara sola, ¡continuaré diciendo cosas geniales!{Even if I'm left alone, \NI'll continue to say great things!}{独りになってもうまいこと言い続けるよ}
-Dialogue: 0,0:24:40.26,0:24:41.44,Hanekawa,,0,0,0,,Que triste.{That's sad.}
-Dialogue: 0,0:24:41.44,0:24:47.69,Mayoi,,0,0,0,,Tsubasa-chan, podrías pensar que mi emoción se siente rara para alguien de 21 años...{Tsubasa-chan, you might think my \Nexcitement feels weird for a 21-year-old...}{翼ちゃん　ひょっとすると　マヨイお姉ちゃんのテンションが２１歳にしては可笑しいと思っているかもしれないけれど}
-Dialogue: 0,0:24:47.69,0:24:50.38,Mayoi,,0,0,0,,...pero por favor, piénsalo como la emoción de alguien...{...but please think of it \Nas the excitement of someone...}{これは数か月間一人で生きてきたヤツが　久しぶりに人と会話している時のテンションなのだと思っていただきたい}
-Dialogue: 0,0:24:50.38,0:24:54.27,Mayoi,,0,0,0,,...quien finalmente puede hablar con otra persona después de muchos meses en confinamiento solitario.{...who finally got to chat with another person \Nafter several months of solitary living.}
-Dialogue: 0,0:24:54.27,0:24:57.72,Hanekawa,,0,0,0,,En ese caso, no puedo criticarte por eso.{In that case, I can't really \Ncriticize you for that.}{そう考えるとあまりひどいことは言えませんね}
+Dialogue: 0,0:00:00.60,0:00:05.43,Mayoi,,0,0,0,,Y así, para todas las menos de 100 personas sobrevicool que quedan en la Tierra, ¡Saludos Conserjes!{And so, to all of Earth's less than \N100 survivorcool people, concierge!}
+Dialogue: 0,0:00:05.43,0:00:06.74,Mayoi,,0,0,0,,¡Es Mayoi-oneesan!{This is Mayoi-oneesan!}
+Dialogue: 0,0:00:06.74,0:00:11.76,Mayoi,,0,0,0,,Les traigo a ustedes la pista de comentarios de {\i1}Kabukimonogatari{\i0}, Episodio 4: Mayoi Jiangshi Parte 4.{I'll be bringing you the commentary track \Nfor Kabukimonogatari episode 4: Mayoi Jiangshi Part 4.}
+Dialogue: 0,0:00:11.76,0:00:14.00,Hanekawa,,0,0,0,,¿Quedan menos de 100 sobrevivientes?{Are there less than 100 survivors?}
+Dialogue: 0,0:00:14.00,0:00:15.78,Mayoi,,0,0,0,,Si. Ahora son 80.{Yes. It's about 80 now.}
+Dialogue: 0,0:00:15.78,0:00:18.45,Hanekawa,,0,0,0,,Entonces, ¿no es el fin para la humanidad?{Isn't it over for humanity then?}
+Dialogue: 0,0:00:18.45,0:00:20.86,Mayoi,,0,0,0,,¡No te preocupes! ¡Existe la clonación!{Don't worry! There's cloning technology!}
+Dialogue: 0,0:00:20.86,0:00:25.32,Hanekawa,,0,0,0,,¿Me estás diciendo que en estos 11 años desde mi época, hubo un desarrollo tan rápido?{Are you telling me that in these 11 years since my era, \Nthere was that much rapid development?}{私の時代から１１年で　そこまでの日進月歩を見せますかね}
+Dialogue: 0,0:00:25.45,0:00:30.92,Hanekawa,,0,0,0,,Pero después se dijo que al repetir la clonación, eventualmente causa que las células se deterioren.{But it's said later that repeated cloning \Nwill eventually cause the cells to deteriorate.}
+Dialogue: 0,0:00:30.92,0:00:33.51,Mayoi,,0,0,0,,¡Finalmente, mi tan esperada aparición!{Finally, my long-awaited appearance!}
+Dialogue: 0,0:00:33.51,0:00:34.47,Mayoi,x,0,0,0,,¡En este {\i1}avant{\i0}!{In this avant!}
+Dialogue: 0,0:00:34.47,0:00:35.36,Hanekawa,,0,0,0,,Sip.{Yeah.}
+Dialogue: 0,0:00:35.36,0:00:37.41,Mayoi,,0,0,0,,De nuevo, ¿cuándo será tu próxima aparición?{When is your next appearance again?}
+Dialogue: 0,0:00:37.41,0:00:39.89,Hanekawa,,0,0,0,,¡Ya lo sabes!{You already know!}{それ　分かってて言ってるヤツじゃないですか}
+Dialogue: 0,0:00:39.89,0:00:42.06,Hanekawa,,0,0,0,,Ya te dije que no apareceré más.{I already said I won't be appearing anymore.}
+Dialogue: 0,0:00:42.06,0:00:45.08,Hanekawa,,0,0,0,,¡Ni de 6 años, ni como estudiante de preparatoria!{Neither as a 6-year-old nor a high schooler!}
+Dialogue: 0,0:00:45.08,0:00:48.60,Mayoi,,0,0,0,,¿Ah? Entonces, ¿por qué estás en la pista de comentarios, Tsubasa-chan?{Huh? Then why are you in the \Ncommentary track, Tsubasa-chan?}
+Dialogue: 0,0:00:48.60,0:00:53.60,Hanekawa,,0,0,0,,Solo porque es otro episodio, ¡no quiere decir que no me engañaste para venir aquí!{Just because it's another episode doesn't \Nmean you didn't trick me to come over!}{何で回を跨いだら　あなたが私を騙して呼んだことがなかったことになってるんですか？}
+Dialogue: 0,0:00:53.60,0:00:54.65,Mayoi,,0,0,0,,¡Es el Opening!{Opening theme!}
+Dialogue: 0,0:00:54.80,0:00:59.62,Hanekawa,,0,0,0,,Mayoi Jiangshi Parte 4 es el último episodio de {\i1}Kabukimonogatari{\i0}.{Mayoi Jiangshi Part 4 is \Nthe last episode of Kabukimonogatari.}
+Dialogue: 0,0:00:59.62,0:01:04.38,Hanekawa,x,0,0,0,,Estoy impresionada que una magnifica historia sobre un mundo destruido concluya en 4 episodios.{I'm impressed that a magnificent story about \Na destroyed world was wrapped up within 4 episodes.}
+Dialogue: 0,0:01:04.38,0:01:06.73,Mayoi,,0,0,0,,Aunque me elogies, eso no te llevará a ninguna parte.{Even if you flatter me, \Nthere's nothing to be gained.}{そんな　褒めても何も出ないよ}
+Dialogue: 0,0:01:06.73,0:01:09.90,Hanekawa,,0,0,0,,No, no es como si gracias a ti que concluyera tan rápido.{No, it's not like it was thanks to you \Nthat it was wrapped up so quickly.}
+Dialogue: 0,0:01:09.90,0:01:13.08,Mayoi,,0,0,0,,Fue magnifico, ¿cierto? Magnánimo, ¿verdad?{It was magnificent, right? Magnanimous, right?}
+Dialogue: 0,0:01:13.08,0:01:15.94,Hanekawa,,0,0,0,,¿Magnánimo? Eso es un significado diferente.{Magnanimous? That's a different meaning.}
+Dialogue: 0,0:01:15.94,0:01:17.53,Mayoi,,0,0,0,,Qué niña de 6 años tan estricta.{What a strict 6-year-old.}
+Dialogue: 0,0:01:17.53,0:01:21.18,Mayoi,,0,0,0,,Si sigues quejándote por pequeños detalles como el significado de una palabra, nunca terminaremos de estar en desacuerdo.{If you keep fussing over minor details \Nof a word's meaning, we'll just disagree to no end.}
+Dialogue: 0,0:01:21.18,0:01:23.89,Mayoi,,0,0,0,,Lo más importante en una conversación, es hacerlo con tus sentimientos.{What's most important in a conversation \Nis doing it with your feelings.}
+Dialogue: 0,0:01:23.89,0:01:27.51,Hanekawa,,0,0,0,,Pues, eso es lo que dicen cuando hablas en el exterior.{Well, that's what they say \Nwhen conversing overseas.}
+Dialogue: 0,0:01:27.51,0:01:30.10,Hanekawa,,0,0,0,,"En vez de hablar extraño con gramática perfecta..."{"Rather than talking strangely \Nwith correct grammar..."}{変に正しい文法で喋ろうとするよりも}
+Dialogue: 0,0:01:30.10,0:01:32.73,Hanekawa,,0,0,0,,"...deberías hablar sin vacilación".{"...you should just talk without hesitation."}{とにかくぐいぐい話しちゃうのが大事だって}
+Dialogue: 0,0:01:32.73,0:01:35.63,Mayoi,,0,0,0,,Ya sea un crimen de consciencia o que la barrera sea demasiado alta...{Whether it's a crime of conscience \Nor whether the barrier is too high...}{確信犯がどうとか　敷居が高いがどうとか}
+Dialogue: 0,0:01:35.63,0:01:37.25,Mayoi,,0,0,0,,...todos quieren hablar.{...everyone wants to talk.}{みんな言いたがるわけじゃない}
+Dialogue: 0,0:01:37.25,0:01:39.27,Mayoi,,0,0,0,,O que solo seas una persona amable.{Or whether you're just an affable person.}{気が置けないっていうのはとか}
+Dialogue: 0,0:01:39.27,0:01:41.49,Hanekawa,,0,0,0,,Bueno, eso es algo para estar en desacuerdo.{Well, it's something to disagree about.}
+Dialogue: 0,0:01:41.49,0:01:45.23,Hanekawa,,0,0,0,,En vez de sentirse avergonzada después de que señalé tu error...{Rather than feeling embarrassment \Nafter I pointed out your mistake...}{言われた方としては　間違いを指摘された恥ずかしさよりも}
+Dialogue: 0,0:01:45.23,0:01:47.92,Hanekawa,,0,0,0,,...tu fuiste indiferente al respecto.{...you were nonchalant about it.}{別にいいじゃんって気持ちが先立ちますからね}
+Dialogue: 0,0:01:47.92,0:01:51.25,Mayoi,,0,0,0,,¡Quiero hacer un diccionario de palabras discutibles...{I want to make a dictionary \Nof such arguable words...}{こういう　揉めそうな言葉をまとめて辞典してみたいな}
+Dialogue: 0,0:01:51.25,0:01:53.69,Mayoi,,0,0,0,,...como un nuevo género de cultura anime!{...as a new genre of anime culture!}
+Dialogue: 0,0:01:53.69,0:01:54.48,Hanekawa,,0,0,0,,¿Género?{Genre?}
+Dialogue: 0,0:01:54.48,0:01:55.79,Mayoi,,0,0,0,,¡Como un crimen de consciencia mome!{Like crime of conscience mome!}{確信犯揉め}
+Dialogue: 0,0:01:54.48,0:01:55.79,CommentaryHalf,,0,0,0,,{\pos(1304,980)}(desacuerdo){¡Como un crimen de consciencia mome (desacuerdo)!}
+Dialogue: 0,0:01:55.79,0:01:58.04,Mayoi,,0,0,0,,¡La-barrera-es-muy-alta mome!{Barrier-is-too-high mome!}{敷居の高さ揉め　みたいな}
+Dialogue: 0,0:01:58.12,0:02:02.02,Hanekawa,,0,0,0,,Aun si lo dices como "¡Orejas de gato {\i1}moe{\i0}!" y "¡Coletas {\i1}moe{\i0}!"...{Even if you say it like "Cat ears moe!" \Nand "Twintails moe!"...}
+Dialogue: 0,0:02:02.02,0:02:04.63,Mayoi,,0,0,0,,Bueno, también se suele discrepar a menudo los aspectos {\i1}moe{\i0}.{Well, moe aspects are also often disagreed about.}{ま　もえ様相っていうのも　よく揉めるしね}
+Dialogue: 0,0:02:04.63,0:02:05.43,Hanekawa,,0,0,0,,Sip.{Yeah.}
+Dialogue: 0,0:02:05.43,0:02:08.25,Hanekawa,,0,0,0,,A menudo, las preferencias son objeto de desacuerdos.{Preferences are often \Nthe subject of disagreement.}{好みというのは揉めの対象になりがちです}
+Dialogue: 0,0:02:08.25,0:02:10.73,Mayoi,x,0,0,0,,Si he de añadir, la etimología de "{\i1}moe{\i0}" también es objeto de desacuerdo.{If I'm to add on, the etymology of \N"moe" can also be disagreed about.}{もっと言うなら　もえの語源とかも揉めそう}
+Dialogue: 0,0:02:10.73,0:02:12.69,Hanekawa,,0,0,0,,Sip, hay varias teorías, ¿verdad?{Yeah, there are various theories, right?}{ええ　諸説ありますからね}
+Dialogue: 0,0:02:12.69,0:02:13.63,Mayoi,,0,0,0,,¡Moe mome!{Moe mome!}
+Dialogue: 0,0:02:13.63,0:02:15.87,Hanekawa,,0,0,0,,Eso parece difícil decirlo... ¿Moe mome?{That sounds hard to say... Moe mome?}
+Dialogue: 0,0:02:15.87,0:02:17.03,Mayoi,,0,0,0,,¡Pechos mome!{Boobies mome!}
+Dialogue: 0,0:02:17.03,0:02:20.29,Hanekawa,,0,0,0,,No hagas esas bromas en frente de los niños. Es de mala educación.{Don't make such jokes in front \Nof children. It's bad education.}{教育に悪いので子供にそういう冗談を言わないでください}
+Dialogue: 0,0:02:20.29,0:02:22.65,Mayoi,,0,0,0,,Nunca pensé que sería regañada por una niña por una broma sinvergüenza.{I never thought I'd be scolded by a kid \Nfor a shameless joke.}{破廉恥ジョークで子供に怒られるとは}
+Dialogue: 0,0:02:23.51,0:02:25.11,Hanekawa,,0,0,0,,Vamos, estamos empezando.{Come on, we're starting.}
+Dialogue: 0,0:02:25.11,0:02:29.02,Hanekawa,,0,0,0,,En este episodio, mostraste un gran sentido de la adultez.{In this episode, you displayed quite \Na sense of adultness.}{あなたここから本編で　かなりの大人感}
+Dialogue: 0,0:02:29.02,0:02:33.31,Hanekawa,,0,0,0,,Por favor, trata de no desperdiciarlo en la pista de comentarios.{Please try not to let it all go \Nto waste in the commentary track.}
+Dialogue: 0,0:02:33.31,0:02:35.49,Mayoi,,0,0,0,,Y ahora estoy siendo sermoneada por una niña.{And now I'm being lectured by a kid.}{子供に苦言を呈されるとは}
+Dialogue: 0,0:02:35.59,0:02:39.27,Mayoi,,0,0,0,,Pero Tsubasa-chan, solo pretendía actuar como un adulto.{But Tsubasa-chan, I was just \Npretending to act like an adult.}{こんなの大人が見栄を張ってるだけだよ}
+Dialogue: 0,0:02:39.27,0:02:43.82,Mayoi,x,0,0,0,,Solo me estaba dando aires para que Araragi Koyomi-kun y Oshino Shinobu-chan no me subestimaran.{I was just putting on airs so Araragi Koyomi-kun \Nand Oshino Shinobu-chan didn't look down on me.}{阿良々木暦くんや　忍野忍ちゃんに舐められないように　格好つけてるだけ}
+Dialogue: 0,0:02:43.82,0:02:45.04,Hanekawa,,0,0,0,,Qué decepción.{What disappointment.}
+Dialogue: 0,0:02:45.04,0:02:47.30,Hanekawa,,0,0,0,,También te das aires frente a mí.{Put on airs in front of me too.}
+Dialogue: 0,0:02:47.30,0:02:48.23,Mayoi,,0,0,0,,De ninguna manera.{No way.}
+Dialogue: 0,0:02:48.23,0:02:50.84,Mayoi,,0,0,0,,No me doy aires frente a ti, Tsubasa-chan.{I don't put on airs \Nin front of you, Tsubasa-chan.}{翼ちゃんの前で格好つけるないじゃない}
+Dialogue: 0,0:02:50.84,0:02:52.34,Mayoi,,0,0,0,,Después de todos, no somos desconocidas.{We aren't strangers after all.}
+Dialogue: 0,0:02:52.34,0:02:53.33,Hanekawa,,0,0,0,,Por favor, detente.{Please stop.}
+Dialogue: 0,0:02:53.33,0:02:54.72,Hanekawa,,0,0,0,,No somos tan cercanas.{We aren't that close.}
+Dialogue: 0,0:02:54.72,0:02:56.12,Mayoi,,0,0,0,,Qué estricta.{How strict.}
+Dialogue: 0,0:02:56.12,0:03:01.89,Mayoi,,0,0,0,,Como decía, eso es lo que diría alguien que ha sobrevivido varios meses sola en un pueblo.{Like I said, that's what someone \Nwho has survived several months alone in a town would say.}{だから　そりゃが何　誰もいない町で数か月に渡り生き抜いてきた人にかける言葉？}
+Dialogue: 0,0:03:01.89,0:03:04.57,Hanekawa,,0,0,0,,¡No tomes ventaja de tu situación!{Don't take advantage of your situation!}
+Dialogue: 0,0:03:04.66,0:03:07.10,Hanekawa,,0,0,0,,¡Solo puedes usar esa carta una vez!{You only get to play that card once!}
+Dialogue: 0,0:03:07.10,0:03:08.69,Mayoi,,0,0,0,,Qué regla tan estricta.{What a strict rule.}
+Dialogue: 0,0:03:08.69,0:03:10.19,Mayoi,,0,0,0,,Qué opinión tan discutible.{What an arguable opinion.}{判定で揉めちゃいそう}
+Dialogue: 0,0:03:10.19,0:03:11.83,Mayoi,,0,0,0,,¡Tsubasa-chan mome!{Tsubasa-chan mome!}
+Dialogue: 0,0:03:11.83,0:03:14.07,Hanekawa,,0,0,0,,Supongo que es difícil hacértelo entender.{I guess it's hard to get that across to you.}
+Dialogue: 0,0:03:14.25,0:03:16.78,Hanekawa,,0,0,0,,No creo que sea para nada estricto.{I don't think it's strict at all.}
+Dialogue: 0,0:03:16.78,0:03:19.58,Mayoi,,0,0,0,,Entonces hagamos en serio una conversación discutible.{Then let's do an arguable conversation for real.}
+Dialogue: 0,0:03:19.58,0:03:21.55,Hanekawa,,0,0,0,,¿Conversación discutible?{Arguable conversation?}
+Dialogue: 0,0:03:21.55,0:03:23.16,Mayoi,x,0,0,0,,¿Qué es un misterio clásico?{What is a classical mystery?}
+Dialogue: 0,0:03:23.16,0:03:23.93,Hanekawa,,0,0,0,,¡Discutible!{Arguable!}
+Dialogue: 0,0:03:23.93,0:03:25.54,Mayoi,x,0,0,0,,¿Cuál es la definición de un misterio clásico?{What's the definition of a classical mystery?}
+Dialogue: 0,0:03:25.54,0:03:26.57,Hanekawa,,0,0,0,,Discutible...{Arguable...}
+Dialogue: 0,0:03:26.57,0:03:28.26,Hanekawa,,0,0,0,,¡No quiero involucrarme en esa discusión!{I don't want to get involved in that argument!}{絶対したくないその議論}
+Dialogue: 0,0:03:28.26,0:03:31.39,Mayoi,,0,0,0,,¿Es justo o injusto el truco detrás de esta novela de misterio?{Is the trick behind this \Nmystery novel fair or unfair?}
+Dialogue: 0,0:03:31.39,0:03:32.39,Hanekawa,,0,0,0,,Es inútil.{It's futile.}
+Dialogue: 0,0:03:32.39,0:03:34.80,Hanekawa,x,0,0,0,,¡Un argumento entre dos partes que nunca llegaran a un acuerdo!{An argument between two parties \Nwho will never compromise!}{歩み寄るはずのない両者の議論です}
+Dialogue: 0,0:03:34.80,0:03:36.84,Mayoi,,0,0,0,,¡Novela de misterio mome!{Mystery novel mome!}
+Dialogue: 0,0:03:36.84,0:03:40.62,Hanekawa,,0,0,0,,Pero al repetir dichos argumentos, que parecen ser inútiles...{But by repeating such arguments \Nthat appear to be futile...}{でもま　そういう不毛とも思える議論を繰り返すことで}
+Dialogue: 0,0:03:40.62,0:03:43.54,Hanekawa,,0,0,0,,...como una persona erudita, probablemente seguiría discutiendo.{...as a well-read person, \NI'd probably keep arguing on.}{読み巧者として　揉まれていくんでしょうけれどね}
+Dialogue: 0,0:03:43.54,0:03:47.10,Mayoi,,0,0,0,,Tsubasa-chan, ¿por qué intentas terminar la conversación tan cortésmente? {Why are you trying to wrap up \Nthe conversation so nicely, Tsubasa-chan?}{何綺麗に纏めて話を終わらそうとしているのよ翼ちゃん}
+Dialogue: 0,0:03:47.19,0:03:50.13,Mayoi,,0,0,0,,"¿Parece ser?" Antes dijiste que era inútil.{"Appear to be"? \NYou said it was futile earlier on.}{とも思えるって何よ　さっき不毛って言ったじゃん}
+Dialogue: 0,0:03:50.13,0:03:51.58,Mayoi,,0,0,0,,¡Continuemos discutiendo!{Let's argue more!}
+Dialogue: 0,0:03:51.58,0:03:52.31,Hanekawa,,0,0,0,,No.
+Dialogue: 0,0:03:52.31,0:03:55.40,Mayoi,,0,0,0,,Pues, las definiciones se discuten a menudo.{Well, definitions often get argued over.}
+Dialogue: 0,0:03:55.40,0:03:57.99,Hanekawa,,0,0,0,,Sip, así que no entremos en esa discusión.{Yeah, so let's not get into such an argument.}
+Dialogue: 0,0:03:57.99,0:03:59.25,Mayoi,,0,0,0,,¿Qué es una novela ligera?{What is a light novel?}
+Dialogue: 0,0:03:59.25,0:04:00.98,Hanekawa,,0,0,0,,¡Dije detente!{I said stop!}
+Dialogue: 0,0:04:00.98,0:04:02.61,Hanekawa,,0,0,0,,¡¿Por qué me estas ignorando?!{Why are you ignoring me?!}
+Dialogue: 0,0:04:02.61,0:04:04.09,Mayoi,,0,0,0,,¡¿Cuál es la definición de una novela ligera?!{What is the definition of a light novel?!}
+Dialogue: 0,0:04:04.09,0:04:05.04,Hanekawa,,0,0,0,,¡Detente por favor!{Please stop!}
+Dialogue: 0,0:04:05.04,0:04:06.98,Hanekawa,,0,0,0,,Esta bien dejarlo ambiguo.{It's fine to leave it ambiguous.}{そこはふわっとさせておくのがいいって}
+Dialogue: 0,0:04:06.98,0:04:08.71,Hanekawa,,0,0,0,,¡Todo mundo está de acuerdo con eso!{Everyone agreed to this!}{皆で決めたじゃないですか}
+Dialogue: 0,0:04:08.71,0:04:10.04,Mayoi,,0,0,0,,¡¿Cuál es el origen de las novelas ligeras?!{What are the origins of light novels?!}
+Dialogue: 0,0:04:10.04,0:04:11.98,Hanekawa,,0,0,0,,¡Deja de hablar sobre orígenes y cosas por el estilo!{Stop talking about origins and stuff!}
+Dialogue: 0,0:04:11.98,0:04:15.65,Mayoi,,0,0,0,,Pero es interesante ver como las novelas ligeras han cambiado con el tiempo.{But it's interesting to see \Nhow light novels have changed over time.}{でも本当ライトノベルの変遷をたどっていくと面白いよ}
+Dialogue: 0,0:04:15.65,0:04:20.85,Mayoi,,0,0,0,,Hay muchas teorías, pero asumamos que las raíces fueron las leyes juveniles de obras maestras literarias.{There are many theories, but let's assume juvenile laws \Nfor famous literature were the roots.}{所説あるけれど　まず名作文学の低年齢層向け方案がルーツだと仮定すると}
+Dialogue: 0,0:04:20.85,0:04:23.73,Mayoi,x,0,0,0,,En otras palabras, fue su entrada a los libros a su manera.{In other words, it was their entrance \Nto books in their own way.}{言わば自分なりでは活字への入口だったわけだよね}
+Dialogue: 0,0:04:23.73,0:04:27.53,Mayoi,,0,0,0,,Entonces, en la siguiente generación, empezaron a aparecer los aspectos del manga que se leen con palabras.{Then in the next generation, the aspect of manga \Nthat are read with words began to surface.}{それが次世代では　字で読む漫画という側面を帯び始めた}
+Dialogue: 0,0:04:27.53,0:04:31.54,Mayoi,,0,0,0,,Después, en la tercera generación, comenzaron a trazar su propio camino, desechando la literatura y el manga.{Then in the third generation, they began to walk their own path, \Ndisregarding literature and manga.}{文学にも漫画にもいらない独自路線を歩み始めたのが第三世代であり}
+Dialogue: 0,0:04:31.54,0:04:32.17,Mayoi,,0,0,0,,Esto—{This—}
+Dialogue: 0,0:04:32.17,0:04:33.49,Hanekawa,,0,0,0,,¡Ya detente!{Stop it already!}
+Dialogue: 0,0:04:33.49,0:04:37.21,Hanekawa,,0,0,0,,¡Mira! ¡Es la carta que te confió Oshino Meme-san!{Look! It's the letter \NOshino Meme-san entrusted to you!}
+Dialogue: 0,0:04:37.78,0:04:40.59,Mayoi,x,0,0,0,,Si fuera a representarlo, seria ciencia ficción, ¿verdad?{If I'm to interpret this, \Nit's science fiction, right?}
+Dialogue: 0,0:04:40.59,0:04:44.24,Hanekawa,,0,0,0,,Deja de preguntar sobre la definición de las novelas de ficción.{Stop asking about the definition \Nof science fiction novels.}
+Dialogue: 0,0:04:44.24,0:04:45.54,Mayoi,,0,0,0,,¿No debería preguntar?{I shouldn't ask?}
+Dialogue: 0,0:04:44.24,0:04:45.54,CommentaryHalf,x,0,0,0,,{\pos(1098,990)}{¿No debería preguntar (toidasu)?}(toidasu)
+Dialogue: 0,0:04:45.54,0:04:47.20,Mayoi,,0,0,0,,Entonces, ¿qué tal si interrogo?{Then how about I interrogate?}
+Dialogue: 0,0:04:45.54,0:04:47.20,CommentaryHalf,x,0,0,0,,{\pos(1188.8,990)}{Entonces, ¿que tal si interrogo(toitadasu)?}(toitadasu)
+Dialogue: 0,0:04:47.20,0:04:49.24,Hanekawa,,0,0,0,,¡Esto va a ser una discusión mucho más grande!{It's going to be even more of an argument then!}
+Dialogue: 0,0:04:49.42,0:04:53.85,Hanekawa,,0,0,0,,Aunque, "interrogar" no significa hacerlo bien.{ Well, by right, "interrogate" \Ndoesn't mean doing it right, though.}{ま　問い質すって正しくするって意味ではないですけれどね　正しくは}
+Dialogue: 0,0:04:49.42,0:04:53.85,CommentaryHalf,,0,0,0,,{\pos(1420,990)}({\u1}tada{\u0}shi){Aunque, "interrogar" (toitadasu) no significa hacerlo bien (tadashi).}{Well, by right, "interrogate (toitadasu)" doesn't mean doing it right (tadashi), though.}
+Dialogue: 0,0:04:49.42,0:04:53.85,CommentaryHalf,,0,0,0,,{\pos(772,990)}(toi{\u1}tada{\u0}su){Aunque, "interrogar" (toitadasu) no significa hacerlo bien (tadashi).}{Well, by right, "interrogate (toitadasu)" doesn't mean doing it right (tadashi), though.}
+Dialogue: 0,0:04:53.85,0:04:57.67,Mayoi,,0,0,0,,¡Ah! ¡No me digas que es un problema para interrogar!{Ah! Don't tell me that's an interrogation mome!}{お　翼ちゃん　それはひょうっとして　問い質す揉めかな}
+Dialogue: 0,0:04:57.67,0:04:58.56,Hanekawa,,0,0,0,,No.
+Dialogue: 0,0:04:58.56,0:05:00.17,Mayoi,,0,0,0,,Si que lo usas con rapidez.{You sure use it quickly.}{早速使ってくれるね}
+Dialogue: 0,0:05:00.17,0:05:02.46,Mayoi,,0,0,0,,¡Los niños si que saben cómo adaptarse!{Children sure know how to adapt!}
+Dialogue: 0,0:05:02.69,0:05:03.84,Mayoi,,0,0,0,,¡La ciencia ficción es...!{Science fiction is...!}
+Dialogue: 0,0:05:03.84,0:05:05.69,Hanekawa,,0,0,0,,¡Te dije que te detengas!{I told you to stop!}
+Dialogue: 0,0:05:05.69,0:05:06.64,Mayoi,,0,0,0,,Algo inútil.{A little futile.}
+Dialogue: 0,0:05:06.64,0:05:09.05,Hanekawa,,0,0,0,,¡Nada de algo! ¡Completamente inútil!{Not just a little! Completely futile!}
+Dialogue: 0,0:05:09.05,0:05:13.08,Mayoi,,0,0,0,,Las novelas normales, las ligeras y la ciencia ficción... me pregunto cuál de estas tendrá el aspecto más discutible.{Standard novels, light novels, and science fiction... \NI wonder which of them has the strongest mome aspect.}{本格とライトノベルとＳＦと　どれが一番揉め様相が強いかな}
+Dialogue: 0,0:05:13.08,0:05:14.28,Hanekawa,,0,0,0,,¿Aspecto discutible?{Mome aspect?}
+Dialogue: 0,0:05:14.28,0:05:18.87,Hanekawa,,0,0,0,,Pero si dices eso, de verdad deberíamos estar discutiendo sobre literatura seria.{But if you say that, what we should really argue \Nabout is serious literature.}{でもま　それを言い出したら　本当に揉めるのは純文学ですけれどね}
+Dialogue: 0,0:05:18.87,0:05:19.72,Mayoi,,0,0,0,,Ah.{Ah.}
+Dialogue: 0,0:05:19.88,0:05:22.80,Mayoi,,0,0,0,,Es lo que los adultos serios discuten utilizando argumentos de adultos.{That's what serious adults argue \Nabout using adult arguments.}{あれはガチ大人が大人の議論でもめるからね}
+Dialogue: 0,0:05:22.80,0:05:25.50,Hanekawa,,0,0,0,,Por el contrario, ¿qué género no genera discusión?{On the contrary, what's a genre \Nthat doesn't get argued about?}
+Dialogue: 0,0:05:25.50,0:05:27.00,Mayoi,,0,0,0,,Hmm, ¿los libros ilustrados?{Hmm, picture books?}
+Dialogue: 0,0:05:27.00,0:05:29.74,Hanekawa,,0,0,0,,Ah, parece que los libros ilustrados no generan discusión.{Ah, picture books don't seem to get argued about.}
+Dialogue: 0,0:05:29.74,0:05:35.33,Mayoi,,0,0,0,,Hablando de libros de ilustraciones, el fanbook de {\i1}Monogatari Series Anime{\i0}, Segunda Temporada, el "Libro de las Heroínas - Parte 2"...{Speaking of picture books, Monogatari Series Anime\NSecond Season's fanbook, Heroine Book's Part 2...}{絵本と言えば　アニメ物語シリーズ　セカンドシーズンのファンブック　ヒロイン本の第２弾に}
+Dialogue: 0,0:05:35.33,0:05:38.19,Mayoi,,0,0,0,,... es un libro ilustrado en el que yo, Hachikuji Mayoi aparezco como la protagonista...{...is a picture book that features me, \NHachikuji Mayoi, as the protagonist...}{私八九寺マヨイを主人公にした絵本}
+Dialogue: 0,0:05:38.19,0:05:40.85,Mayoi,,0,0,0,,...de la historia, "El Caracol Perdido".{...with the story, The Stray Snail.}{迷子のカタツムリが掲載されているんだよね}
+Dialogue: 0,0:05:40.85,0:05:43.33,Hanekawa,,0,0,0,,¡Que autopromoción tan directa!{What a straightforward self-promotion!}{そんな真っすぐな自己アピールがありますか？}
+Dialogue: 0,0:05:43.33,0:05:45.74,Mayoi,,0,0,0,,¡Vendiéndose rápidamente en las librerías de todo el país!{Selling fast in bookstores across the country!}
+Dialogue: 0,0:05:45.74,0:05:46.61,Mayoi,,0,0,0,,¡Échale un vistazo!{Check it out!}
+Dialogue: 0,0:05:46.61,0:05:50.45,Hanekawa,,0,0,0,,Pero las fechas de lanzamiento de este volumen y del libro no coinciden, ¿verdad?{But this package and \Nthat book's release dates are off, right?}{でもこのパッケージとその本　発売時期はずれますよね}
+Dialogue: 0,0:05:50.45,0:05:52.27,Hanekawa,x,0,0,0,,Seria lindo si aún se estuviera vendiendo.{It would be nice if it were still sold.}
+Dialogue: 0,0:05:52.27,0:05:54.72,Mayoi,,0,0,0,,¡No puede agotarse tan rápido!{It can't go out of print that fast!}{そんな速度で本は絶版にならないよ}
+Dialogue: 0,0:05:54.72,0:05:56.74,Mayoi,,0,0,0,,¡No está agotado!{It isn't selling out of print!}{絶版発売中じゃないよ}
+Dialogue: 0,0:05:56.74,0:05:58.43,Hanekawa,,0,0,0,,¿Está agotado?{Selling out of print?}
+Dialogue: 0,0:05:58.43,0:06:03.05,Mayoi,,0,0,0,,Pero fue durante mi infancia que logré llegar a un libro ilustrado.{But it was during my childhood \Nwhen I made it onto a picture book.}{までもマヨイお姉さん　絵本になったっていても子供時代のお話だし}
+Dialogue: 0,0:06:03.05,0:06:05.93,Mayoi,,0,0,0,,En primer lugar, no estoy familiarizada con el mundo de los libros ilustrados.{In the first place, I'm not that familiar \Nwith the picture book world.}{そもそも絵本業界にそんな詳しいわけでもないから}
+Dialogue: 0,0:06:05.93,0:06:09.95,Mayoi,x,0,0,0,,Sorprendentemente, pueden haber argumentos sobre el género.{Surprisingly, there might be \Narguments about that genre.}{あのジャンルはあのジャンルで　意外と揉めたりしているのかもしれないけれどね}
+Dialogue: 0,0:06:09.95,0:06:12.41,Hanekawa,,0,0,0,,Aunque, no creo que sea la mejor forma de describirlo.{I don't think that's the best way \Nto describe it, though.}{揉めてるとはちょっと違いますけれど}
+Dialogue: 0,0:06:12.41,0:06:14.31,Hanekawa,,0,0,0,,Oí que es un mercado competitivo.{I heard it's a competitive market.}{激戦区だとは聞きますよ}
+Dialogue: 0,0:06:14.31,0:06:15.85,Hanekawa,,0,0,0,,Hay muchos que han vendido por largo tiempo... {There are many longtime-sellers...}{ロングセラーが多いから}
+Dialogue: 0,0:06:15.85,0:06:18.85,Hanekawa,,0,0,0,,...así que hay una fuerte batalla por el espacio en los estantes.{...so there's a fierce battle \Nfor the store shelves.}{本屋さんの棚の陣取り合戦が激しいとか}
+Dialogue: 0,0:06:18.85,0:06:19.95,Mayoi,,0,0,0,,Ya veo.{I see.}
+Dialogue: 0,0:06:19.95,0:06:21.97,Mayoi,,0,0,0,,Despues de todo, los estantes tienen un espacio limitado.{The shelves have limited space after all.}
+Dialogue: 0,0:06:21.97,0:06:24.44,Mayoi,,0,0,0,,Quizas ese sea el punto fuerte de la digitalización.{That might be the strong point of digitization.}
+Dialogue: 0,0:06:24.44,0:06:27.98,Mayoi,,0,0,0,,Las cosas que se venden digitalmente siempre estarán disponibles apenas salgan a la venta.{Things sold digitally are basically \Nalways there once they go on sale.}
+Dialogue: 0,0:06:28.04,0:06:30.49,Mayoi,,0,0,0,,No hay un sistema de reventa o de retorno, ¿cierto?{There isn't a return or resale system, right?}{返本とか再販制度とかないでしょう？}
+Dialogue: 0,0:06:30.49,0:06:31.06,Hanekawa,,0,0,0,,Sip.{Yeah.}
+Dialogue: 0,0:06:31.19,0:06:36.79,Hanekawa,,0,0,0,,Tanto el autor como los lectores probablemente estarán agradecidos de que ya no se agoten.{Both the authors and readers are probably thankful \Nthat things don't go out of print anymore.}{絶版がなくなるというのは　作家さんにとっても読者さんにとっても　ありがたい話ですよね}
+Dialogue: 0,0:06:36.79,0:06:39.15,Mayoi,,0,0,0,,Aparte de los lectores...{Readers aside...}
+Dialogue: 0,0:06:39.15,0:06:42.46,Mayoi,,0,0,0,,Solo porque un libro que se ha agotado aun pueda venderse...{Just because a book that \Nhas gone out of print can still be sold...}{絶版になっていたような本がいつまでも販売されるっていうのは}
+Dialogue: 0,0:06:42.46,0:06:46.39,Mayoi,,0,0,0,,...no significa necesariamente que el autor este agradecido.{...it doesn't mean the author will \Nnecessarily be thankful about it.}{作家さんにとっては必ずしもありがたいとは限らないじゃないのかな}
+Dialogue: 0,0:06:46.39,0:06:50.38,Mayoi,,0,0,0,,Hay muchos autores que no quieren que sus primeras obras sigan estando disponibles.{There are many such authors who don't want \Ntheir early works to be available anymore.}{初期の作品をなかったことにしたい作家さんだって相当数いるからね}
+Dialogue: 0,0:06:50.38,0:06:51.92,Hanekawa,,0,0,0,,No tenías que decir eso.{You didn't have to say that.}
+Dialogue: 0,0:06:51.92,0:06:57.54,Mayoi,,0,0,0,,Despues de todo, respecto a la experiencia de la lectura, fue una sensación única que ocurrió en el pasado.{After all, in regards to reading experience, \Nit was a once-in-a-lifetime feeling that happened in the past.}{ 何にしても　読書体験における　一期一会という感覚はもう過去なものなんだろうね}
+Dialogue: 0,0:06:57.54,0:06:59.43,Mayoi,,0,0,0,,Es algo que pasó hace 11 años.{It's something that happened 11 years ago.}
+Dialogue: 0,0:06:59.43,0:07:03.14,Hanekawa,,0,0,0,,Bueno, tal vez sea real para ti.{Well, it might sound real to you.}{いえ　あなたにとってはリアルな話だと思いますけれど}
+Dialogue: 0,0:07:03.14,0:07:05.54,Hanekawa,,0,0,0,,Real, o más bien, personal.{Real, or rather, personal.}
+Dialogue: 0,0:07:05.54,0:07:08.12,Mayoi,,0,0,0,,Oshino Meme-san prefiere lo analógico, ¿verdad?{Oshino Meme-san prefers analogue, right?}
+Dialogue: 0,0:07:08.12,0:07:09.59,Hanekawa,,0,0,0,,Si, es correcto.{Yes, that's right.}
+Dialogue: 0,0:07:09.74,0:07:12.31,Hanekawa,,0,0,0,,No usa celular o PHS.{He doesn't use a cell phone or PHS.}{携帯電話もPHSも使いません}
+Dialogue: 0,0:07:09.74,0:07:12.31,CommentaryHalf,,0,0,0,,{\an8}NdT: PHS (Personal Handy-phone System) - Teléfono de Comunicación Personal (un predecesor de la era celular).
+Dialogue: 0,0:07:12.31,0:07:16.54,Hanekawa,,0,0,0,,Bueno, solo lo conocí 11 años después.{Well, I only met him 11 years later.}
+Dialogue: 0,0:07:16.54,0:07:21.14,Mayoi,,0,0,0,,Regar arroz para contrarrestar zombis también es una técnica analógica, ¿cierto?{Scattering rice to counter zombies \Nis also an analogue technique, right?}{ゾンビに対してお米を撒くとかっていうのも　アナログな手法ではあるよね}
+Dialogue: 0,0:07:21.14,0:07:22.41,Mayoi,,0,0,0,,¿Como sería ahora?{What would it be like now?}{今だったらどう？}
+Dialogue: 0,0:07:22.41,0:07:26.23,Mayoi,,0,0,0,,¿Tal vez abrir una app del smartphone y enviar datos a una impresora a color usando Bluetooth...{Maybe start a smartphone application \Nand send data to a color printer using Bluetooth...}{スマトフォンでアプリを立ち上げて　ブルートゥースでプリンターに送信して}
+Dialogue: 0,0:07:26.23,0:07:30.51,Mayoi,,0,0,0,,...para imprimir muchas tarjetas de sellos contra zombis como necesites?{...and mass-print as many \Nzombie-sealing cards as you need?}{キョンシー封じのお札をカラーで人数分大量印刷したりするんじゃないのかな}
+Dialogue: 0,0:07:30.51,0:07:33.43,Hanekawa,,0,0,0,,Me gustaría ver a ese especialista.{That's a specialist I'd like to see.}
+Dialogue: 0,0:07:33.70,0:07:35.30,Mayoi,,0,0,0,,Bien, han acabado con la carta.{Alright, they're done with the letter.}
+Dialogue: 0,0:07:35.30,0:07:37.36,Mayoi,,0,0,0,,Me alegro que haya podido entregarla de forma segura.{I'm glad I managed to deliver it safely to them.}
+Dialogue: 0,0:07:37.36,0:07:39.66,Mayoi,,0,0,0,,Oshino Meme-san me fue de gran ayuda.{Oshino Meme-san was of great help to me.}
+Dialogue: 0,0:07:39.66,0:07:41.91,Mayoi,,0,0,0,,Me alegra haberle podido devolver el favor. {I'm glad to have been able to repay him.}
+Dialogue: 0,0:07:41.91,0:07:45.40,Mayoi,,0,0,0,,No agradecer a quien te salva es algo vergonzoso como adulto.{Not thanking someone who saved you is \Na shameful thing to do as an adult.}
+Dialogue: 0,0:07:45.40,0:07:46.26,Hanekawa,,0,0,0,,¿En serio?{Really?}
+Dialogue: 0,0:07:46.36,0:07:52.03,Hanekawa,x,0,0,0,,Pero, ¿no dice Oshino Meme-san "señorita, las personas solo se salvan a sí mismas."?{But doesn't Oshino Meme-san say \N"Young lady, people can only help themselves"?}
+Dialogue: 0,0:07:52.12,0:07:55.31,Hanekawa,,0,0,0,,Ah. Ahora que pasas de los 20, ya no eres una señorita.{Ah. Now that you're past 20, \Nyou aren't a young lady anymore.}
+Dialogue: 0,0:07:55.31,0:07:55.97,Mayoi,,0,0,0,,{\i1}Joshi{\i0}.
+Dialogue: 0,0:07:56.13,0:07:57.60,Hanekawa,,0,0,0,,¿Eh? ¿Chica?{Huh? Girl?}
+Dialogue: 0,0:07:56.13,0:07:57.60,CommentaryHalf,,0,0,0,,{\pos(1024,980)}(joshi){¿Eh? ¿Chica (joshi)?}{Huh? Girl (joshi)?}
+Dialogue: 0,0:07:57.82,0:08:03.40,Hanekawa,x,0,0,0,,Ah. Términos recientes como "poder femenino" y "cosas de chicas" también se han vuelto populares entre los adultos.{Ah. Recently, terms like "girl power" \Nand "girl talk" have become popular for adults too.}
+Dialogue: 0,0:08:03.40,0:08:04.87,Mayoi,,0,0,0,,No, no. No es eso.{No, no. Not that.}
+Dialogue: 0,0:08:05.01,0:08:07.10,Mayoi,,0,0,0,,No "chica" sino "doña".{Not "girl" but "lady."}
+Dialogue: 0,0:08:05.01,0:08:07.10,CommentaryHalf,,0,0,0,,{\pos(1138,980)}(joshi){No "chica"(joshi) sino "dama"(joshi).}{Not "girl (joshi)" but "lady (joshi)."}
+Dialogue: 0,0:08:05.01,0:08:07.10,CommentaryHalf,,0,0,0,,{\pos(865,980)}(joshi){No "chica"(joshi) sino "dama"(joshi).}{Not "girl (joshi)" but "lady (joshi)."}
+Dialogue: 0,0:08:07.10,0:08:07.67,Hanekawa,,0,0,0,,¿Oh?{Huh?}
+Dialogue: 0,0:08:07.78,0:08:09.60,Mayoi,,0,0,0,,Quiero que me digan Doña Hachikuji.{I want to be referred to as Lady Hachikuji.}
+Dialogue: 0,0:08:09.60,0:08:11.09,Hanekawa,,0,0,0,,¡Ah! ¡Ese "joshi"!{Ah! That "joshi"!}
+Dialogue: 0,0:08:11.26,0:08:14.00,Hanekawa,,0,0,0,,¡El otro "joshi" que significa "doña"!{The other "joshi" that means "lady"!}
+Dialogue: 0,0:08:14.19,0:08:16.01,Hanekawa,,0,0,0,,Quieres que te dirijan como Doña, ¿cierto?{You want to be referred to as Lady, right?}
+Dialogue: 0,0:08:16.01,0:08:18.09,Mayoi,,0,0,0,,Si. Quiero pulir mi poder de doña.{Yes. I want to polish my lady power.}
+Dialogue: 0,0:08:18.09,0:08:20.18,Hanekawa,,0,0,0,,Sip, puedo visualizar como me sentiría a tu lado.{Yeah, I can visualize \Nhow I would feel around you.}{確かに雰囲気が可視化で}
+Dialogue: 0,0:08:20.18,0:08:22.27,Hanekawa,,0,0,0,,Entiendo porque lo querrías.{I can understand why you would want that.}{憧れるのは分かりますが}
+Dialogue: 0,0:08:22.27,0:08:26.41,Mayoi,,0,0,0,,Bueno, tal vez sea algo adecuado de llamarte en el futuro.{Well, it might be a fitting way \Nto call you in the future.}{ま翼ちゃんの将来像にこそふさわしい呼称かもしれないけどね}
+Dialogue: 0,0:08:26.41,0:08:27.92,Mayoi,,0,0,0,,¡Doña Hanekawa Tsubasa!{Lady Hanekawa Tsubasa!}
+Dialogue: 0,0:08:27.92,0:08:28.95,Hanekawa,,0,0,0,,Detente, por favor.{Please stop.}
+Dialogue: 0,0:08:28.95,0:08:31.57,CommentaryHalf,,0,0,0,,{\pos(1320,990)}de raíz.
+Dialogue: 0,0:08:28.95,0:08:31.57,Mayoi,,0,0,0,,Después de todo, eres una doña {\i1}nekkawa{\i0}.{After all, you were nekkawa a lady.}{翼ちゃんは　根っかわの女史だからね}
+Dialogue: 0,0:08:31.57,0:08:34.28,Hanekawa,,0,0,0,,¡Deja de decirlo como si fuera "nacida para ser doña"!{Please stop saying it like "born a lady"!}
+Dialogue: 0,0:08:31.57,0:08:34.28,CommentaryHalf,,0,0,0,,{\pos(1140,980)}(nekkara){¡Deja de decirlo como si fuera "nacida para ser doña"!}{Please stop saying it like "born (nekkara) a lady"!}
+Dialogue: 0,0:08:34.28,0:08:35.83,CommentaryHalf,,0,0,0,,{\pos(1070,990)}(intercambiada){A hanekkawari lady.}
+Dialogue: 0,0:08:34.28,0:08:35.83,Mayoi,,0,0,0,,Una doña {\i1}hanekkawari{\i0}.{A hanekkawari lady.}
+Dialogue: 0,0:08:35.83,0:08:38.54,Hanekawa,,0,0,0,,¡Deja de decirlo como si fuera una doña "hanekkaeri"!{Don't say it like "hanekkaeri lady"!}
+Dialogue: 0,0:08:35.83,0:08:38.54,CommentaryHalf,,0,0,0,,{\pos(1410,990)}(machota){(tomboy)}{¡Deja de decirlo como si fuera una doña "hanekkaeri"(machota)!}{Don't say it like "hanekkaeri (tomboy) lady"!}
+Dialogue: 0,0:08:38.54,0:08:41.79,Hanekawa,,0,0,0,,¡No te burles de mi nombre! ¡Me voy!{Don't make fun of my name! I'm leaving!}
+Dialogue: 0,0:08:41.79,0:08:42.71,Mayoi,,0,0,0,,¡Espera!{No way!}
+Dialogue: 0,0:08:42.71,0:08:45.16,Mayoi,x,0,0,0,,¡Solo porque eres Tsubasa-chan no significa que debas ser salvaje!{Just because you're Tsubasa-chan \Ndoesn't mean you should be savage!}{翼ちゃんだけに殺伐としないでよ}
+Dialogue: 0,0:08:42.71,0:08:45.16,CommentaryHalf,x,0,0,0,,{\pos(1620,990)}(satsubatsu)
+Dialogue: 0,0:08:45.16,0:08:47.42,Hanekawa,,0,0,0,,Me voy. Gracias por lo de hoy.{I'm leaving. Thank you for today.}
+Dialogue: 0,0:08:47.42,0:08:49.34,Mayoi,,0,0,0,,¡Espera! ¡No me dejes!{Wait! Don't leave!}
+Dialogue: 0,0:08:49.34,0:08:53.18,Mayoi,,0,0,0,,Mi invitación en la pantalla también fue fríamente rechazada por Araragi Koyomi-kun.{I'm also getting my invitation coldly \Nrejected by Araragi Koyomi-kun on the screen.}{画面でも阿良々木暦くんに誘いをすげなく断られたとこなの}
+Dialogue: 0,0:08:53.18,0:08:55.88,Mayoi,,0,0,0,,Me están abandonando en el audio principal y en los comentarios al mismo tiempo.{I'm getting dumped in the main audio track \Nand the commentary track at the same time.}{主音声と副音声で同時に振られるとか}
+Dialogue: 0,0:08:55.88,0:08:56.96,Mayoi,,0,0,0,,¿Como es posible?{How is this possible?}{そんなのある？}
+Dialogue: 0,0:08:56.96,0:09:01.04,Hanekawa,,0,0,0,,Mi abogado debe enviarte más tarde una carta de protesta, así que revísala por favor.{My lawyer should send you a letter \Nof protest later, so please look through it.}{後で弁護士から書面で抗議文が届くと思うので目を通しておいてください}
+Dialogue: 0,0:09:01.04,0:09:02.46,Mayoi,,0,0,0,,¡No me envíes una carta!{Don't send me a letter!}{書面で送らないで}
+Dialogue: 0,0:09:02.46,0:09:04.92,Mayoi,,0,0,0,,¡No me envíes una carta de protesta por correo certificado!{Don't send me a letter \Nof protest by content-certified mail!}{抗議文を内容証明で送らないで}
+Dialogue: 0,0:09:04.92,0:09:07.14,Hanekawa,,0,0,0,,Preparate para pagar una compensación grande.{Be prepared to pay a large sum for compensation.}{高額の賠償金を覚悟してください}
+Dialogue: 0,0:09:07.14,0:09:09.04,Mayoi,,0,0,0,,¡No, por favor! ¡No hablemos de dinero!{Please don't! Don't talk about money!}
+Dialogue: 0,0:09:09.04,0:09:12.05,Mayoi,,0,0,0,,Te pagaré 12.000 yenes, ¿podemos dejar de hablar de dinero?{I'll pay 12,000 yen, so can we not talk \Nabout money anymore?}
+Dialogue: 0,0:09:12.05,0:09:14.63,Hanekawa,,0,0,0,,No me ofrezcas una suma especifica.{Don't offer me a specific sum.}
+Dialogue: 0,0:09:14.63,0:09:15.63,Mayoi,,0,0,0,,Por la suma elevada.{For the large sum.}{高額のために}
+Dialogue: 0,0:09:15.63,0:09:16.38,Hanekawa,,0,0,0,,No.
+Dialogue: 0,0:09:16.38,0:09:17.64,Mayoi,,0,0,0,,Disculpa. Me mordí la lengua.{Apologies. It was a bite of the tongue.}
+Dialogue: 0,0:09:17.64,0:09:18.70,Mayoi,,0,0,0,,12.000{12,000.}
+Dialogue: 0,0:09:18.70,0:09:21.34,CommentaryHalf,,0,0,0,,{\an8}NdT: Mukoubichi: Manga sobre Mahjong de 1999 (aun en publicación). Haneman: Mano de 12000 puntos en mahjong.
+Dialogue: 0,0:09:18.70,0:09:21.34,Hanekawa,,0,0,0,,¿Porqué {\i1}Mukoubichi{\i0}? ¡¿Porqué {\i1}haneman{\i0}?!{Why Mukoubuchi? Why haneman?!}
+Dialogue: 0,0:09:21.34,0:09:22.52,Mayoi,,0,0,0,,Porque nuestra charla llegó a su fin.{Because our talk has come to an end.}
+Dialogue: 0,0:09:21.34,0:09:22.52,CommentaryHalf,,0,0,0,,{\pos(1314,980)}(haneta){Porque nuestra charla llegó a su fin (haneta).}{Because our talk has come to an end (haneta).}
+Dialogue: 0,0:09:22.52,0:09:23.39,Hanekawa,,0,0,0,,Pues no.{It hasn't.}
+Dialogue: 0,0:09:23.39,0:09:24.25,Mayoi,,0,0,0,,¿Aunque seas Hanekawa?{Even when you're Hanekawa?}
+Dialogue: 0,0:09:24.25,0:09:26.87,CommentaryHalf,,0,0,0,,{\an8}NdT: El kanji 羽 (hane) en "Hanekawa" se refiere a plumas o alas, mientras que 跳 (hane) de "haneman" se refiere a un salto o golpe.
+Dialogue: 0,0:09:24.25,0:09:26.87,Hanekawa,,0,0,0,,¡El "hane" en Hanekawa no es el mismo que en "haneman"!{The "hane" in Hanekawa \Nisn't the one in "haneman"!}
+Dialogue: 0,0:09:26.87,0:09:29.10,Hanekawa,,0,0,0,,De verdad me voy. Me estoy levantando de mi asiento.{I'm really going to leave. \NI'm getting up from my seat.}
+Dialogue: 0,0:09:29.10,0:09:30.90,Mayoi,,0,0,0,,¡No! ¡Me meterás en problemas!{No! You'll get me in trouble!}
+Dialogue: 0,0:09:30.90,0:09:33.37,Mayoi,,0,0,0,,Si te molestas conmigo...{If you get angry at me...}
+Dialogue: 0,0:09:33.37,0:09:35.63,Mayoi,x,0,0,0,,...¡me despedirán de la pista de comentarios!{...I'll get fired from the commentary tracks!}
+Dialogue: 0,0:09:35.63,0:09:37.46,Hanekawa,,0,0,0,,Entonces que te despidan.{Then please get fired.}
+Dialogue: 0,0:09:35.63,0:09:37.46,CommentaryHalf,x,0,0,0,,{\pos(1140,980)}(kubi)
+Dialogue: 0,0:09:37.46,0:09:39.68,Mayoi,x,0,0,0,,¿Hanekawa Tsubasa-ras mi cabeza?{Are you going to Hanekawa Tsubasa my head?}{私の首を羽川翼ってこと？}
+Dialogue: 0,0:09:37.46,0:09:39.68,CommentaryHalf,x,0,0,0,,{\pos(720,990)}(haneru = decapitar){(haneru = decapitate)}
+Dialogue: 0,0:09:37.46,0:09:39.68,CommentaryHalf,x,0,0,0,,{\pos(1270,990)}(kubi)
+Dialogue: 0,0:09:39.68,0:09:41.68,Hanekawa,,0,0,0,,Nada de gracias por hoy.{No thank yous for today.}
+Dialogue: 0,0:09:41.68,0:09:43.29,Mayoi,,0,0,0,,¡Espera! ¡Dije que no me dejes!{Wait! I said don't leave!}
+Dialogue: 0,0:09:43.29,0:09:44.92,Mayoi,,0,0,0,,¿No gracias?{No thank yous?}
+Dialogue: 0,0:09:44.92,0:09:46.61,Hanekawa,,0,0,0,,Ya que no tengo que agradecerte.{Because I have no thanks for you.}
+Dialogue: 0,0:09:46.61,0:09:47.99,Mayoi,,0,0,0,,¿Aun si buscas dentro de tu corazón?{Even if you look inside your heart?}
+Dialogue: 0,0:09:47.99,0:09:49.52,Hanekawa,,0,0,0,,Aun si buscara dentro de mi corazón.{Even if I look inside my heart.}
+Dialogue: 0,0:09:49.52,0:09:53.09,Mayoi,,0,0,0,,Ya veo. Es difícil decir "gracias", ¿cierto?{I see. It's difficult to say "thank you," right?}{ありがとうという言葉が有難かったってことだね}
+Dialogue: 0,0:09:49.52,0:09:53.09,CommentaryHalf,,0,0,0,,{\an8}NdT: arigatakatta normalmente significa "estar agradecido", pero en este caso, Mayoi lo descompone en ari (tener) + gatakatta (difícil).
+Dialogue: 0,0:09:49.52,0:09:53.09,CommentaryHalf,,0,0,0,,{\pos(800,990)}ari-gatakatta
+Comment: 0,0:09:49.52,0:09:53.09,CommentaryHalf,x,0,0,0,,{\pos(735,980)}(ari-gatakatta; normally means "thankful")\N
+Comment: 0,0:09:49.52,0:09:53.09,CommentaryHalf,x,0,0,0,,{\fs30\pos(550.4,940)}(ari/have + gatakatta/difficult = difficult to have)
+Dialogue: 0,0:09:53.09,0:09:56.36,Hanekawa,,0,0,0,,¡No lo conviertas en una broma que sea difícil de explicar sin escribir el kanji!{Don't make a pun like this that's hard to explain \Nwithout writing down the kanji!}{漢字で書かないと分かりづらいことを言わないでください}
+Dialogue: 0,0:09:56.90,0:09:57.44,Mayoi,,0,0,0,,Oh.
+Dialogue: 0,0:09:57.74,0:09:59.78,Mayoi,,0,0,0,,Y antes de que me diera cuenta, ya terminó mi aparición.{Before I realized, my appearance is over.}
+Dialogue: 0,0:09:59.88,0:10:02.10,Mayoi,,0,0,0,,¡Mi vida se ha vuelto complicada!{My existence has become difficult!}
+Dialogue: 0,0:10:02.10,0:10:04.56,Hanekawa,,0,0,0,,Porque continuas diciendo cosas innecesarias.{Because you kept saying unnecessary things.}
+Dialogue: 0,0:10:04.69,0:10:07.34,Hanekawa,,0,0,0,,En efecto, tu charla fue interesante...{Your talk was indeed interesting...}{あなたのトーク確かに面白いんですけれど}
+Dialogue: 0,0:10:07.44,0:10:09.37,Hanekawa,,0,0,0,,...pero, mantenla controlada.{...but keep it in check.}{もうちょっと取り留めましょうよ}
+Dialogue: 0,0:10:09.37,0:10:11.17,Mayoi,,0,0,0,,¿Que la controle?{Keep it in check?}{取り留めましょうよって}
+Dialogue: 0,0:10:11.44,0:10:12.87,Mayoi,,0,0,0,,Hmm, está bien.{Hmm, alright.}
+Dialogue: 0,0:10:13.04,0:10:15.43,Mayoi,,0,0,0,,Entonces, es hora que haga la pista de comentarios en serio.{Then time for me to do \Nthe commentary track seriously.}
+Dialogue: 0,0:10:15.43,0:10:15.99,Hanekawa,,0,0,0,,¡Demasiado tarde!{Too late!}
+Dialogue: 0,0:10:15.99,0:10:17.39,Hanekawa,,0,0,0,,¡Es demasiado tarde para ponerse serio!{It's too late to get serious!}
+Dialogue: 0,0:10:17.39,0:10:20.16,Mayoi,,0,0,0,,21 años es un buen momento para pasar la página, ¿no lo crees?{21 years old is a good time to turn \Nover a new leaf, don't you think so?}{２１歳　更正するにはいい頃合でしょう？}
+Dialogue: 0,0:10:20.16,0:10:21.18,Hanekawa,,0,0,0,,Como dije, ¡demasiado tarde!{Like I said, too late!}
+Dialogue: 0,0:10:21.36,0:10:24.35,Hanekawa,,0,0,0,,Pero, ha pasado un año desde que te convertiste en adulta...{But it's been a year since you became an adult...}{ですけれど　成人して一年ですから}
+Dialogue: 0,0:10:24.35,0:10:26.94,Hanekawa,,0,0,0,,...así que, efectivamente podría ser un buen momento.{...so it might indeed be a good time.}
+Dialogue: 0,0:10:26.94,0:10:29.45,Mayoi,,0,0,0,,Los dos se ven muy geniales en esta escena.{The two of them are pretty cool in this scene.}
+Dialogue: 0,0:10:29.45,0:10:30.38,Hanekawa,,0,0,0,,Sip.{Yeah.}
+Dialogue: 0,0:10:30.49,0:10:34.39,Hanekawa,x,0,0,0,,Despues de todo, tienen un vínculo mucho más fuerte que cualquiera.{They have a bond stronger \Nthan anyone else, after all.}
+Dialogue: 0,0:10:34.39,0:10:37.36,Mayoi,,0,0,0,,Casi olvido que estamos viendo Mayoi Jiangshi.{I almost forgot we are watching Mayoi Jiangshi.}{マヨイキョンシだってことを見失いそうになるよね}
+Dialogue: 0,0:10:37.36,0:10:41.07,Hanekawa,,0,0,0,,Ah. Esto me recuerda que esto es Mayoi Jiangshi.{Ah. That reminds me that this is Mayoi Jiangshi.}
+Dialogue: 0,0:10:41.07,0:10:43.71,Mayoi,,0,0,0,,¿Qué? ¡No puedo creer que alguien como tu pudiera olvidarlo!{What?! I can't believe \Nsomeone like you would forget!}
+Dialogue: 0,0:10:43.71,0:10:46.03,Hanekawa,,0,0,0,,Estaba segura que era Shinobu Time.{I was so sure it was Shinobu Time.}
+Dialogue: 0,0:10:46.03,0:10:47.48,Mayoi,,0,0,0,,¡De ninguna manera!{No way!}
+Dialogue: 0,0:10:47.48,0:10:50.27,Hanekawa,,0,0,0,,Bueno, ¡yo también cometo errores!{Well, I do make mistakes too!}
+Dialogue: 0,0:10:50.27,0:10:51.36,Mayoi,,0,0,0,,No es eso, ¿cierto?{That's not it, right?}
+Dialogue: 0,0:10:51.36,0:10:55.55,Mayoi,,0,0,0,,Eso fue porque no encontraste placentero mi comportamiento agreste...{That's just because you don't \Nfind my wild behavior pleasant...}{それは翼ちゃんが　私の奔放の振る舞いを快く思っていないから}
+Dialogue: 0,0:10:55.55,0:10:57.00,Mayoi,,0,0,0,,...así que pretendías estar equivocada...{...so you pretended to be mistaken...}{勘違いした振りをして}
+Dialogue: 0,0:10:57.00,0:10:59.20,Mayoi,,0,0,0,,...para atacarme, ¿cierto?{...to attack me, right?}{私を攻撃しようとしているだけでしょう？}
+Dialogue: 0,0:10:59.20,0:11:01.09,Hanekawa,,0,0,0,,¡Me pregunto de que estas hablando!{I wonder what you're talking about!}
+Dialogue: 0,0:11:01.09,0:11:02.76,Mayoi,,0,0,0,,Ahora estás hablando diferente.{You're speaking differently now.}
+Dialogue: 0,0:11:02.76,0:11:04.94,Hanekawa,,0,0,0,,Shinobu Time es muy conmovedora.{Shinobu Time sure is touching.}
+Dialogue: 0,0:11:04.94,0:11:08.16,Mayoi,,0,0,0,,Como decía, ¡{\i1}Kabukimonogatari{\i0} es mi momento!{Like I said, Kabukimonogatari is my time!}
+Dialogue: 0,0:11:08.16,0:11:10.22,Mayoi,,0,0,0,,¿El {\i1}kabukimono{\i0} no se refiere a mí?{Isn't the kabukimono referring to me?}
+Dialogue: 0,0:11:08.16,0:11:10.22,CommentaryHalf,,0,0,0,,{\pos(790,990)}(persona excéntrica){(eccentric person)}{¿El kabukimono no se refiere a mi?}{Isn't the kabukimono (eccentric person) referring to me?}
+Dialogue: 0,0:11:10.22,0:11:13.09,Hanekawa,x,0,0,0,,No, para nada.{No, I don't think so at all.}
+Dialogue: 0,0:11:13.09,0:11:15.15,Mayoi,,0,0,0,,Pero, como el kabukimono...{But as the kabukimono...}
+Dialogue: 0,0:11:15.15,0:11:17.22,Mayoi,,0,0,0,,...ha terminado mi aparición...{...my appearance is over...}
+Dialogue: 0,0:11:17.22,0:11:20.13,Mayoi,,0,0,0,,...así que no puedo negar sentirme como si me fuera a casa.{...so I can't deny \Nthat I feel like going home now.}
+Dialogue: 0,0:11:20.13,0:11:21.41,Hanekawa,,0,0,0,,¡No te vayas por favor!{Please don't leave!}
+Dialogue: 0,0:11:21.41,0:11:23.65,Hanekawa,,0,0,0,,¡No me dejes antes de que yo lo haga!{Don't leave before I do!}
+Dialogue: 0,0:11:23.84,0:11:25.78,Hanekawa,,0,0,0,,¡La cabina pasará a estar vacía!{The booth will become empty!}
+Dialogue: 0,0:11:25.78,0:11:29.54,Hanekawa,,0,0,0,,¡Eso no es un kabukimono, sino un egoísta!{That isn't a kabukimono, \Nbut just a selfish person!}
+Dialogue: 0,0:11:29.54,0:11:34.53,Mayoi,,0,0,0,,Pues, querer irme a casa es mi identidad como Hachikuji Mayoi.{Well, wanting to go home \Nis my character identity as Hachikuji Mayoi.}
+Dialogue: 0,0:11:34.53,0:11:35.34,Mayoi,,0,0,0,,No lo puedo evitar.{It can't be helped.}
+Dialogue: 0,0:11:35.34,0:11:38.87,Hanekawa,,0,0,0,,¡Podrías usar esa identidad como excusa si aun tuvieras 10...{You could use that identity as an excuse \Nif you were still 10...}
+Dialogue: 0,0:11:38.87,0:11:41.41,Hanekawa,,0,0,0,,...pero, a los 21 ya no funciona!{...but it doesn't work anymore at 21!}
+Dialogue: 0,0:11:41.41,0:11:42.92,Hanekawa,,0,0,0,,¡Eres una desadaptada!{You're just a misfit!}
+Dialogue: 0,0:11:42.92,0:11:44.52,Mayoi,,0,0,0,,Eh, ¿desadaptada?{Misfit, eh?}
+Dialogue: 0,0:11:44.73,0:11:46.43,Mayoi,,0,0,0,,Hmm, eso no es malo.{Hmph, that isn't a bad thing.}
+Dialogue: 0,0:11:46.63,0:11:49.15,Mayoi,x,0,0,0,,Dijo Doña Hachikuji con una sonrisa atrevida en su rostro.{Said Lady Hachikuji \Nwith a bold smile on her face.}{と　不敵な笑みを浮かべる八九寺女史だった}
+Dialogue: 0,0:11:49.15,0:11:51.44,Hanekawa,,0,0,0,,¡¿Qué Doña Hachikuji?!{What Lady Hachikuji?!}{八九寺女史だったじゃないですよ}
+Dialogue: 0,0:11:49.15,0:11:51.44,CommentaryHalf,,0,0,0,,{\pos(900,990)}(joshi){What Lady (joshi) Hachikuji?!}
+Dialogue: 0,0:11:51.44,0:11:53.92,Mayoi,,0,0,0,,Dijo la chica Hanekawa, con una carga de insatisfacción.{Said Hanekawa the girl, \Nwith a load of dissatisfaction.}{と　不満たらたらの羽川子女だった}
+Dialogue: 0,0:11:51.44,0:11:53.92,CommentaryHalf,,0,0,0,,{\pos(535,990)}(shijo){Dijo la chica (shijo) Hanekawa. con una carga de insatisfacción.}{Said Hanekawa the girl (shijo), with a load of dissatisfaction.}
+Dialogue: 0,0:11:53.92,0:11:55.33,Hanekawa,,0,0,0,,¿La chica Hanekawa?{Hanekawa the girl?}
+Dialogue: 0,0:11:55.33,0:11:57.59,Hanekawa,,0,0,0,,¡Deja de dar instrucciones!{Stop giving stage directions!}
+Dialogue: 0,0:11:57.59,0:11:58.99,Mayoi,,0,0,0,,Lo se. Me detengo.{I know. I'll stop.}
+Dialogue: 0,0:11:59.16,0:12:00.77,Mayoi,,0,0,0,,Lo dije, haciéndome la interesante. {I said, with a posed look.}
+Dialogue: 0,0:12:00.77,0:12:02.49,Hanekawa,,0,0,0,,¡No te detienes!{You haven't stopped!}
+Dialogue: 0,0:12:02.49,0:12:04.72,Mayoi,,0,0,0,,Esa es la frase de Ononoki Yotsugi-chan.{This is Ononoki Yotsugi-chan's catchphrase.}
+Dialogue: 0,0:12:04.72,0:12:08.48,Hanekawa,,0,0,0,,Oh. Ese pasado oscuro no se cambió en este mundo, ¿cierto?{Oh. That dark history \Nwasn't changed in this world, right?}{この世界ではその黒歴史修正されてないですね}
+Dialogue: 0,0:12:08.61,0:12:10.12,Mayoi,,0,0,0,,¡Termina la Parte A!{Part A is over!}
+Dialogue: 0,0:12:10.32,0:12:12.65,Mayoi,,0,0,0,,¡Lo dije, haciéndome la interesante!{I said, with a posed look!}
+Dialogue: 0,0:12:12.75,0:12:16.17,Hanekawa,,0,0,0,,Si en verdad lo dices haciéndote la interesante, sería una frase exasperante.{If you really say it with a posed face, \Nit's an infuriating line.}{本当に決め顔で言われると　腹の立つセリフですね}
+Dialogue: 0,0:12:17.34,0:12:18.65,Mayoi,,0,0,0,,¡Muy bien, es la Parte B!{Alright, it's Part B!}
+Dialogue: 0,0:12:18.65,0:12:19.46,Mayoi,,0,0,0,,Para todos los Terr...{To all of Earth's—}
+Dialogue: 0,0:12:19.46,0:12:21.35,Hanekawa,,0,0,0,,¿Ahora son 50 personas?{Is it 50 people now?}
+Dialogue: 0,0:12:21.35,0:12:23.51,Mayoi,,0,0,0,,Para todos los Terr... ¿Eh?{To all of Earth's... Huh?}
+Dialogue: 0,0:12:23.76,0:12:24.84,Hanekawa,,0,0,0,,¿Qué ocurre?{What's wrong?}
+Dialogue: 0,0:12:24.84,0:12:25.31,Mayoi,,0,0,0,,¿Eh?{Huh?}
+Dialogue: 0,0:12:25.51,0:12:26.15,Mayoi,,0,0,0,,¿Eh? ¡¿Eh?!{Huh? Huh?!}
+Dialogue: 0,0:12:26.15,0:12:28.98,Hanekawa,,0,0,0,,¿Qué ocurre, Mayoi-oneesan?{What's wrong, Mayoi-oneesan?}
+Dialogue: 0,0:12:29.14,0:12:31.89,Mayoi,,0,0,0,,¡Esta pista de comentarios es traída a ustedes por las 2 personas que quedan en toda la Tierra!{This commentary track is brought \Nto you by all of Earth's 2 people!}{全地球二人で送りしております副音声}
+Dialogue: 0,0:12:31.89,0:12:36.17,Mayoi,,0,0,0,,¡Tsubasa-chan y yo, Mayoi-oneesan, continuaremos aun cuando nadie nos esté escuchando!{Tsubasa-chan and I, Mayoi-oneesan, \Nwill continue with it despite no one hearing us!}{引き続きマヨイお姉さんと翼ちゃんが　誰も聞いていないのにお届けします}
+Dialogue: 0,0:12:36.17,0:12:38.00,Hanekawa,,0,0,0,,¡La humanidad ha sido aniquilada!{Humanity has been annihilated!}
+Dialogue: 0,0:12:38.00,0:12:41.65,Mayoi,,0,0,0,,Eso significa que tendremos que coexistir para sobrevivir.{That means we'll have to \Nco-exist in order to survive.}
+Dialogue: 0,0:12:41.65,0:12:42.62,Hanekawa,,0,0,0,,Que infierno.{That's hell.}
+Dialogue: 0,0:12:42.62,0:12:45.15,Mayoi,,0,0,0,,¡La Tsubasa-chan de 6 años sí que es fría!{Six-year-old Tsubasa-chan sure is cold!}
+Dialogue: 0,0:12:45.15,0:12:47.29,Hanekawa,,0,0,0,,Como dije, mi personalidad cambió...{Like I said, my personality changed...}
+Dialogue: 0,0:12:47.29,0:12:50.81,Hanekawa,,0,0,0,,...ya que conocí a Araragi Koyomi-san cuando tenía 6 años.{...because I met Araragi Koyomi-san when I was 6.}
+Dialogue: 0,0:12:50.81,0:12:52.30,Mayoi,,0,0,0,,¡Has cambiado demasiado!{You changed too much!}
+Dialogue: 0,0:12:52.44,0:12:54.12,Mayoi,,0,0,0,,Sabes, eso aparece con frecuencia en mangas shoujo, ¿cierto?{You know, it often appears \Nin shoujo manga, right?}{少女漫画に出てくるよな}
+Dialogue: 0,0:12:54.12,0:12:56.26,Mayoi,,0,0,0,,La típica pareja que no se llevan bien.{The stereotypical couple \Nwho don't get along well.}{典型的な仲の悪い男女がさ}
+Dialogue: 0,0:12:56.26,0:12:57.51,Mayoi,,0,0,0,,Es una metáfora común.{It's a common parable.}{よくたとえ話で}
+Dialogue: 0,0:12:57.51,0:13:03.30,Mayoi,x,0,0,0,,"Aunque, si terminamos siendo las últimas dos humanas en la Tierra, no podría estar equivocada".{"Even if we ended up as the last two \Nhumans on Earth, I wouldn't be wrong."}{あなたとは　もし地球上最後の　人類最後の二人になっても　間違いは起こらない}
+Dialogue: 0,0:13:03.30,0:13:06.12,Mayoi,,0,0,0,,Intercambiarían esa clase de abuso verbal entre ellas.{They'll trade that sort of \Nabusive language with each other.}{みたいな憎まれ口を叩き合うってのをするけれども}
+Dialogue: 0,0:13:06.25,0:13:10.80,Mayoi,x,0,0,0,,Pero en realidad, ahora que somos las últimas dos humanas en la Tierra...{But in reality, now that we've become \Nthe last two humans on Earth...}{実際こうやって　地球上最後の　人類最後の二人になってみると}
+Dialogue: 0,0:13:10.80,0:13:12.39,Hanekawa,x,0,0,0,,No me equivoco.{I'm not wrong.}{間違いは起こりませんよ}
+Dialogue: 0,0:13:12.39,0:13:13.42,Mayoi,x,0,0,0,,Eso no pasa.{So you're not.}{起こらないんだ}
+Dialogue: 0,0:13:13.42,0:13:15.12,Mayoi,,0,0,0,,Estas molesta, pero no estas equivocada.{You're angry, yet you aren't wrong.}{怒ってるくせに起こらないんだ}
+Dialogue: 0,0:13:13.42,0:13:15.12,CommentaryHalf,,0,0,0,,{\pos(720,990)}(okoru){Estas molesta (okoru), pero no estas equivocada (okoru).}{You're angry (okoru), yet you won't make (okoru) a mistake.}
+Dialogue: 0,0:13:13.42,0:13:15.12,CommentaryHalf,,0,0,0,,{\pos(1290,990)}(okoru){Estas molesta (okoru), pero no estas equivocada (okoru).}{You're angry (okoru), yet you won't make (okoru) a mistake.}
+Dialogue: 0,0:13:15.12,0:13:17.09,Hanekawa,,0,0,0,,Eso es lo que odio de ti.{That's what I hate about you.}
+Dialogue: 0,0:13:17.09,0:13:18.37,Mayoi,,0,0,0,,Ahora me dices que me odias.{Now you even say you hate me.}
+Dialogue: 0,0:13:18.37,0:13:21.75,Hanekawa,,0,0,0,,En primer lugar, ¿no es una mentira que seamos las últimas dos humanas en la Tierra?{In the first place, isn't it a lie \Nthat we're the last two humans on Earth?}
+Dialogue: 0,0:13:21.75,0:13:23.01,Mayoi,,0,0,0,,Es mentira...{It's a lie...}
+Dialogue: 0,0:13:23.01,0:13:25.52,Mayoi,,0,0,0,,...pero, es verdad que somos las únicas en esta cabina.{...but it's the truth that we're \Nthe only ones in this booth.}
+Dialogue: 0,0:13:25.52,0:13:27.92,Mayoi,,0,0,0,,¡Así que hagamos estas pistas de comentarios juntas llevándonos bien!{So let's do the commentary \Ntrack together on good terms!}
+Dialogue: 0,0:13:28.12,0:13:30.62,Mayoi,,0,0,0,,Así como Araragi Tsukihi-chan y Sengoku Nadeko-chan.{Just like Araragi Tsukihi-chan \Nand Sengoku Nadeko-chan.}
+Dialogue: 0,0:13:30.83,0:13:33.14,Mayoi,,0,0,0,,¡{\i1}La amigable Combinación Chuuni{\i0}, yay!{"Chummy Chuuni Combi! Yay!"}
+Dialogue: 0,0:13:33.14,0:13:35.06,Mayoi,,0,0,0,,Hagámoslo así.{Let's do it like this.}
+Dialogue: 0,0:13:35.06,0:13:38.07,Hanekawa,,0,0,0,,¿De verdad crees que esas dos se lleven bien?{Do you really think those two get along well?}
+Dialogue: 0,0:13:38.07,0:13:39.37,Mayoi,,0,0,0,,¿Eh? ¿Por qué?{Huh? Why?}
+Dialogue: 0,0:13:39.37,0:13:40.86,Mayoi,,0,0,0,,Parece que se llevan bien.{They look like they're on good terms.}
+Dialogue: 0,0:13:41.05,0:13:44.29,Hanekawa,,0,0,0,,Parecen como adultos que no entienden las broncas entre niños.{Looks like adults don't \Nunderstand feuds between children.}
+Dialogue: 0,0:13:41.05,0:13:44.29,CommentaryHalf,,0,0,0,,{\pos(1320,990)}(kakushitsu){Parecen como adultos que no entienden las broncas(kakushitsu) entre niños.}{Looks like adults don't understand feuds (kakushitsu) between children.}
+Dialogue: 0,0:13:44.29,0:13:46.18,Mayoi,,0,0,0,,¿Queratina? ¿Te refieres a la piel?{Keratin? You mean the skin?}
+Dialogue: 0,0:13:44.29,0:13:46.18,CommentaryHalf,,0,0,0,,{\pos(720,990)}(kakushitsu){¿Keratina(kakushitsu)? ¿Te refieres a la piel?}{Keratin (kakushitsu)? You mean the skin?}
+Dialogue: 0,0:13:46.18,0:13:49.39,Hanekawa,,0,0,0,,Seguro que sabes de que palabra proviene el contexto, ¿verdad?{I'm sure you know which word it is \Nfrom the context, right?}
+Dialogue: 0,0:13:49.39,0:13:50.72,Hanekawa,,0,0,0,,¡Eres una adulta!{You're an adult!}
+Dialogue: 0,0:13:50.72,0:13:51.66,Mayoi,,0,0,0,,Ya veo.{I see.}
+Dialogue: 0,0:13:51.66,0:13:55.47,Mayoi,,0,0,0,,Ser incapaz de distinguir entre "bronca" y "queratina"... supongo que no califico para ser adulta.{Being unable to distinguish between "feud" and "keratin"... \NI guess I'm not qualified to be an adult.}
+Dialogue: 0,0:13:55.47,0:13:57.08,Hanekawa,,0,0,0,,En vez de ser alguien que frecuentemente se muerde la lengua...{Rather than being someone \Nwho often bites her tongue...}{よく噛む人っていうか}
+Dialogue: 0,0:13:57.08,0:14:00.27,Hanekawa,,0,0,0,,...solo eres alguien que ama las bromas tontas, Mayoi-oneesan. {...you're just someone \Nwho loves lame jokes, Mayoi-oneesan.}{ただのダジャレが好きな人になってますよ　マヨイお姉さん}
+Dialogue: 0,0:14:00.27,0:14:02.88,Mayoi,,0,0,0,,¡{\i1}La Combinación Chuuni de Caminos Diferentes{\i0}, yay!{Chummy Different Route Combi! Yay!}{仲良し別ルートコンビ　イエイ}
+Dialogue: 0,0:14:02.88,0:14:03.63,Hanekawa,,0,0,0,,Yay.
+Dialogue: 0,0:14:03.63,0:14:06.01,Mayoi,,0,0,0,,Entonces haré de Tsukihi-chan.{Then I'll play Tsukihi-chan.}
+Dialogue: 0,0:14:06.01,0:14:07.86,Hanekawa,x,0,0,0,,¡No, seguro que lo entiendes!{No, I'm sure you understand!}{いやいや　分かってるじゃないですか}
+Dialogue: 0,0:14:08.00,0:14:11.53,Hanekawa,,0,0,0,,¡La bronca entre ellas y su diferencia!{The feud between them and their difference!}{あの二人の間にある確執というか　格差というかが}
+Dialogue: 0,0:14:11.63,0:14:14.34,Hanekawa,,0,0,0,,Lo siento, Mayoi-oneesan...{I'm sorry, Mayoi-oneesan...}
+Dialogue: 0,0:14:14.34,0:14:15.80,Hanekawa,,0,0,0,,...pero no me voy a rendir.{...but I'm not giving up that.}
+Dialogue: 0,0:14:15.80,0:14:16.70,Hanekawa,,0,0,0,,¡Tendrás que ganártela!{You'll have to fight for it!}
+Dialogue: 0,0:14:16.70,0:14:18.18,Hanekawa,,0,0,0,,¡Por el rol de Araragi Tsukihi-san!{For the role of Araragi Tsukihi-san!}
+Dialogue: 0,0:14:18.18,0:14:22.62,Mayoi,,0,0,0,,Para nada, ¡una linda Sengoku-chan para una linda Tsubasa-chan!{But a cute Sengoku-chan for a cute Tsubasa-chan!}{いやいや　可愛い翼ちゃんには　可愛い千石ちゃんを譲るよ}
+Dialogue: 0,0:14:22.62,0:14:26.01,Hanekawa,,0,0,0,,Me alegro que me den el papel de Sengoku Nadeko-san...{I'm happy to be given \Nthe role of Sengoku Nadeko-san...}
+Dialogue: 0,0:14:26.01,0:14:32.05,Hanekawa,,0,0,0,,...pero, si yo, como Sengoku Nadeko-san me meto en una bronca contigo en el rol de Araragi Tuskihi-san, ¡estaría en un peor infierno!{...but if I, as Sengoku Nadeko-san, get into a quarrel with you \Nin the role of Araragi Tsukihi-san, I'd be even deeper in hell!}{その千石撫子ちゃん役で　阿良々木月火さん役のあなたと絡むなんて　より深い地獄です}
+Dialogue: 0,0:14:32.05,0:14:36.58,Hanekawa,x,0,0,0,,¿Como se supone que te salve cuando estas en el papel de Araragi Tsukihi-san?{How am I supposed to save you \Nwhen you're in the role of Araragi Tsukihi-san?}{阿良々木月火さん役のあなたって　どこに救いを求めればいいんですか}
+Dialogue: 0,0:14:36.58,0:14:39.06,Mayoi,,0,0,0,,¿Eh? ¿Por qué eres tan egocéntrica?{Huh? Why are you being so self-centered?}{え　何でそんな自己中ばかり言うの}
+Dialogue: 0,0:14:39.06,0:14:41.11,Mayoi,,0,0,0,,¿Por qué no piensas en los sentimientos de los demas?{Why don't you think of everyone's feelings?}
+Dialogue: 0,0:14:41.11,0:14:45.06,Mayoi,x,0,0,0,,Es solo porque dices cosas como esta que todo el mundo dice que te detesta.{It's because you only say stuff like this \Nthat everyone says they hate you.}{そんなことばっかり言ってるから皆君の事を嫌いだっていう噂してるんだよ}
+Dialogue: 0,0:14:45.06,0:14:47.18,Mayoi,,0,0,0,,Te lo digo por tu bien.{I'm saying this for your sake.}
+Dialogue: 0,0:14:47.18,0:14:50.74,Hanekawa,,0,0,0,,Eso es todo lo que piensas de Araragi Tsukihi-san, ¿verdad?{That's all there is to \NAraragi Tsukihi-san in your mind, right?}{あなたの思う阿良々木月火さんぞ　そこまでなんですね}
+Dialogue: 0,0:14:51.48,0:14:52.92,Mayoi,,0,0,0,,¡Guau, que miedo!{Whoa, so scary!}
+Dialogue: 0,0:14:53.05,0:14:53.48,Hanekawa,,0,0,0,,¿Eh?{Huh?}
+Dialogue: 0,0:14:53.58,0:14:56.51,Hanekawa,,0,0,0,,Ah. La versión adulta de Shinobu-san.{Ah. Shinobu-san's adult version.}
+Dialogue: 0,0:14:56.58,0:14:59.53,Hanekawa,x,0,0,0,,La versión adulta, o más bien, su forma original.{Adult version, or rather original form.}
+Dialogue: 0,0:14:59.65,0:15:02.86,Hanekawa,,0,0,0,,Kiss-Shot Acerola-Orion Heart-Under-Blade-san.
+Dialogue: 0,0:15:02.86,0:15:05.52,Mayoi,,0,0,0,,Kiss-Shot Acerola-Orion Heart-Under-Blade...
+Dialogue: 0,0:15:05.70,0:15:08.06,Mayoi,,0,0,0,,Un nombre digno para morderme la lengua.{A name worth biting my tongue for.}{これはもう噛み甲斐のありそうな名前だね}
+Dialogue: 0,0:15:08.06,0:15:10.62,Hanekawa,x,0,0,0,,Pues, ya te la mordiste lo suficiente en el primer volumen.{Well, you already bit your tongue \Nenough in the first volume.}{いや散々噛み倒してましたよ上巻に}
+Dialogue: 0,0:15:10.62,0:15:11.97,Hanekawa,,0,0,0,,En su cara.{In her face.}{本人を目の前に}
+Dialogue: 0,0:15:11.97,0:15:13.03,Mayoi,,0,0,0,,¡¿En serio?!{Seriously?!}
+Dialogue: 0,0:15:13.18,0:15:16.28,Mayoi,,0,0,0,,¡Parece que ese tiempo no conocía el miedo! {Looks like I knew no fear back in those days!}
+Dialogue: 0,0:15:16.28,0:15:19.34,Hanekawa,,0,0,0,,Eso es porque no lo sabias.{That's because you didn't know.}{ま　それは本当に知らなかったんですけれどね}
+Dialogue: 0,0:15:19.34,0:15:24.94,Hanekawa,,0,0,0,,Despues de todo, aun cuando eras joven no conoces esta forma de Oshino Shinobu-san.{After all, you haven't met this form \Nof Oshino Shinobu-san yet when you were young.}{少女時代のマヨイお姉さん　この姿の忍野忍さんと対面したことはありませんから}
+Dialogue: 0,0:15:24.94,0:15:26.35,Mayoi,x,0,0,0,,Así podía morderme la lengua.{That's how I was able to bite my tongue.}
+Dialogue: 0,0:15:26.48,0:15:29.19,Mayoi,,0,0,0,,Por cierto, ¿que dije? ¿Como me mordía la lengua?{By the way, what did I say? \NHow did I bite my tongue?}
+Dialogue: 0,0:15:29.19,0:15:32.49,Hanekawa,,0,0,0,,Kiss-Shota Acerola-Lolion Heart-Under-Teen.
+Dialogue: 0,0:15:32.49,0:15:33.69,Mayoi,,0,0,0,,¡Que terrible!{That's terrible!}{最低だなそいつ}
+Dialogue: 0,0:15:33.69,0:15:34.76,Hanekawa,,0,0,0,,Aunque, eras tu.{It was you, though.}
+Dialogue: 0,0:15:34.76,0:15:36.74,Mayoi,,0,0,0,,Me sorprende que la yo de la otra ruta haya sobrevivido...{I'm amazed different-route-I \Nmanaged to survive then...}
+Dialogue: 0,0:15:37.04,0:15:39.10,Mayoi,,0,0,0,,...si le dijera eso en su cara.{...if I said that in her face.}
+Dialogue: 0,0:15:39.10,0:15:40.88,Hanekawa,,0,0,0,,Si estuviéramos hablando de tu supervivencia...{If we're talking about your survival...}
+Dialogue: 0,0:15:40.88,0:15:43.72,Hanekawa,,0,0,0,,...en realidad, la otra tu murió.{...different-route-you died, actually.}
+Dialogue: 0,0:15:43.72,0:15:44.76,Mayoi,,0,0,0,,Es verdad.{That's right.}
+Dialogue: 0,0:15:44.76,0:15:47.52,Mayoi,,0,0,0,,Eso significa que como mi otra yo estaba muerta...{That means because different-route-I was dead...}{つまり別ルートの私は死んでいたからこそ}
+Dialogue: 0,0:15:47.52,0:15:49.30,Mayoi,,0,0,0,,...pensé que ella no podría quitarme mi vida...{...so I thought she couldn't take my life...}{命までは取られないと思って}
+Dialogue: 0,0:15:49.30,0:15:51.04,Mayoi,,0,0,0,,...y tuve el coraje de morderme la lengua.{...and took the courage to bite my tongue.}{勇気を持って噛んだのかな}
+Dialogue: 0,0:15:51.04,0:15:53.04,Hanekawa,,0,0,0,,Aun si no pudiera quitarte tu vida...{Even if she couldn't take your life...}{命までは取られないと言っても}
+Dialogue: 0,0:15:53.04,0:15:55.97,Hanekawa,,0,0,0,,...Shinobu-san es la Asesina de Excentricidades.{...Shinobu-san is the Oddity Slayer.}{忍さんあれで怪異殺しなんですけれどね}
+Dialogue: 0,0:15:56.16,0:15:57.86,Hanekawa,,0,0,0,,Ella es el enemigo natural de las excentricidades...{She's a natural enemy of oddities...}
+Dialogue: 0,0:15:57.86,0:16:00.47,Hanekawa,,0,0,0,,...así que, aunque no pudiera quitarte tu vida...{...so while she might not be \Nable to take your life...}
+Dialogue: 0,0:16:00.47,0:16:02.12,Hanekawa,,0,0,0,,...podría apoderarse de tu existencia.{...but she can take over your existence.}
+Dialogue: 0,0:16:02.12,0:16:03.90,Mayoi,,0,0,0,,¿Apoderarse de mi existencia?{Take over my existence?}
+Dialogue: 0,0:16:03.90,0:16:06.02,Mayoi,,0,0,0,,¡Eso es más terrorífico a que me quiten la vida!{That's even more scary than having my life taken!}
+Dialogue: 0,0:16:06.02,0:16:08.89,Mayoi,,0,0,0,,Así que, después de todo era demasiado osada.{So I was pretty reckless after all.}
+Dialogue: 0,0:16:09.07,0:16:12.13,Mayoi,,0,0,0,,Los niños no conocen el miedo, ¿no es así?{Kids really don't know fear, do they?}
+Dialogue: 0,0:16:12.13,0:16:16.81,Hanekawa,x,0,0,0,,En primer lugar, ustedes se llamaban la {\i1}Combinación Loli{\i0}.{In the first place, \Nyou called yourselves a Loli Combi.}
+Dialogue: 0,0:16:16.81,0:16:19.69,Mayoi,,0,0,0,,"¡{\i1}La amigable Combinación Loli{\i0}, yay!" ¿Así era?{"Chummy Loli Combi! Yay!" Like this?}
+Dialogue: 0,0:16:19.69,0:16:21.87,Hanekawa,,0,0,0,,No lo has dicho.{You didn't say that.}
+Dialogue: 0,0:16:21.87,0:16:23.50,Mayoi,,0,0,0,,Me pregunto si aun podemos hacerlo.{I wonder if we can still do it now.}
+Dialogue: 0,0:16:23.68,0:16:28.40,Mayoi,,0,0,0,,La yo de 21 y Kiss-Shota Acerola-Lolion Heart-Under-Teen-san.{Kiss-Shota Acerola-Lolion Heart-Under-Teen-san \Nand 21-year-old-me.}
+Dialogue: 0,0:16:28.40,0:16:30.34,Mayoi,,0,0,0,,¡La amigable {\i1}Excombinación Loli{\i0}!{Ex-Chummy Loli Combi!}
+Dialogue: 0,0:16:30.34,0:16:33.35,Hanekawa,,0,0,0,,¿El "ex" no aplicaría a la parte "amigable"?{Wouldn't the "ex-" apply \Nto "chummy" instead then?}
+Dialogue: 0,0:16:33.35,0:16:35.55,Mayoi,,0,0,0,,¡La {\i1}nada amigable Combinación Loli{\i0}! ¡Yay!{Unchummy Loli Combi! Yay!}
+Dialogue: 0,0:16:35.55,0:16:38.53,Hanekawa,x,0,0,0,,¡Ninguna de tus bromas funciona!{None of your jokes work!}{そんな冗談　一個も通じそうにない方ですが}
+Dialogue: 0,0:16:38.62,0:16:41.01,Hanekawa,x,0,0,0,,No creo que ella venga a las pistas de comentarios.{I don't think she'll be coming \Nto the commentary tracks.}
+Dialogue: 0,0:16:41.01,0:16:42.00,Mayoi,,0,0,0,,Ya veo.{I see.}
+Dialogue: 0,0:16:42.00,0:16:43.70,Mayoi,,0,0,0,,Entonces no tendré más opción que engañarla.{Then I'll have no choice but to trick her.}
+Dialogue: 0,0:16:43.70,0:16:46.53,Hanekawa,,0,0,0,,¡Incluso ahora no conoces el miedo! {You still don't know fear even now!}
+Dialogue: 0,0:16:46.53,0:16:48.21,Mayoi,,0,0,0,,¡No, no, ella da miedo!{No, no, she's scary!}
+Dialogue: 0,0:16:48.35,0:16:49.25,Mayoi,,0,0,0,,¡Que miedo!{So scary!}
+Dialogue: 0,0:16:49.25,0:16:51.03,Mayoi,,0,0,0,,¡Un vampiro! ¡Que miedo!{A vampire! So scary!}
+Dialogue: 0,0:16:51.03,0:16:53.42,Hanekawa,,0,0,0,,¡No lo digas como en Manjuu Kowai!{Don't say it like in Manjuu Kowai!}
+Dialogue: 0,0:16:51.03,0:16:53.42,CommentaryHalf,,0,0,0,,{\an8}NdT: {\i1}Manjuu Kowai {\i0}es una historia de Rakugo.
+Dialogue: 0,0:16:51.03,0:16:53.42,CommentaryHalf,,0,0,0,,{\pos(1204,990)}(Le temo a Manjuu){Don't say it like in Manjuu Kowai (I'm Fearful of Manjuu)!}
+Dialogue: 0,0:16:53.42,0:16:55.97,Mayoi,,0,0,0,,No, no quería decirlo de esa forma.{No, I didn't mean to say it that way.}
+Dialogue: 0,0:16:56.17,0:16:58.22,Mayoi,,0,0,0,,Tusbasa-chan, eres tan inteligente cuando te entrometes...{Tsubasa-chan, \Nyou're knowledgeable at interjections...}{翼ちゃん　突っ込みに知性があるから}
+Dialogue: 0,0:16:58.22,0:17:01.33,Mayoi,x,0,0,0,,...así que me sorprendió cuando te entrometes sin quererlo. {...so I got shocked when I was interjected \Nwhen I wasn't planning to do that.}{そういうつもりじゃない時に　突っ込まれるとドキッとするね}
+Dialogue: 0,0:17:01.33,0:17:04.23,Hanekawa,,0,0,0,,Manjuu Kowai es cultura popular.{Manjuu Kowai is general knowledge.}{饅頭怖いはさすがに一般教養でしょう}
+Dialogue: 0,0:17:04.23,0:17:06.99,Mayoi,,0,0,0,,¡Detente! ¡Aun no lo he leído, así que no me lo cuentes!{Stop! I haven't read it yet, so don't spoil it!}
+Dialogue: 0,0:17:06.99,0:17:08.04,Hanekawa,,0,0,0,,¿Contartelo?{Spoil?}
+Dialogue: 0,0:17:08.04,0:17:11.38,Mayoi,,0,0,0,,Pues, me gusta el rakugo, así que me gustaría escucharlo algún día.{Well, I like rakugo, \Nso I might listen to it someday.}
+Dialogue: 0,0:17:11.38,0:17:14.53,Hanekawa,,0,0,0,,¿Habra alguien en este mundo que le guste el rakugo pero no le guste Manjuu Kowai?{Is there even someone in this world who likes rakugo \Nbut doesn't know Manjuu Kowai?}
+Dialogue: 0,0:17:14.53,0:17:16.30,Hanekawa,,0,0,0,,¡Ese es un hecho aterrador!{That's a scary fact!}
+Dialogue: 0,0:17:16.30,0:17:17.88,Mayoi,,0,0,0,,Aunque, amo Juuman Kowai.{I know Juuman Kowai though.}{充満怖いなら知ってる}
+Dialogue: 0,0:17:17.88,0:17:19.73,Hanekawa,,0,0,0,,Invertiste de nuevo la palabra.{You reversed the word again.}
+Dialogue: 0,0:17:20.02,0:17:22.22,Hanekawa,,0,0,0,,¿Que es Juuman Kowai?{What's Juuman Kowai?}{何ですか　充満怖いって}
+Dialogue: 0,0:17:22.22,0:17:26.89,Mayoi,x,0,0,0,,Antes de que lo supiera, los 100.000 yenes que tome prestados con una tarjeta se dispararon. ¡Que miedo!{Before I knew it, the 10,000 yen I casually took \Nin a card loan ballooned. So scary!}{軽い気持ちで借りたカードローンの１０万円が　いつの間にか膨れ上がって怖い怖い}
+Dialogue: 0,0:17:22.22,0:17:26.89,CommentaryHalf,x,0,0,0,,{\pos(1480,1078)}(kowai){Before I know it, the 10,000 (juuman) yen I casually took in a card loan has ballooned. So scary (kowai)!}
+Dialogue: 0,0:17:22.22,0:17:26.89,CommentaryHalf,x,0,0,0,,{\pos(1090,930)}(juuman){Before I know it, the 10,000 (juuman) yen I casually took in a card loan has ballooned. So scary (kowai)!}
+Dialogue: 0,0:17:26.89,0:17:28.30,Hanekawa,,0,0,0,,¡Esa si es una deuda!{That's a debt!}
+Dialogue: 0,0:17:28.30,0:17:29.97,Hanekawa,,0,0,0,,¡Da muchísimo miedo!{That's really scary!}
+Dialogue: 0,0:17:29.97,0:17:31.02,Mayoi,,0,0,0,,¡Manjuu Koiwa!{Manjuu Koiwa!}
+Dialogue: 0,0:17:31.15,0:17:34.67,Hanekawa,,0,0,0,,¿Qué? ¿Ahora también invertiste "kowai"?{What? This time you reversed "kowai" too.}
+Dialogue: 0,0:17:34.67,0:17:35.54,Hanekawa,,0,0,0,,¿Koiwa?{Koiwa?}
+Dialogue: 0,0:17:35.54,0:17:39.90,CommentaryHalf,,0,0,0,,{\an8}NdT: {\i1}manjuu{\i0}, un plato típico (una golosina) de la cultura japonesa hecho a partir de harina, polvo de arroz y alforfón con un relleno interno de anko (pasta de judía y azúcar).
+Dialogue: 0,0:17:35.54,0:17:37.22,Mayoi,,0,0,0,,Mastiqué un manjuu...{I chomped on a manjuu...}{饅頭をガブっと噛んだら}
+Dialogue: 0,0:17:37.22,0:17:38.66,Mayoi,,0,0,0,,...y encontré que no tenía por dentro pasta de judía roja...{...and found that it \Nwasn't red bean paste inside...}{中身が餡子じゃなくて}
+Dialogue: 0,0:17:38.66,0:17:39.90,Mayoi,,0,0,0,,...sino una piedra pequeña!{...but a tiny rock!}{小さな岩だった}
+Dialogue: 0,0:17:38.66,0:17:39.90,CommentaryHalf,,0,0,0,,{\pos(1054,990)}(ko-iwa){...but a tiny rock (ko-iwa)!}
+Dialogue: 0,0:17:39.90,0:17:41.34,Mayoi,,0,0,0,,¡Manjuu Koiwa!{Manjuu Koiwa!}
+Dialogue: 0,0:17:41.34,0:17:43.31,Hanekawa,,0,0,0,,Ese rakugo no estuvo gracioso.{That rakugo isn't funny.}
+Dialogue: 0,0:17:43.31,0:17:46.52,Mayoi,x,0,0,0,,Pero la gente estaría impresionada si dije algo bien.{But people might be impressed \Nthat I said something good.}
+Dialogue: 0,0:17:46.52,0:17:47.62,Mayoi,x,0,0,0,,El manjuu estaba rico.{The manjuu being good.}
+Dialogue: 0,0:17:47.62,0:17:51.02,Hanekawa,,0,0,0,,¡Un manjuu con una piedra pequeña no va ser algo rico!{A manjuu with a tiny rock in it \Nisn't going to be good!}
+Dialogue: 0,0:17:51.02,0:17:52.35,Mayoi,,0,0,0,,Y ahora, el siguiente orador.{And now the next speaker.}{​お後がよろしいようで}
+Dialogue: 0,0:17:51.02,0:17:52.35,CommentaryHalf,,0,0,0,,{\pos(750,990)}(yoro){Y ahora (yoro), el siguiente orador.}{And now (yoro) the next speaker.}
+Dialogue: 0,0:17:52.35,0:17:56.70,Hanekawa,x,0,0,0,,Los invitados se van a ir mientras camina inestablemente, y las sillas se vaciaran.{The guests are gonna leave while walking unsteadily, \Nand the seats will be empty.}{足元よろよろしながら帰ることになりますよ　客席しいんで}
+Dialogue: 0,0:17:52.35,0:17:56.70,CommentaryHalf,x,0,0,0,,{\pos(705,1078)}(yoroyoro){Los invitados se van a ir mientras camina inestablemente (yoroyoro), y las sillas se vaciaran.}{The guests are gonna leave while walking unsteadily (yoroyoro) from the psychological effect.}
+Dialogue: 0,0:17:57.02,0:18:00.05,Mayoi,x,0,0,0,,Mira. La hermana vampiro se está sentando con una postura varonil.{Look. The vampire big sister \Nis sitting in such a manly posture.}{このね　吸血鬼のお姉さんの座り方が　男前でカッコいいと思わない？}
+Dialogue: 0,0:18:00.05,0:18:01.99,Mayoi,,0,0,0,,Que genial, ¿no lo crees?{How cool, don't you think so?}
+Dialogue: 0,0:18:01.99,0:18:04.09,Hanekawa,,0,0,0,,Finalmente volviste a hablar de lo que está en pantalla.{You finally returned to talking about the screen.}
+Dialogue: 0,0:18:04.09,0:18:09.52,Mayoi,x,0,0,0,,Pues, como parte de la nada amigable Combinación Loli, naturalmente estoy interesada en como lo está haciendo mi compañera.{Well, as part of the Unchummy Loli Combi, \NI'm naturally interested in how my partner is doing.}{いや　ほらやっぱ　仲悪しロリコンビとしては　パートナーの動向は気になるわけじゃない？}
+Dialogue: 0,0:18:09.52,0:18:13.53,Mayoi,,0,0,0,,Respetar al compañero es importante en una pista de comentarios.{Respect for one's fellow partner \Nis important in a commentary track.}
+Dialogue: 0,0:18:13.53,0:18:17.51,Hanekawa,,0,0,0,,¡Aun asi, sigues engañando a la gente!{Yet you keep tricking people over!}
+Dialogue: 0,0:18:17.62,0:18:20.86,Hanekawa,,0,0,0,,¿También estas tratando de engañarla?{Are you trying to trick her over too?}
+Dialogue: 0,0:18:20.86,0:18:23.12,Mayoi,,0,0,0,,¡La {\i1}nada amigable Combinación Loli{\i0}! ¡Yay!{Unchummy Loli Combi! Yay!}
+Dialogue: 0,0:18:23.12,0:18:27.40,Hanekawa,,0,0,0,,No creo que una chica de 21 y otra de 600 años sean una combinación loli.{I don't think a 21-year-old \Nand a 600-year-old would be a loli combi.}
+Dialogue: 0,0:18:27.40,0:18:31.10,Hanekawa,,0,0,0,,Supongo que debes corregir eso.{I guess you should correct that instead.}
+Dialogue: 0,0:18:31.10,0:18:33.15,Mayoi,,0,0,0,,¡La {\i1}nada amigable Combinación Adulta{\i0}! ¿Yay?{Unchummy Adult Combi! Yay?}
+Dialogue: 0,0:18:33.15,0:18:36.80,Hanekawa,,0,0,0,,No pareces tener confianza en que ambas sean adultas.{You don't seem confident \Nabout both of you being adults.}
+Dialogue: 0,0:18:36.80,0:18:38.77,Mayoi,,0,0,0,,Entonces, ¡la {\i1}amigable Combinación de Doñas{\i0}!{Let's go with Chummy Lady Combi!}
+Dialogue: 0,0:18:38.77,0:18:42.08,Hanekawa,,0,0,0,,¿De qué hablarían una amigable {\i1}Combinación de Doñas{\i0}?{What would a Chummy Lady Combi talk about?}
+Dialogue: 0,0:18:42.08,0:18:46.00,Hanekawa,,0,0,0,,Una destruyó el mundo y la otra está en un mundo destruido.{One destroyed the world, \Nand the other's in a destroyed world.}
+Dialogue: 0,0:18:46.00,0:18:48.80,Mayoi,x,0,0,0,,"Ah, en ese entonces éramos tan jóvenes, ¿cierto?"{"Aw, we were so young back then, right?"}{お互い若かったよね}
+Dialogue: 0,0:18:48.80,0:18:50.73,Mayoi,,0,0,0,,"Se que es tarde pero, ¡lo siento!"{"I know this is late, but I'm sorry!"}
+Dialogue: 0,0:18:50.73,0:18:53.46,Mayoi,,0,0,0,,"Está bien. Eso quedó en el pasado." ¿Algo así por el estilo?{"It's fine. That was the past after all!" \NLike this?}
+Dialogue: 0,0:18:53.46,0:18:57.27,Hanekawa,,0,0,0,,¡Eso no es algo que termine con una simple disculpa o que se pueda perdonar!{It isn't something that ends with a simple apology \Nor something that can just be forgiven!}{そんな軽いノリで謝るようなことでも許すようなことでもないし}
+Dialogue: 0,0:18:57.27,0:19:00.01,Hanekawa,,0,0,0,,Eso no esta tan en el pasado, ¿verdad?{It isn't that far back in the past, right?}{全然そこまで昔のことじゃないですよね}
+Dialogue: 0,0:19:00.01,0:19:04.74,Mayoi,x,0,0,0,,"Gracias a que destruiste el mundo en ese entonces, aun sigo viva".{"Thanks to you destroying \Nthe world back then, I'm still alive."}{いや　でもあの時世界を滅ぼしていたからこそ　今の私があるんだよね}
+Dialogue: 0,0:19:04.74,0:19:06.99,Hanekawa,,0,0,0,,Lo haces parecer como si fuera un error que cometió cuando era joven.{You make it seem like it was \Na mistake she committed when she was young.}{若いころの過ちみたいに言われても}
+Dialogue: 0,0:19:06.99,0:19:10.96,Hanekawa,,0,0,0,,Pero en ese entonces, esa vampiro tenía 600 años, ¿cierto?{But that vampire was around \N600 years old back then, right?}{それを言った吸血鬼さん　それをやった時ほぼ６００歳ですよね}
+Dialogue: 0,0:19:10.96,0:19:12.61,Mayoi,,0,0,0,,"En ese entonces, te odiaba..."{"Back then I hated you..."}{その時は恨んだけれど}
+Dialogue: 0,0:19:12.75,0:19:14.07,Mayoi,x,0,0,0,,"...pero, aprecio lo que hiciste ahora".{"...but I appreciate what you did now."}{今は感謝してるな}
+Dialogue: 0,0:19:14.25,0:19:17.82,Hanekawa,x,0,0,0,,Incluso si lo haces parecer como si alguien que fuera regañada duramente por sus malas acciones en el pasado...{Even if you make her seem like someone \Nwho is harshly scolded for her bad deeds in her past...}{昔悪さをして厳しく怒られた人みたいに言われても}
+Dialogue: 0,0:19:17.82,0:19:20.27,Hanekawa,x,0,0,0,,...no importa el tiempo que pase, ¡no podrías apreciar lo que hizo ella!{...no matter how much time passes, \Nyou can't possibly appreciate what she did!}{いつまで経っても感謝はできないでしょう　世界を滅ぼされたら}
+Dialogue: 0,0:19:20.27,0:19:21.79,Hanekawa,,0,0,0,,¡Ella destruyó el mundo!{She destroyed the world!}
+Dialogue: 0,0:19:21.79,0:19:27.80,Mayoi,,0,0,0,,Pero después de esto, Araragi Koyomi-kun y Oshino Shinobu-chan revivieron el mundo destruido, ¿verdad?{But after this, Araragi Koyomi-kun \Nand Oshino Shinobu-chan revived the destroyed world, right?}{ただこの後　阿良々木暦くんと忍野忍ちゃんが　滅んだ世界を復活させてくれるだよね}
+Dialogue: 0,0:19:27.80,0:19:30.81,Hanekawa,,0,0,0,,Pero no volvió completamente a la normalidad, ¿cierto?{But it didn't completely return to normal, right?}
+Dialogue: 0,0:19:30.81,0:19:31.47,Mayoi,,0,0,0,,Sip...{Yeah...}
+Dialogue: 0,0:19:31.60,0:19:34.67,Mayoi,x,0,0,0,,La reconstrucción de la zona es mi futuro trabajo.{The revival after that is my job.}{その辺りの復興が　これからの私の課題だね}
+Dialogue: 0,0:19:35.26,0:19:38.74,CommentaryDefault,,0,0,0,,¿Podrias acariciar mi cabeza?{Can you pat me on the head?}
+Dialogue: 0,0:19:38.88,0:19:40.78,Mayoi,,0,0,0,,¡Qué gran escena!{What a great scene here!}
+Dialogue: 0,0:19:40.78,0:19:42.18,Mayoi,,0,0,0,,¡Quedé sin palabras!{I'm speechless!}{私が黙っちゃう}
+Dialogue: 0,0:19:42.18,0:19:44.31,Hanekawa,,0,0,0,,En efecto, es increíble.{That's incredible indeed then.}{それは確かによっぽどですね}
+Dialogue: 0,0:19:44.31,0:19:46.46,Hanekawa,,0,0,0,,¿Mayoi-oneesan se quedó sin palabras?{Mayoi-oneesan speechless?}{マヨイお姉さんが黙るだなんて}
+Dialogue: 0,0:19:46.46,0:19:52.85,Mayoi,x,0,0,0,,¿Viste a la pequeña Oshino Shinobu-chan girando su cabeza como si estuviera de mal humor? ¡Que linda!{Did you see tiny Oshino Shinobu-chan turning \Nher head aside as if sulking? How cute!}{あの　小っちゃい方の忍野忍さんが　ぷいって拗ねるみたいに　顔を逸らすとこが可愛いの}
+Dialogue: 0,0:19:52.85,0:19:55.08,Mayoi,,0,0,0,,Me pregunto en que estaba pensando.{I wonder what she was thinking.}
+Dialogue: 0,0:19:55.08,0:19:57.14,Hanekawa,,0,0,0,,Ese es un pequeño detalle que notaste.{That's a tiny detail you noticed.}{注目点が細かいですね}
+Dialogue: 0,0:19:57.14,0:19:59.51,Mayoi,,0,0,0,,Hmm, ¿así que aquí termina la Parte B?{Umm, so Part B ends here?}
+Dialogue: 0,0:19:59.51,0:20:01.60,Hanekawa,,0,0,0,,Aun no se acaba la Parte B.{Part B isn't over.}
+Dialogue: 0,0:20:01.60,0:20:04.06,Hanekawa,,0,0,0,,Pero, una vez que termine la escena, viene el epilogo.{But once this scene is over, it's the epilogue.}
+Dialogue: 0,0:20:04.06,0:20:05.62,Mayoi,,0,0,0,,Ya veo. Un pielogo.{I see. A pielogue?}{ピエローグ}
+Dialogue: 0,0:20:05.62,0:20:07.30,Hanekawa,,0,0,0,,Volviste a invertir la palabra.{You reversed the word again.}
+Dialogue: 0,0:20:07.30,0:20:08.91,Hanekawa,,0,0,0,,¿Que es un pielogo.{What's a pielogue?}
+Dialogue: 0,0:20:08.91,0:20:10.31,Mayoi,,0,0,0,,¿Tal vez cuando habla un pierrot?{Maybe where a pierrot talks?}
+Dialogue: 0,0:20:08.91,0:20:10.31,CommentaryHalf,,0,0,0,,{\pos(1240,990)}(payaso){(clown)}{¿Tal vez cuando habla un pierrot(payaso)?}{Maybe where a pierrot (clown) talks?}
+Dialogue: 0,0:20:10.31,0:20:11.55,Hanekawa,,0,0,0,,¿Quizás?{Maybe?}
+Dialogue: 0,0:20:11.55,0:20:16.19,Mayoi,,0,0,0,,Y así, Araragi Koyomi-kun volvió con seguridad a su mundo original.{And so, Araragi Koyomi-kun safely \Nreturns to his original world.}
+Dialogue: 0,0:20:16.19,0:20:17.50,Mayoi,,0,0,0,,¡Gracias a Dios!{Thank goodness!}
+Dialogue: 0,0:20:17.50,0:20:19.01,Mayoi,,0,0,0,,¡Estaba muy preocupada por el!{I was so worried about him!}
+Dialogue: 0,0:20:19.19,0:20:20.71,Mayoi,,0,0,0,,Me preguntaba que iba a pasar.{I was wondering what was going to happen.}{あの後どうなったのかなって}
+Dialogue: 0,0:20:20.71,0:20:23.45,Hanekawa,,0,0,0,,Pero, ¿no eres alguien que no sabe nada de la situación?{But aren't you someone who knows \Nnothing about the situation?}
+Dialogue: 0,0:20:23.45,0:20:26.55,Hanekawa,,0,0,0,,¡Al momento que pongas un pie fuera de esa cabina, lo olvidaras todo!{The moment you step out of this booth, \Nyou'll forget everything!}
+Dialogue: 0,0:20:26.55,0:20:28.61,Mayoi,,0,0,0,,Aun si olvido todo, solo recordaré una cosa.{Even if I forget everything, \NI'll remember only one thing.}
+Dialogue: 0,0:20:28.77,0:20:30.38,Mayoi,,0,0,0,,Esta sensación.{This feeling.}
+Dialogue: 0,0:20:30.38,0:20:32.31,Hanekawa,x,0,0,0,,¡No lo hagas sonar tan convincente!{Don't make it sound so convincing!}
+Dialogue: 0,0:20:32.43,0:20:34.00,Hanekawa,,0,0,0,,¿Qué quieres decir con esta sensación?{What do you mean, this feeling?}
+Dialogue: 0,0:20:34.00,0:20:35.30,Mayoi,,0,0,0,,Hmm, ¿que era?{Umm, what was it?}
+Dialogue: 0,0:20:35.41,0:20:37.81,Mayoi,,0,0,0,,"Algo paso, pero ¿cómo es que era?"{"Something happened, but what was it?"}{何かあったはずなんだけどなんだったかな}
+Dialogue: 0,0:20:37.81,0:20:40.04,Mayoi,x,0,0,0,,"Llegué tan lejos, pero sabes..."{"It came this far, but you know..."}
+Dialogue: 0,0:20:40.14,0:20:42.80,Mayoi,,0,0,0,,"Olvidalo. No lo recuerdo". Esa clase de sensación.{"Never mind, I can't remember." \NThat sort of feeling.}
+Dialogue: 0,0:20:42.80,0:20:45.81,Hanekawa,,0,0,0,,¿Cuál es el punto de recordar la sensación de olvidar algo?{What's the point of remembering \Nthe feeling of forgetting something?!}
+Dialogue: 0,0:20:45.96,0:20:49.71,Hanekawa,,0,0,0,,Deberias preocuparte por revivir tu propio mundo.{You should just worry \Nabout reviving your own world.}
+Dialogue: 0,0:20:49.83,0:20:50.98,Mayoi,,0,0,0,,No te preocupes.{Don't worry.}
+Dialogue: 0,0:20:50.98,0:20:55.88,Mayoi,,0,0,0,,Seguro que Oshino Shinobu-chan usó su habilidad para crear materia para reparar las edificaciones y el resto de cosas.{I'm sure Oshino Shinobu-chan used her ability \Nto create matter to repair the buildings and stuff.}{建物やらは　忍野忍ちゃんが　物質創造能力で直していてくれたはずだから}
+Dialogue: 0,0:20:55.88,0:20:59.61,Hanekawa,,0,0,0,,¡Oshino Shinobu-chan ya no tiene ese clase de poderes!{Oshino Shinobu-san doesn't have \Nthat kind of power anymore!}
+Dialogue: 0,0:20:59.61,0:21:02.39,Hanekawa,,0,0,0,,Esperas demasiado de alguien de otra ruta.{You're expecting too much \Nfrom someone from another route.}{期待しすぎですよ　別ルートの人に}
+Dialogue: 0,0:21:03.67,0:21:04.45,CommentaryDefault,,0,0,0,,Espera un minuto.{Hang on.}
+Dialogue: 0,0:21:04.45,0:21:07.01,Mayoi,,0,0,0,,Acá el ambiente de pronto pasa a ser cómico.{The mood suddenly turns comical here.}
+Dialogue: 0,0:21:07.01,0:21:10.79,Hanekawa,,0,0,0,,Hace poco estaban hablando sobre si el mundo había sido destruido o no.{Just earlier they were talking about \Nwhether the world has been destroyed or not.}
+Dialogue: 0,0:21:10.79,0:21:13.49,Hanekawa,,0,0,0,,Pero ahora ha comenzado la ceremonia de apertura y el no hizo su tarea de verano.{But now the opening ceremony has started \Nand he hasn't done his summer homework.}{始業式で夏休みの宿題ですからね}
+Dialogue: 0,0:21:13.49,0:21:16.31,Mayoi,,0,0,0,,Después de todo, eso fue lo que comenzó esta cadena de eventos.{That was what started this \Nchain of events, after all.}
+Dialogue: 0,0:21:16.31,0:21:18.07,Hanekawa,,0,0,0,,Tal vez sea una forma rara de decirlo...{This might be a weird way to put it...}{可笑しいな言い方ですけれど}
+Dialogue: 0,0:21:18.07,0:21:20.94,Hanekawa,,0,0,0,,...pero me alegro que esta parte sea como en un anime normal.{...but I'm glad this part is like a normal anime.}{この辺り　普通なアニメっぽくっていいですよね}
+Dialogue: 0,0:21:21.06,0:21:23.79,Mayoi,,0,0,0,,Pero, es difícil definir un "anime normal", ¿correcto?{But it's hard to define a "normal anime," right?}{普通のアニメっていう基準も難しいですけれどね}
+Dialogue: 0,0:21:23.79,0:21:24.55,Hanekawa,,0,0,0,,Sip.{Yeah.}
+Dialogue: 0,0:21:24.55,0:21:25.75,Mayoi,,0,0,0,,¿Qué es un anime?{What is an anime?}
+Dialogue: 0,0:21:25.75,0:21:29.14,Hanekawa,,0,0,0,,¡¿Por qué traes a colación el tema más debatible para el final?!{Why are you bringing up \Nthe most arguable topic at the end?!}
+Dialogue: 0,0:21:29.14,0:21:30.57,Mayoi,,0,0,0,,¿Qué es un anime moderno?{What is a modern anime?}
+Dialogue: 0,0:21:30.57,0:21:31.60,Hanekawa,,0,0,0,,¡Detente!{Stop it!}
+Dialogue: 0,0:21:31.60,0:21:33.16,Hanekawa,,0,0,0,,¡No terminaremos a tiempo!{We won't wrap it up in time!}
+Dialogue: 0,0:21:33.16,0:21:34.08,Mayoi,x,0,0,0,,¡Misculpe! {Morry! Morry!} {momen, cambiando el go de "gomen" por mo}
+Dialogue: 0,0:21:34.08,0:21:35.84,Hanekawa,,0,0,0,,¡No tienes ninguna intención de disculparte!{You have zero intention of apologizing!}
+Dialogue: 0,0:21:35.84,0:21:36.96,Mayoi,,0,0,0,,Por ahora me disculpo.{For now I'll apologize.}{とりあえず謝って}
+Dialogue: 0,0:21:36.96,0:21:39.92,Mayoi,,0,0,0,,¡Misculpe por exagerar!{I'm morry for overdoing it!}{この場をやり過ごそうという意味では　一旦揉めん}
+Dialogue: 0,0:21:39.92,0:21:42.63,Hanekawa,,0,0,0,,¡Un lo siento no es exagerar!{Just a sorry won't overdo it!}
+Dialogue: 0,0:21:42.88,0:21:44.73,Mayoi,,0,0,0,,¡Ah! ¡Es mi yo-loli!{Ah! It's loli-me!}
+Dialogue: 0,0:21:44.73,0:21:45.78,Hanekawa,,0,0,0,,¿Yo-loli?{Loli-you?}
+Dialogue: 0,0:21:45.78,0:21:47.60,Mayoi,,0,0,0,,Pensé que no iba a aparecer más.{I thought I wasn't going to appear anymore.}
+Dialogue: 0,0:21:47.60,0:21:49.35,Mayoi,,0,0,0,,Me alegro que aún quede esta escena.{I'm glad there's still this scene.}
+Dialogue: 0,0:21:49.35,0:21:50.41,Hanekawa,,0,0,0,,¿En serio?{Really?}
+Dialogue: 0,0:21:50.41,0:21:56.27,Hanekawa,,0,0,0,,Usualmente pienso que las personas adultas se avergüenzan cuando ven a su contraparte joven.{I thought usually people are embarrassed \Nwhen they see their younger self once they've become an adult.}
+Dialogue: 0,0:21:56.27,0:21:57.72,Mayoi,,0,0,0,,¡Para nada!{No such thing!}
+Dialogue: 0,0:21:57.92,0:21:59.64,Mayoi,,0,0,0,,¡Vaya, que nostálgico!{My, how nostalgic!}
+Dialogue: 0,0:21:59.64,0:22:02.97,Mayoi,,0,0,0,,No puedo creer que mi yo pequeña creciera para convertirme en lo que soy ahora.{I can't believe that little me \Nhas grown into what I am now.}
+Dialogue: 0,0:22:02.97,0:22:04.38,Mayoi,,0,0,0,,¡Estos 10 años se sintieron como si fuera un día!{These 10 years felt like one day!}
+Dialogue: 0,0:22:02.97,0:22:04.38,CommentaryHalf,,0,0,0,,{\pos(960,990)}(juunen-ichijitsu){These 10 years felt like one day (juunen-ichijitsu)!}
+Dialogue: 0,0:22:04.38,0:22:08.67,Hanekawa,,0,0,0,,Creo que estas usando incorrectamente la frase "sin cambiar con el paso de los años".{I think you're using the phrase \N"without change over the years" incorrectly.}
+Dialogue: 0,0:22:04.38,0:22:08.67,CommentaryHalf,,0,0,0,,{\pos(1020,1078)}(juunen-ichijitsu = 10 años - 1 día){Creo que estas usando incorrectamente la frase "sin cambiar al pasar los años".}{(juunen-ichijitsu; literally: 10 years 1 day)}{I think you're using the phrase "without change over the years (juunen-ichijitsu; literally: 10 years 1 day)" wrongly.}
+Dialogue: 0,0:22:08.67,0:22:10.96,Hanekawa,x,0,0,0,,Pero así es como me siento.{But that's what I feel.}{私の感覚的にはあってますよ}
+Dialogue: 0,0:22:10.96,0:22:13.68,Mayoi,,0,0,0,,Eh, y así, ¡si algo agradable pasa, será lindo!{Umm, and so, \Nif something good happens, it'll be nice!}
+Dialogue: 0,0:22:13.68,0:22:16.41,Mayoi,,0,0,0,,Sus anfitrionas fueron "Mayoi-oneesan" Hachikuji Mayoi...{Your hosts were "Mayoi-oneesan" Hachikuji Mayoi...}
+Dialogue: 0,0:22:16.41,0:22:18.30,Hanekawa,,0,0,0,,¡Aun no! ¡Aun no estamos ahí!{Not yet! We aren't there yet!}
+Dialogue: 0,0:22:18.60,0:22:21.63,Hanekawa,,0,0,0,,¿Por qué de pronto tratas de terminar en el momento que te avergüenzas?{Why are you suddenly trying to end it \Nthe moment you become embarrassed?}
+Dialogue: 0,0:22:21.63,0:22:24.53,Mayoi,,0,0,0,,Supongo que después de todo, me avergüenzo de mi yo joven.{I guess I'm embarrassed \Nof my young self after all.}
+Dialogue: 0,0:22:24.53,0:22:27.71,Hanekawa,,0,0,0,,Pero aun sigues sin cambiar con el paso de los años.{But you're still without change over the years.}{やってることは変わらない十年一日ですけれど}
+Dialogue: 0,0:22:27.84,0:22:31.39,Hanekawa,,0,0,0,,Pero en ese entonces, eras educada al hablar...{But back then, you were polite in your speech...}{このころのマヨイお姉さんは　言葉遣いが丁寧だから}
+Dialogue: 0,0:22:31.39,0:22:32.95,Hanekawa,,0,0,0,,...así que no eras desagradable.{...so you weren't unpleasant.}{嫌味がないですよね}
+Dialogue: 0,0:22:32.95,0:22:35.61,Mayoi,,0,0,0,,¡No lo digas como si ahora fuera desagradable!{Don't say it like I'm unpleasant now!}
+Dialogue: 0,0:22:35.80,0:22:37.64,Mayoi,,0,0,0,,Pues, de eso se trata, ¿no es así?{Well, in that sense, there's that.}{そういう意味ではあれだよね}
+Dialogue: 0,0:22:37.76,0:22:42.65,Mayoi,,0,0,0,,Quiero escuchar una pista de comentarios con mi yo-loli y Tsubasa Hanekawa de 6 años.{I want to hear a commentary track by loli-me \Nand 6-year-old Hanekawa Tsubasa.}
+Dialogue: 0,0:22:42.65,0:22:46.01,Hanekawa,,0,0,0,,¡Detente! ¡No hagas tal sugerencia sin pensarlo!{Stop it! Don't make such a \Nsuggestion thoughtlessly!}
+Dialogue: 0,0:22:46.01,0:22:48.86,Hanekawa,,0,0,0,,Después de todo, ¡se puede hacer muy fácilmente!{It can be easily done, after all!}
+Dialogue: 0,0:22:48.86,0:22:51.43,Mayoi,,0,0,0,,Ya que Hachikuji-P puede dar la orden, ¿cierto?{Because Hachikuji P can give the order, right?}{八九寺Ｐが強権を発動するわけだね}
+Dialogue: 0,0:22:51.56,0:22:54.04,Mayoi,,0,0,0,,Ahora que lo pienso, aun no se ha hecho...{Come to think of it, it hasn't been done yet...}
+Dialogue: 0,0:22:54.04,0:22:58.45,Mayoi,x,0,0,0,,...pero hubo un plan en el pasado de una pista de comentarios entre Hanekawa y Black Hanekawa.{...but there was a plan for a commentary track \Nbetween Hanekawa and Black Hanekawa in the past.}
+Dialogue: 0,0:22:58.45,0:22:59.60,Mayoi,,0,0,0,,Hagamos una variante de eso.{Let's make it a variation of that.}
+Dialogue: 0,0:22:59.60,0:23:02.13,Mayoi,,0,0,0,,¿Que tal Hanekawa y la Hanekawa de 6 años?{How about Hanekawa and 6-year-old Hanekawa?}
+Dialogue: 0,0:23:02.13,0:23:03.20,Hanekawa,,0,0,0,,¡No!{No!}
+Dialogue: 0,0:23:03.20,0:23:06.48,Hanekawa,,0,0,0,,¿Por qué todos quieren escuchar que hable conmigo misma?{Why does everyone want to \Nhear me talking to myself?}
+Dialogue: 0,0:23:06.57,0:23:09.94,Hanekawa,x,0,0,0,,¡Más bien has uno con Hachikuji y la Hachikuji de 21!{Do one with Hachikuji \Nand 21-year-old Hachikuji instead!}
+Dialogue: 0,0:23:09.94,0:23:16.49,Mayoi,,0,0,0,,Pues, incluso si Hanekawa/Hanekawa de 6 y Hachikuji/Hachikuji de 21 sean ejemplos extremos...{Well, even if Hanekawa and 6-year-old Hanekawa, \Nand Hachikuji and 21-year-old Hachikuji are extreme examples...}{ま　羽川　６歳羽川とか　八九寺２１歳八九寺とか　それは極端な例にしても}
+Dialogue: 0,0:23:16.49,0:23:20.15,Mayoi,,0,0,0,,...creo que ya casi nos quedamos sin permutaciones y combinaciones para las pistas de comentarios.{...I think we're almost out of permutations \Nand combinations for commentary tracks.}{そろそろ　副音声の順列組み合わせも出尽くした感はあるよね}
+Dialogue: 0,0:23:20.15,0:23:20.91,Hanekawa,,0,0,0,,Sip.{Yeah.}
+Dialogue: 0,0:23:20.91,0:23:24.62,Hanekawa,,0,0,0,,Por cierto, siento que esta pareja de Hanekawa de 6 años y Hachikuji de 21...{By the way, I feel that this 6-year-old Hanekawa \Nand 21-year-old Hachikuji pairing...}{っていうか　この６歳羽川２１歳八九寺が　副音声の最果てという気がしますけれど}
+Dialogue: 0,0:23:24.62,0:23:27.62,Hanekawa,,0,0,0,,...es lo más lejos que llegaremos con estas pistas de comentarios.{...is the furthest we'll \Never go in commentary tracks.}
+Dialogue: 0,0:23:27.62,0:23:28.73,Mayoi,,0,0,0,,¿Quienes siguen en el próximo volumen?{Who is it next volume?}
+Dialogue: 0,0:23:28.73,0:23:29.31,Hanekawa,,0,0,0,,¿Sip?{Yes?}
+Dialogue: 0,0:23:29.31,0:23:31.64,Mayoi,,0,0,0,,Pues, ya que el final esta vez es especial...{Well, since the ending is special this time...}{いや　エンディングが特殊形態だから}
+Dialogue: 0,0:23:31.64,0:23:33.77,Mayoi,,0,0,0,,...es difícil estimar el tiempo...{...it's hard to estimate the time...}{ちょっとタイミングは計りづらいけれど}
+Dialogue: 0,0:23:33.77,0:23:36.03,Mayoi,,0,0,0,,...pero debería ser hora de hablar de ello, ¿cierto?{...but it should be time \Nto talk about that, right?}
+Dialogue: 0,0:23:36.03,0:23:37.38,Hanekawa,,0,0,0,,Ah, tienes razón.{Ah, you're right.}
+Dialogue: 0,0:23:37.48,0:23:40.21,Hanekawa,x,0,0,0,,Antes que nos diéramos cuenta, ya estamos en la Parte C.{Before we know it, we're already in Part C.}{何気にＣパートに突入しているんですよね}
+Dialogue: 0,0:23:40.21,0:23:44.19,Mayoi,x,0,0,0,,¿Sabes quién es la máxima autoridad en las pistas de comentarios, Hanekawa Tsubasa-chan?{Do you know who, highest authority \Nof the commentary tracks Hanekawa Tsubasa-chan?}
+Dialogue: 0,0:23:44.19,0:23:48.17,Hanekawa,,0,0,0,,¡Alto ahí! ¡No me nombres como el CEO de las pistas de comentarios!{Stop it! Don't appoint me \Nthe CEO of commentary tracks!}
+Dialogue: 0,0:23:48.17,0:23:50.92,Mayoi,,0,0,0,,¡De la Escuela Superior de Educación de Pistas de Comentarios, Hanekawa Tsubame-chan!{Highest institute of education \Nof commentary tracks, Hanekawa Tsubame-chan!}{副音声の最高学府　羽川つばめちゃん}
+Dialogue: 0,0:23:48.17,0:23:50.92,CommentaryHalf,,0,0,0,,{\pos(1200,1078)}(golondrina){(swallow)}{¡De la Escuela Superior de Educación de Pistas de Comentarios, Hanekawa Tsubame-chan(golondrina)!}{Highest institute of education of commentary tracks, Hanekawa Tsubame-chan (swallow)!}
+Dialogue: 0,0:23:50.92,0:23:51.34,Hanekawa,,0,0,0,,¿Eh?{Huh?}
+Dialogue: 0,0:23:51.53,0:23:53.16,Mayoi,,0,0,0,,Ah. Lo siento, cometí un error.{Ah. Sorry, I made a mistake.}
+Dialogue: 0,0:23:53.16,0:23:54.41,Mayoi,,0,0,0,,Quiero decir, me mordí la lengua.{I mean I bit my tongue.}
+Dialogue: 0,0:23:54.53,0:23:57.49,Hanekawa,,0,0,0,,No, no te la mordiste. ¡Solo cometiste un error común...{No, you didn't bite your tongue. \NYou just made a normal mistake...}
+Dialogue: 0,0:23:57.58,0:24:00.77,Hanekawa,x,0,0,0,,...con el nombre de la persona que ha estado presentando contigo este set de pistas de comentarios durante la última hora! {...about the name of the person who has been delivering \Nthis set of commentary tracks with you for the past hour!}{一時間共に副音声を送ってきた私の名前を}
+Dialogue: 0,0:24:00.90,0:24:02.00,Hanekawa,,0,0,0,,¿Tsubame-chan?{Tsubame-chan?}
+Dialogue: 0,0:24:02.00,0:24:08.43,Mayoi,,0,0,0,,Mira, en mi ruta, nunca me crucé con Hanekawa Tsubasa-chan.{Look, in my route, I didn't cross paths \Nwith Hanekawa Tsubasa-chan at all.}{ほら　だって　私のルートだと　私とハネカワ翼ちゃん　全くと言っていいほど接点がなかったからさ}
+Dialogue: 0,0:24:08.43,0:24:10.80,Mayoi,,0,0,0,,En realidad, ¡no se mucho de ti Tsubasa-chan!{Actually, I don't know much \Nabout you, Tsubasa-chan!}{実はよく知らないの　翼ちゃんのこと}
+Dialogue: 0,0:24:10.80,0:24:14.22,Hanekawa,x,0,0,0,,¿Como me puedes decir eso tan sinceramente al final de todo?{How could you say this so frankly \Nto me at the very end?}{最後の最後に　なんということをぶっちゃけてくれるんですか}
+Dialogue: 0,0:24:14.22,0:24:17.35,Mayoi,,0,0,0,,Si no hubiera conocido a Araragi Koyomi-kun en ese parque...{If I didn't meet \NAraragi Koyomi-kun in that park...}
+Dialogue: 0,0:24:17.35,0:24:21.20,Mayoi,,0,0,0,,...eso significa que tampoco no te hubiera conocido, Hanekawa Tsubasa-chan.{...that means I also didn't meet you, \NHanekawa Tsubasa-chan.}
+Dialogue: 0,0:24:21.20,0:24:22.68,Hanekawa,,0,0,0,,Tienes razón.{You're right.}
+Dialogue: 0,0:24:22.80,0:24:24.86,Mayoi,,0,0,0,,Así que... ¿cuál es la correcta?{So... which one is correct?}
+Dialogue: 0,0:24:24.86,0:24:27.05,Mayoi,,0,0,0,,¿Hanekawa Tsubame o Hanekawa Tsubasa?{Hanekawa Tsubame and Hanekawa Tsubasa?}
+Dialogue: 0,0:24:27.05,0:24:28.12,Hanekawa,,0,0,0,,¡Es Tsubasa!{It's Tsubasa!}
+Dialogue: 0,0:24:28.12,0:24:29.06,Mayoi,,0,0,0,,Entiendo.{I see.}
+Dialogue: 0,0:24:29.06,0:24:32.65,Mayoi,x,0,0,0,,Llamarte Salvaje-chan me dio un efecto prolongado.{Calling you Savage-chan just \Nnow gave me a lingering effect.}{さっき殺伐ちゃんって言った時に　引っ張られちゃったんだね}
+Dialogue: 0,0:24:32.65,0:24:36.85,Hanekawa,,0,0,0,,Aun si explicaras porque la embarraste, no alivianaría tus crímenes.{Even if you explain why you got it wrong, \Nit doesn't lighten your crimes.}
+Dialogue: 0,0:24:37.38,0:24:41.14,Hanekawa,,0,0,0,,¿Entonces, como es que era? ¿Qué era eso de la Escuela de Educación Superior?{So what was it again? What was it about \Nthe highest institute of education?}
+Dialogue: 0,0:24:41.14,0:24:44.02,Mayoi,,0,0,0,,Ese tema ya murió, no lo traigas de vuelta.{That topic is dead, so don't bring it up again.}{その件はもう死んだから振れないであげて}
+Dialogue: 0,0:24:44.19,0:24:46.46,Mayoi,x,0,0,0,,Estábamos hablando sobre el elenco de las pistas de comentarios.{We were talking about \Nthe commentary track casting lineup.}{副音声のキャスティングの話だったよ}
+Dialogue: 0,0:24:46.54,0:24:47.50,Hanekawa,,0,0,0,,Sip.{Yeah.}
+Dialogue: 0,0:24:47.50,0:24:50.95,Mayoi,,0,0,0,,Necesito volver a mi mundo, así que no se...{I need to return to my world, so I don't know...}
+Dialogue: 0,0:24:50.95,0:24:52.23,Mayoi,,0,0,0,,...pero, ¿tú lo sabes, Tsubasa-chan?{...but do you know, Tsubasa-chan?}
+Dialogue: 0,0:24:52.23,0:24:54.68,Hanekawa,,0,0,0,,Yo también tengo que volver.{I have to go back too.}
+Dialogue: 0,0:24:54.68,0:24:58.86,Hanekawa,,0,0,0,,Más que volver a mi mundo, tengo que volver a mi época.{Rather than returning to my world, \NI have to return to my era.}
+Dialogue: 0,0:24:59.15,0:25:02.52,Hanekawa,,0,0,0,,Pero conozco el elenco del siguiente volumen.{But I know the casting lineup \Nfor the next volume.}
+Dialogue: 0,0:25:02.52,0:25:04.52,Mayoi,,0,0,0,,¡Oh! ¡Por supuesto que lo sabes!{Oh! Of course you do!}
+Dialogue: 0,0:25:04.52,0:25:06.78,Mayoi,,0,0,0,,Lo sabes todo, ¿no es así, Tsubasa-chan?{You know everything, don't you, Tsubasa-chan?}
+Dialogue: 0,0:25:06.78,0:25:08.07,Hanekawa,,0,0,0,,No lo se todo.{I don't know everything.}
+Dialogue: 0,0:25:08.07,0:25:09.39,Hanekawa,,0,0,0,,Solo se más que tú.{I just know more than you do.}
+Dialogue: 0,0:25:09.39,0:25:10.31,Mayoi,,0,0,0,,¡Que dura eres!{How harsh!}
+Dialogue: 0,0:25:10.31,0:25:13.10,Hanekawa,,0,0,0,,El siguiente volumen será esta combinación. Las Hermanas Onmyou.{Next volume will be that combi. \NThe Onmyou Sisters.}
+Dialogue: 0,0:25:13.10,0:25:14.49,Mayoi,,0,0,0,,¿Las Hermanas Onmyou?{Onmyou Sisters?}
+Dialogue: 0,0:25:14.49,0:25:17.76,Mayoi,,0,0,0,,Ah. Kagenui Yozoru-san y Ononoki Yotsugi-chan.{Ah. Kagenui Yozuru-san and Ononoki Yotsugi-chan.}
+Dialogue: 0,0:25:17.76,0:25:18.59,Hanekawa,,0,0,0,,Correcto.{Yes.}
+Dialogue: 0,0:25:18.59,0:25:22.79,Hanekawa,,0,0,0,,Esa combinación estuvo a cargo de las pistas de comentarios del último volumen en {\i1}Nekomonogatari Kuro{\i0}.{That combi that was in charge of the commentary tracks \Nfor the last volume of Nekomonogatari Kuro.}
+Dialogue: 0,0:25:22.95,0:25:25.14,Hanekawa,,0,0,0,,Su trabajo fue altamente aclamado...{Their work was highly acclaimed...}
+Dialogue: 0,0:25:25.14,0:25:27.46,Hanekawa,x,0,0,0,,...así que se decidió su retorno.{...so their return has already been decided.}{再出演}
+Dialogue: 0,0:25:27.46,0:25:28.43,Mayoi,,0,0,0,,¿Oh?{Oh?}
+Dialogue: 0,0:25:28.64,0:25:31.24,Mayoi,,0,0,0,,Pero, aparte de Ononoki Yotsugi-chan...{But Ononoki Yotsugi-chan aside...}
+Dialogue: 0,0:25:31.24,0:25:35.42,Mayoi,,0,0,0,,...si recuerdo bien, en {\i1}Monogatari Series{\i0}, Segunda Temporada, Kagenui Yozoru-san—{...if I recall, in Monogatari Series \NSecond Season, Kagenui Yozuru-san—}
+Dialogue: 0,0:25:35.42,0:25:37.56,Hanekawa,,0,0,0,,¡Shuus! ¡No digas más!{Shh! Don't say any more!}
+Dialogue: 0,0:25:37.68,0:25:38.61,Mayoi,,0,0,0,,¡Terminó!{Finished!}
+Dialogue: 0,0:25:40.51,0:25:42.39,Mayoi,x,0,0,0,,Y ahora, el adelanto.{And so, it's the preview.}
+Dialogue: 0,0:25:42.54,0:25:44.31,Mayoi,,0,0,0,,¿Así que {\i1}Otorimonogatari{\i0} es el próximo volumen?{So it's Otorimonogatari next volume?}
+Dialogue: 0,0:25:44.53,0:25:46.21,Mayoi,,0,0,0,,¡Es de Sengoku Nadeko-chan!{That's Sengoku Nadeko-chan!}
+Dialogue: 0,0:25:46.21,0:25:48.25,Mayoi,,0,0,0,,¡Seguro que será una linda historia!{I'm sure it'll be a cute story!}
+Dialogue: 0,0:25:48.25,0:25:50.55,Hanekawa,,0,0,0,,Entonces te vas a decepcionar.{You're going to be disappointed then.}{その気持ちで見ると　心折れるますよ}
+Dialogue: 0,0:25:50.55,0:25:53.28,Mayoi,,0,0,0,,Y así, Tsubasa-chan, ¿tienes algo más para decir?{And so, Tsubasa-chan, \Ndo you have anything else to say?}
+Dialogue: 0,0:25:53.28,0:25:56.16,Hanekawa,,0,0,0,,¡No actúes como si fueras un MC tratando de hacer un cierre!{Don't act like an MC trying \Nto bring things to a close!}{最後にＭＣ側で締めようとしないでください}
+Dialogue: 0,0:25:56.16,0:26:00.23,Mayoi,x,0,0,0,,Me pregunto si te volverás más estricta de aquí en adelante.{I wonder if you'll become even stricter from here on.}{これでまた　この先　翼ちゃんの性格が厳しくなるのかな}
+Dialogue: 0,0:26:00.23,0:26:02.85,Hanekawa,,0,0,0,,La próxima vez, ¡destruiré el mundo!{Next time I'll destroy the world!}
+Dialogue: 0,0:26:02.85,0:26:03.91,Mayoi,,0,0,0,,¡No es gracioso!{Not funny!}
+Dialogue: 0,0:26:03.91,0:26:05.12,Hanekawa,,0,0,0,,¿Eh? ¿No es gracioso?{Not funny, eh?}
+Dialogue: 0,0:26:05.25,0:26:07.59,Mayoi,,0,0,0,,Pero aquí es donde en serio nos despedimos.{But this is where we say goodbye for real.}
+Dialogue: 0,0:26:07.76,0:26:10.73,Mayoi,,0,0,0,,¡Continuemos con nuestros propios caminos de aquí en adelante!{Let's all continue walking \Ndown our own path from here!}
+Dialogue: 0,0:26:10.99,0:26:16.17,Mayoi,,0,0,0,,Para {\i1}Kabukimonogatari, Mayoi Jiangshi Volumen 2{\i0}, sus anfitrionas de estas pistas de comentarios fueron Doña Hachikuji Mayoi... {For Kabukimonogatari  Mayoi Jiangshi Volume 2, \Nyour commentary hosts were Lady Hachikuji Mayoi...}
+Dialogue: 0,0:26:16.17,0:26:20.10,Hanekawa,x,0,0,0,,...y ¡"si algo agradable pasa, será lindo" Hanekawa Tsubasa (de 6 años)!{...and "If something good happens, it'll be fine" \NHanekawa Tsubasa (6 years old)!}
+Dialogue: 0,0:26:20.10,0:26:21.21,Mayoi,,0,0,0,,{\i1}¡Nos vemos pronto!{\i0}{See you again!}
+Dialogue: 0,0:26:21.21,0:26:22.38,Hanekawa,,0,0,0,,¡Detente!{Stop it!}
