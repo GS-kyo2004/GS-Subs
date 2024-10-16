@@ -14,7 +14,7 @@ Porque no tengo ni los recursos ni el tiempo para darle de lleno a esto (además
 
 Por el momento, he trabajado/traducido lo siguiente:
 
-- **Monogatari Series (Audio Comentarios) - [40/106] (37.73%)**
+- **Monogatari Series (Audio Comentarios) - [40/106] (38.67%)**
   - Bakemonogatari [15/15] (_Completado_)
   - Nisemonogatari [13/13] (_Completado_)
   - Nekomonogatari Kuro [04/04] (_Completado_)
