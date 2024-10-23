@@ -21,7 +21,7 @@ Por el momento, he trabajado/traducido lo siguiente:
   - Nekomonogatari Shiro [05/05] (_Completado_)
   - Kabukimonogatari: [04/04] (_Completado_)
   - Hanamonogatari: [_Sin empezar_]
-  - Otorimonogatari: [00/04] [_Sin empezar_]
+  - Otorimonogatari: [00/04] [_En Traducción Ep 1_]
   - Onimonogatari: [_Sin empezar_]
   - Koimonogatari: [_Sin empezar_]
   - Tsukimonogatari: [_Sin empezar_]
