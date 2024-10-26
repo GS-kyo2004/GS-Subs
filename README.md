@@ -14,14 +14,14 @@ Porque no tengo ni los recursos ni el tiempo para darle de lleno a esto (además
 
 Por el momento, he trabajado/traducido lo siguiente:
 
-- **Monogatari Series (Audio Comentarios) - [41/106] (38.67%)**
+- **Monogatari Series (Audio Comentarios) - [42/106] (39.62%)**
   - Bakemonogatari [15/15] (_Completado_)
   - Nisemonogatari [13/13] (_Completado_)
   - Nekomonogatari Kuro [04/04] (_Completado_)
   - Nekomonogatari Shiro [05/05] (_Completado_)
   - Kabukimonogatari: [04/04] (_Completado_)
   - Hanamonogatari: [_Sin empezar_]
-  - Otorimonogatari: [00/04] [_En Traducción Ep 1_]
+  - Otorimonogatari: [01/04] [_En Traducción Ep 2_]
   - Onimonogatari: [_Sin empezar_]
   - Koimonogatari: [_Sin empezar_]
   - Tsukimonogatari: [_Sin empezar_]
