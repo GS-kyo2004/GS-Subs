@@ -4,7 +4,7 @@ Bienvenidos a este pequeño espacio de traducciones sencillas hechas a mano por 
 
 ### ¿Qué encontrarán en este lugar?
 
-No mucho la verdad, solo archivos de traducción de algunos animes que he trabajado durante los ultimos 2-3 años. Especificamente, animes basados en las obras de NisioisiN.
+No mucho la verdad, solo archivos de traducción de algunos animes que he trabajado durante los ultimos 3-4 años. Especificamente, animes basados en las obras de NisioisiN.
 
 ### ¿Por qué solo subtitulos?
 
