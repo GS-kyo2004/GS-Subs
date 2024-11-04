@@ -28,8 +28,14 @@ Por el momento, he trabajado/traducido lo siguiente:
   - Owarimonogatari: [_Sin empezar_]
   - Koyomimonogatari: [_Sin empezar_]
   - Kizumonogatari: [_Sin empezar_]
+    - Tekketsu: [_Sin empezar_]
+    - Nekketsu: [_Sin empezar_]
+    - Reiketsu: [_Sin empezar_]
+    - Koyomi Vamp: [_Sin empezar_]
   - Owarimonogatari 2nd Season: [_Sin empezar_]
   - Zoku Owarimonogatari: [_Sin empezar_]
+  - Orokamonogatari: [_BD sale a la venta 2024/12/11_] (_No hay subs en ingles_)
+  - Nademonogatari: [_BD 1 sale a la venta 2025/01/08_] (_No hay subs en ingles_)
 - **Monogatari Series Extras**
   - 001 - Tsubasa Monologue (Extras Nekomonogatari Shiro BD) [_Completado_]
   - 061 - Hanekawa's Letter (Extras Nekomonogatari Shiro BD) [_Completado_]
