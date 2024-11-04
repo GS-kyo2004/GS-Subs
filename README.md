@@ -38,7 +38,7 @@ Por el momento, he trabajado/traducido lo siguiente:
   - Nademonogatari: [_BD 1 sale a la venta 2025/01/08_] (_No hay subs en ingles_)
 - **Monogatari Series Extras**
   - 001 - Tsubasa Monologue (Extras Nekomonogatari Shiro BD) [_Completado_]
-  - 061 - Hanekawa's Letter (Extras Nekomonogatari Shiro BD) [_Completado_]
+  - 061 - Hanekawa's Letter (Extras Nekomonogatari Shiro BD) [_Completado - Corregido por [JpU]_]
 - **Bishounen Tanteidan**
   - Web-DL: [_Completado_]
   - BD: [_04/12_] (_En Stand by_)
