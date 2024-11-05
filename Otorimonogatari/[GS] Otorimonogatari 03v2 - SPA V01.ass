@@ -15,10 +15,10 @@ Audio File: ../../../Monogatari Series - kyo2004 Ed/08. Otorimonogatari/Otorimon
 Video File: ../../../Monogatari Series - kyo2004 Ed/08. Otorimonogatari/Otorimonogatari - 03 - Nadeko Medusa - Part 3.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 688
-Active Line: 697
-Video Position: 35738
+Video Zoom Percent: 0.625000
+Scroll Position: 558
+Active Line: 559
+Video Position: 29040
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1436,7 +1436,7 @@ Dialogue: 0,0:01:01.95,0:01:04.26,Tsukihi,,0,0,0,,Tsukihi-chan es popular, por e
 Dialogue: 0,0:01:04.26,0:01:05.15,Karen,,0,0,0,,¡Puño Oneechan!{Oneechan Punch!}
 Dialogue: 0,0:01:05.15,0:01:05.91,Tsukihi,,0,0,0,,¡¿Puño?!{Punch?!}
 Dialogue: 0,0:01:06.16,0:01:07.84,Tsukihi,,0,0,0,,¡Me comí un Puño Oneechan!{I ate a Oneechan Punch!}
-Dialogue: 0,0:01:07.84,0:01:10.69,Karen,,0,0,0,,Si no quieres también comerte una Patada Oneechan, ¡entonces has una disculpa!{If you don't want to eat a Oneechan Kick too, \Nthen make a speech of remorse!}{お姉ちゃんキックも食らいたくなければ　反省の弁を述べろ}
+Dialogue: 0,0:01:07.84,0:01:10.69,Karen,,0,0,0,,Si no quieres también comerte una Patada Oneechan, ¡entonces discúlpate!{If you don't want to eat a Oneechan Kick too, \Nthen make a speech of remorse!}{お姉ちゃんキックも食らいたくなければ　反省の弁を述べろ}
 Dialogue: 0,0:01:10.69,0:01:13.29,Karen,,0,0,0,,¡Me estoy refiriendo a las maldades que están pasando en pantalla en estos momentos!{I'm referring to the evil deed that's \Nhappening on the screen right now!}{今画面で繰り広げられている悪事についてだ}
 Dialogue: 0,0:01:13.29,0:01:16.47,Tsukihi,,0,0,0,,¿Maldades? ¿Te refieres a esta charla amigable entre chicas?{Evil deed? You mean this friendly girl talk?}
 Dialogue: 0,0:01:16.47,0:01:18.22,Karen,,0,0,0,,¿Charla amigable entre chicas?{Friendly girl talk?}
@@ -1470,8 +1470,8 @@ Dialogue: 0,0:02:11.94,0:02:15.89,Tsukihi,,0,0,0,,...pero para mí, me siento ag
 Dialogue: 0,0:02:15.89,0:02:17.27,Karen,,0,0,0,,Tienes demasiado corazón.{You're too strong-hearted.}
 Dialogue: 0,0:02:17.27,0:02:20.56,Tsukihi,,0,0,0,,En realidad, seria lindo si Nadeko-chan me lo agradeciera.{Actually, it'll be nice \Nif Nadeko-chan thanks me for it.}{むしろ撫子ちゃんからお礼を言われてもいいくらいだと思ってる}
 Dialogue: 0,0:02:20.68,0:02:25.04,Tsukihi,,0,0,0,,"Por ti, Tsukihi-chan, me convertí en una diosa, ¡Gracias!"{"Because of you, Tsukihi-chan, \NI became a goddess. Thank you!"}
+Dialogue: 0,0:02:25.04,0:02:31.41,CommentaryHalf,,0,0,0,,{\an8}NdT: El precio limite a la baja es el valor negativo máximo permitido que tiene una acción o un bien en un día en el mercado de valores.{TL: The limit down price is the maximum allowable decline \Nin the price of a stock or commodity in a single trading day.}
 Dialogue: 0,0:02:25.04,0:02:27.41,Karen,,0,0,0,,¡En este momento, tus acciones están al precio límite a la baja!{Your stock is at its limit down price right now!}{月火ちゃんの株　今ストップ安だぜ}
-Dialogue: 0,0:02:25.04,0:02:27.41,CommentaryHalf,,0,0,0,,{\an8}NdT: El precio limite a la baja es el valor negativo máximo permitido que tiene una acción o un bien en un día en el mercado de valores.{TL: The limit down price is the maximum allowable decline \Nin the price of a stock or commodity in a single trading day.}
 Dialogue: 0,0:02:27.41,0:02:29.41,Tsukihi,,0,0,0,,Está bien. De todos modos no está listado en la bolsa de valores.{It's fine. It isn't listed on \Nthe stock exchange anyway.}{大丈夫　上場してないから}
 Dialogue: 0,0:02:29.41,0:02:31.41,Tsukihi,,0,0,0,,¡Yo decido mi propio valor de la acción!{I decide my own stock price!}{私の株価は私が決める}
 Dialogue: 0,0:02:31.62,0:02:33.94,Tsukihi,,0,0,0,,Nadeko-chan fue increíble al convertirse en una diosa...{Nadeko-chan was amazing for becoming a goddess...}
@@ -1679,7 +1679,7 @@ Dialogue: 0,0:09:36.87,0:09:37.89,Karen,,0,0,0,,¡Jajaja!{Ahaha!}
 Dialogue: 0,0:09:37.89,0:09:39.26,Karen,,0,0,0,,Ya veo, ya veo.{I see, I see.}
 Dialogue: 0,0:09:39.36,0:09:43.52,Karen,,0,0,0,,Por eso, me acerqué un poco a Niichan.{Because of that, \NI got a little closer to Niichan.}
 Dialogue: 0,0:09:43.52,0:09:44.76,Tsukihi,,0,0,0,,¡No fue un poco!{Not just a little!}
-Dialogue: 0,0:09:44.76,0:09:46.15,Tsukihi,,0,0,0,,¡Tsukihi-chan esta furiosa!{Tsukihi-chan is enraged!}
+Dialogue: 0,0:09:44.76,0:09:46.15,Tsukihi,,0,0,0,,¡Tsukihi-chan está furiosa!{Tsukihi-chan is enraged!}
 Dialogue: 0,0:09:46.15,0:09:47.23,Karen,,0,0,0,,¡No digas eso!{Don't say that!}
 Dialogue: 0,0:09:47.23,0:09:48.66,Tsukihi,,0,0,0,,¡Tsukihi-chan está sacando la lengua sonriendo!{Tsukihi-chan is sticking her tongue smiling!}{てへぺろ    }
 Dialogue: 0,0:09:48.66,0:09:51.48,Karen,x,0,0,0,,Pues, también me limpiaron la lengua.{Well, I got my tongue cleaned too.}{まあそのベロも私は磨かれちゃったんだけどな}
@@ -1812,7 +1812,7 @@ Dialogue: 0,0:14:26.71,0:14:27.81,Tsukihi,,0,0,0,,¡Es la Parte B!{It's Part B!}
 Dialogue: 0,0:14:27.81,0:14:29.34,Karen,,0,0,0,,¿Se supone que sea así de alegre?{Is it supposed to be that cheerful?}
 Dialogue: 0,0:14:29.34,0:14:30.56,Tsukihi,,0,0,0,,¡Estoy tan feliz!{I'm so cheerful!}
 Dialogue: 0,0:14:30.56,0:14:31.62,Tsukihi,,0,0,0,,¡Yay!{Yaaay!}
-Dialogue: 0,0:14:31.62,0:14:35.07,Karen,,0,0,0,,Anti-Nadeko-chan... sus flecos e incluso sus ojos son diferentes.{Anti-Nadeko-chan... Her bangs, \Nand even her eyes are different.}
+Dialogue: 0,0:14:31.62,0:14:35.07,Karen,,0,0,0,,Ofenadeko-chan... sus flecos e incluso sus ojos son diferentes.{Usando Ofenadeko, opción alternativa: Anti-Nadeko}{Anti-Nadeko-chan... Her bangs, \Nand even her eyes are different.}
 Dialogue: 0,0:14:35.07,0:14:36.92,Karen,,0,0,0,,Ya ni siquiera se quién es ella.{I don't even know who she is anymore.}
 Dialogue: 0,0:14:36.92,0:14:38.10,Tsukihi,,0,0,0,,No puedo apartar mis ojos de ella.{I can't turn my eyes away from her.}
 Dialogue: 0,0:14:38.10,0:14:39.30,Tsukihi,,0,0,0,,Sigue siendo Nadeko-chan.{This is still Nadeko-chan.}
@@ -1959,7 +1959,7 @@ Dialogue: 0,0:20:02.31,0:20:04.10,Tsukihi,,0,0,0,,¿Encontrar esa frase?{Finding
 Dialogue: 0,0:20:04.10,0:20:07.75,Tsukihi,,0,0,0,,No es como si hubiera buscado exhaustivamente la línea para poderme defender con ella.{It's not like I looked hard to find \Na line to defend myself with.}
 Dialogue: 0,0:20:07.75,0:20:09.72,Tsukihi,,0,0,0,,¿Simplemente no la dijo?{Didn't she just simply say it?}{普通に言ってたじゃん}
 Dialogue: 0,0:20:09.72,0:20:11.17,Karen,,0,0,0,,Pues, en efecto es correcto.{Well, that's true indeed.}
-Dialogue: 0,0:20:11.17,0:20:12.50,Tsukihi,,0,0,0,,"¡Tsukihi-cha tiene razón!"{"Tsukihi-chan is right!"}
+Dialogue: 0,0:20:11.17,0:20:12.50,Tsukihi,,0,0,0,,"¡Tsukihi-chan tiene razón!"{"Tsukihi-chan is right!"}
 Dialogue: 0,0:20:12.50,0:20:13.66,Tsukihi,,0,0,0,,"¡Tuskihi-chan es linda!"{"Tsukihi-chan is cute!"}
 Dialogue: 0,0:20:13.66,0:20:14.87,Tsukihi,,0,0,0,,"¡Tuskihi-chan es la número uno!"{"Tsukihi-chan number one!"}
 Dialogue: 0,0:20:14.87,0:20:16.48,Tsukihi,,0,0,0,,"¡Tsukihi-chan es mi mejor amiga!"{"Tsukihi-chan is my best friend!"}
